@@ -4,11 +4,47 @@
   "resources": [
     {
       "title": "April 3, 2011 Majority and Minority Report",
-      "path": "archive/PSI REPORT - Wall Street & the Financial Crisis-Anatomy of a Financial Collapse (FINAL 5-10-11) (1).pdf",
+      "path": "archive/PSI REPORT - Wall Street & the Financial Crisis-Anatomy of a Financial Collapse (FINAL 5-10-11).pdf",
       "format": "pdf",
       "mediatype": "application/pdf",
       "sources": [{
         "web": "http://www.hsgac.senate.gov/download/report-psi-staff-report-wall-street-and-the-financial-crisis-anatomy-of-a-financial-collapse"
+      }]
+    },
+    {
+      "title": "April 13, 2011 Report and Appendix, Part I",
+      "path": "archive/CHRG-112shrg57323.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "https://www.gpo.gov/fdsys/pkg/CHRG-112shrg57323/pdf/CHRG-112shrg57323.pdf"
+      }]
+    },
+    {
+      "title": "April 13, 2011 Report and Appendix, Part II",
+      "path": "archive/CHRG-112shrg66050.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "https://www.gpo.gov/fdsys/pkg/CHRG-112shrg66050/pdf/CHRG-112shrg66050.pdf"
+      }]
+    },
+    {
+      "title": "April 13, 2011 Report and Appendix, Part III",
+      "path": "archive/CHRG-112shrg66051",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "https://www.gpo.gov/fdsys/pkg/CHRG-112shrg66051/pdf/CHRG-112shrg66051.pdf"
+      }]
+    },
+    {
+      "title": "April 13, 2011 Report and Appendix, Part IV",
+      "path": "archive/CHRG-112shrg66052",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{
+        "web": "https://www.gpo.gov/fdsys/pkg/CHRG-112shrg66052/pdf/CHRG-112shrg66052.pdf"
       }]
     }
   ]
