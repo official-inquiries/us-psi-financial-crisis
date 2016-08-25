@@ -9,7 +9,7 @@ redirect_from:
 ## Read the Report
 
 ### Full Report (minus exhibits)
-* [Full text version](/senate-psi-financial-crisis/text/)
+* [Full text version](/psi-financial-crisis/text/)
 * [Original .PDF](http://www.hsgac.senate.gov/download/report-psi-staff-report-wall-street-and-the-financial-crisis-anatomy-of-a-financial-collapse)
 
 ### Original Report in Four Volumes (with exhibits)
