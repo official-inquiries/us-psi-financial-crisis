@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wall Street and the Financial Crisis: Anatomy of a Financial Collapse
+edit: true
+---
+
 United States Senate 
 PERMANENT SUBCOMMITTEE ON INVESTIGATIONS
 Committee on Homeland Security and Governmental Affairs
