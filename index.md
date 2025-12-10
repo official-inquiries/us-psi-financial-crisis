@@ -1,9 +1,5 @@
 ---
-layout: page
 title: Senate PSI report into the Financial Crisis
-edit: true
-redirect_from:
-  - /senate-psi-financial-crisis
 ---
 
 ## Read the Report
