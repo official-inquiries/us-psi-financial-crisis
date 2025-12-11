@@ -1,5 +1,5 @@
 ---
-title: Wall Street and the Financial Crisis: Anatomy of a Financial Collapse
+title: "Wall Street and the Financial Crisis: Anatomy of a Financial Collapse"
 ---
 
 United States Senate 
@@ -27,7 +27,7 @@ UNITED STATES SENATE
 
 April 13, 2011
 
-SENATOR CARL LEVIN
+SENATOR CARL LEVIN
 
 Chairman
 
@@ -136,7 +136,7 @@ Main Number: 202/224-9505
 
 Web Address: www.hsgac.senate.gov  [Follow Link to “Subcommittees,” to “Investigations”] 
 
-WALL STREET AND THE FINANCIAL CRISIS:
+WALL STREET AND THE FINANCIAL CRISIS:
 
 Anatomy of a Financial Collapse 
 
@@ -187,7 +187,7 @@ D. Shoddy Lending Practices. . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 i
 
-(2) WaMu Retail Lending. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   86
+(2) WaMu Retail Lending. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   86
 (a)
 Inadequate Systems and Weak Oversight. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   86
 (b) Risk Layering.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   90
@@ -242,7 +242,7 @@ C. Washington Mutual Examination History. . . . . . . . . . . . . . . . . . . . 
 
 ii
 
- 
+ 
 
 V.
 
@@ -306,7 +306,7 @@ E. Preventing Inflated Credit Ratings. . . . . . . . . . . . . . . . . . . . . .
 
 iii
 
-(2) New Developments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
+(2) New Developments. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
 (3) Recommendations. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
 1. Rank Credit Rating Agencies by Accuracy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316 
 2. Help Investors Hold CRAs Accountable. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 316
@@ -363,7 +363,7 @@ C.  Failing to Manage Conflicts of Interest:  Case Study of Goldman Sachs. . . .
 
 iv
 
- 
+ 
 
 (f) Profiting from the Big Short: Making “Serious Money”.. . . . . . . . . . . . . . . . . . 444
 (g) Goldman’s Records Confirm Large Short Position. . . . . . . . . . . . . . . . . . . . . . . 445 
@@ -413,7 +413,7 @@ Study Bank Use of Structured Finance. . . . . . . . . . . . . . . . . . . . . . 
 
 v
 
-Wall Street and The Financial Crisis: 
+Wall Street and The Financial Crisis: 
 
 Anatomy of a Financial Collapse 
 
@@ -472,7 +472,7 @@ Subcommittee has also reviewed documents prepared by or sent to or from banking 
 
 In November 2008, the Permanent Subcommittee on Investigations initiated its 
 
-B.  Overview 
+B.  Overview 
 
 (1)  High Risk Lending:  
  
@@ -533,7 +533,7 @@ increasingly to higher risk loans.  Over a four-year period, those higher risk l
 19% of WaMu’s loan originations in 2003, to 55% in 2006, while its lower risk, fixed rate loans 
 fell from 64% to 25% of its originations.  At the same time, WaMu increased its securitization of 
 
-3 
+3 
 
  
 subprime loans sixfold, primarily through its subprime lender, Long Beach Mortgage 
@@ -588,7 +588,7 @@ loan business as the “worst managed business” he had seen in his career.
 
  
 
-4 
+4 
 
  
 
@@ -652,7 +652,7 @@ The agency’s failure to restrain WaMu’s unsafe lending practices stemmed in 
 
 an OTS regulatory culture that viewed its thrifts as “constituents,” relied on bank management to 
 
-5 
+5 
 
  
 correct identified problems with minimal regulatory intervention, and expressed reluctance to 
@@ -708,7 +708,7 @@ The next chapter examines how inflated credit ratings contributed to the financi
 by masking the true risk of many mortgage related securities.  Using case studies involving 
 Moody’s Investors Service, Inc. (Moody’s) and Standard & Poor’s Financial Services LLC 
 
- 
+ 
 (S&P), the nation’s two largest credit rating agencies, the Subcommittee identified multiple 
 problems responsible for the inaccurate ratings, including conflicts of interest that placed 
 achieving market share and increased revenues ahead of ensuring accurate ratings.  
@@ -766,7 +766,7 @@ financial crisis.
 1 S&P issues ratings using the “AAA” designation; Moody’s equivalent rating is “Aaa.”  For ease of reference, this 
 Report will refer to both ratings as “AAA.” 
 
- 
+ 
 
 7 
 
@@ -831,7 +831,7 @@ The final chapter examines how investment banks contributed to the financial cri
 using as case studies Goldman Sachs and Deutsche Bank, two leading participants in the U.S. 
 mortgage market.   
 
-8 
+8 
 
  
 
@@ -890,7 +890,7 @@ From 2004 to 2008, Goldman was a major player in the U.S. mortgage market.  In 2
 
 and 2007 alone, it designed and underwrote 93 RMBS and 27 mortgage related CDO 
 
-9 
+9 
 
  
 securitizations totaling about $100 billion, bought and sold RMBS and CDO securities on behalf 
@@ -946,7 +946,7 @@ In the case of Timberwolf, Goldman sold the securities to its clients even as it
 securities were falling in value.  In some cases, Goldman knowingly sold Timberwolf securities 
 to clients at prices above its own book values and, within days or weeks of the sale, marked 
 
-10 
+10 
 
  
 down the value of the sold securities, causing its clients to incur quick losses and requiring some 
@@ -1002,7 +1002,7 @@ highest risk RMBS securities sold to the public.  Nearly a third of the RMBS sec
 
 The Subcommittee also examined a $1.1 billion CDO underwritten by Deutsche Bank 
 
-11 
+11 
 
  
 subprime loans originated by Fremont, Long Beach, and New Century, lenders well known 
@@ -1057,7 +1057,7 @@ magnified risk throughout the U.S. financial system.   The investment banks that
 sold, traded, and profited from mortgage related structured finance products were a major cause 
 of the financial crisis.  
 
-12 
+12 
 
  
 
@@ -1113,7 +1113,7 @@ safeguard taxpayer dollars by requiring banks with high risk structured finance
 products, including complex products with little or no reliable performance data, to 
 meet conservative loss reserve, liquidity, and capital requirements. 
 
- 
+ 
 
  
 
@@ -1178,7 +1178,7 @@ authority to facilitate the ability of investors to hold credit rating agencies 
 in civil lawsuits for inflated credit ratings, when a credit rating agency knowingly or 
 recklessly fails to conduct a reasonable investigation of the rated security. 
 
-14 
+14 
 
 3.  Strengthen CRA Operations.  The SEC should use its inspection, examination, and 
 regulatory authority to ensure credit rating agencies institute internal controls, credit 
@@ -1251,7 +1251,7 @@ in designing, marketing, and investing in structured finance products with risks
 cannot be reliably measured and naked credit default swaps or synthetic financial 
 instruments.  
 
-15 
+15 
 
 Understanding the recent financial crisis requires examining how U.S. financial markets 
 
@@ -1308,7 +1308,7 @@ banks had already begun to engage in securities and insurance activities, with t
 time being Citicorp’s 1998 merger with the Travelers insurance group. 
 8 Glass-Steagall Act, Section 16. 
 
-16 
+16 
 
 regulation.9  In 2000, Congress enacted the Commodity Futures Modernization Act which barred 
 federal regulation of swaps and the trillion-dollar swap markets, and which allowed U.S. banks, 
@@ -1370,7 +1370,7 @@ purchased Washington Mutual and Bear Stearns, creating the largest banks in U.S.
 controlled more than 10% of all U.S. deposits.  See, e.g., “Banks ‘Too Big To Fail’ Have Grown Even Bigger:  
 Behemoths Born of the Bailout Reduce Consumer Choice, Tempt Corporate Moral Hazard,” Washington Post 
 
-17 
+17 
 
 Over the last ten years, some U.S. financial institutions have not only grown larger and 
 
@@ -1424,7 +1424,7 @@ Lenders were required to keep a certain amount of capital for each loan they iss
 (8/28/2009).  Those banks plus Citigroup also issued one out of every two mortgages and two out of every three 
 credit cards.  Id.   
 
-18 
+18 
 
 By 2003, many lenders began using higher risk lending strategies involving the 
 
@@ -1478,7 +1478,7 @@ High Risk Mortgages.  The resulting increased demand for mortgage backed securit
 15 “Not What They Had In Mind: A History of Policies that Produced the Financial Crisis of 2008,” September 
 2009, Mercatus Center, http://mercatus.org/sites/default/files/publication/NotWhatTheyHadInMind(1).pdf. 
 
-19 
+19 
 
   
 
@@ -1538,7 +1538,7 @@ developed, including the VantageScore developed jointly by the three major credi
 Group Ltd., and TransUnion LLC, but the FICO score remains the most widely used credit score in U.S. financial 
 markets. 
 
-20 
+20 
 
 took effect after a specified event or period of time, to enable borrowers with less income to 
 make the initial, smaller loan payments.  Some qualified borrowers according to whether they 
@@ -1595,7 +1595,7 @@ loans, Alt A, and option payment loans, but not home equity loans, which means t
 understated. 
 23 Id. at 5. 
 
-an existing loan, rather than buy a new home.24
+an existing loan, rather than buy a new home.24
 GAO, many of these borrowers: 
 
   In addition, according to research performed by 
@@ -1655,7 +1655,7 @@ Century and Fremont, see section (D)(2)(c)-(d) of Chapter IV.
 27 8/2010 “Nonprime Mortgages:  Analysis of Loan Performance, Factors Associated with Defaults, and Data 
 Sources,” GAO, Report No. GAO-10-805 at 5, 11. 
 
-22 
+22 
 
 larger and sometimes caused borrowers to experience “payment shock” and default on their 
 loans.  To avoid the higher interest rate and the larger loan payment, many of the borrowers 
@@ -1708,7 +1708,7 @@ years leading up to the financial crisis was the home equity loan (HEL).  HELs p
                                                       
 287/28/2009 “Characteristics and Performance of Nonprime Mortgages,” GAO, Report No. GAO-09-848R at 12-13. 
 
-23 
+23 
 
 secured by the borrower’s equity in his or her home, which served as the loan collateral.  HELs 
 typically provided a lump sum loan amount that had to be repaid over a fixed period of time, 
@@ -1762,7 +1762,7 @@ Option ARMs as a separate loan category.
 32 See id. at 14. 
 33 Id.  
 
-24 
+24 
 
 Stated Income Loans.  Stated income loans were a more extreme form of low doc Alt A 
 loans, in that they imposed no documentation requirements and required little effort by the lender 
@@ -1821,7 +1821,7 @@ Exhibit 4/16-82.
 35 7/28/2009 “Characteristics and Performance of Nonprime Mortgages,” GAO, Report No. GAO-09-848R at 14. 
  
 
-25 
+25 
 
 bought the mortgage backed securities.  The investment banks were typically interested in loan 
 repayment rates only to the extent needed to ensure defaulting loans did not cause losses to the 
@@ -1855,7 +1855,7 @@ decades, allowing price increases to mask problems with the high risk loans bein
 36 See “Estimation of Housing Bubble: Comparison of Recent Appreciation vs. Historical Trends,” chart prepared by 
 Paulson & Co. Inc., Hearing Exhibit 4/13-1j. 
 
-26 
+26 
 
  
 
@@ -1876,7 +1876,7 @@ investments, to continue to purchase mortgage related securities.
 Credit Ratings Generally.  A credit rating is an assessment of the likelihood that a 
 particular financial instrument, such as a corporate bond or mortgage backed security, may 
 
-   
+   
 
 40
 
@@ -1943,7 +1943,7 @@ Services, Serial No. 110-62 (9/27/2007), S&P SEC-PSI 0001945-71, at 51. (See Cha
 “Annual 2006 Global Corporate Default Study and Ratings Transitions,” S&P.  
 41 For more detail on these matters, see Chapter V, below. 
 
-28 
+28 
 
 bonds from Enron Corporation and other troubled corporations, Congress strengthened the 
 SEC’s authority over the credit rating industry.  Among other provisions, the law established 
@@ -1996,7 +1996,7 @@ called “cash CDOs,” because they receive cash revenues from the underlying R
 other assets.  If a CDO is designed so that it contains a specific list of assets that do not change, it 
 is often called a “static” CDO; if the CDO’s assets are allowed to change over time, it is often 
 
-29 
+29 
 
 referred to as a “managed” CDO.  Like an RMBS securitization, the CDO arranger calculates the 
 revenue stream coming into the pool of assets, designs a waterfall to divide those incoming 
@@ -2050,7 +2050,7 @@ federal bank regulator’s handbook put it:
 “The rating agencies perform a critical role in structured finance – evaluating the credit 
 quality of the transactions. Such agencies are considered credible because they possess 
 
-30 
+30 
 
 the expertise to evaluate various underlying asset types, and because they do not have a 
 financial interest in a security’s cost or yield.  Ratings are important because investors 
@@ -2112,7 +2112,7 @@ Debt Obligations Amended 3/7/2007,” prepared by S&P, S&P-PSI 0000036-50. (See 
 The 2002 figure does not include gross revenue from CDO ratings as this figure was not readily available due to the 
 transition of Moody’s accounting systems.  (See Chapter V below.) 
 
-2002, to over $265 million in 2006.48  Altogether, revenues from the three leading credit rating 
+2002, to over $265 million in 2006.48  Altogether, revenues from the three leading credit rating 
 agencies more than doubled from nearly $3 billion in 2002 to over $6 billion in 2007.49
 
  
@@ -2177,7 +2177,7 @@ May 2010, at 1.
 BlackRock Solutions, Hearing Exhibit 4/23-1i.  See also 3/2008 “Understanding the Securitization of Subprime 
 Mortgage Credit,” Federal Reserve Bank of New York Staff Report no. 318, at 58 and chart 31 (“92 percent of 1st-
 
-32 
+32 
 
 Moody’s and S&P began downgrading RMBS and CDO products in late 2006, when 
 residential mortgage delinquency rates and losses began increasing.  Then, in July 2007, both 
@@ -2232,7 +2232,7 @@ Moody’s, at 4.
 RatingsDirect). Ratings may appear on CreditWatch when events or deviations from an expected trend occur and 
 additional information is needed to evaluate the rating. 
 
-33 
+33 
 
   
 
@@ -2291,7 +2291,7 @@ and Rule 10b-5 thereunder.
 Trading & Certain Relationships with Hedge Funds & Private Equity Funds,” prepared by the Financial Stability 
 Oversight Council, at 28-29 (Jan. 18, 2011) (citing SEC Exchange Act Rel. No. 34-58775 (Oct. 14, 2008)). 
 
-34 
+34 
 
 This inventory or portfolio of long-term assets is typically designated as “held for investment,” 
 and is not used in day-to-day transactions.  
@@ -2349,7 +2349,7 @@ Appendix A and 12 CFR part 225, Appendix A (for the Federal Reserve Board of Gov
 Appendix A (for the Federal Deposit Insurance Corporation). 
 62 Securities Exchange Act of 1934, Rule 15c3-1. 
 
-35 
+35 
 
 Some investors purchased large numbers of these CDS contracts in a concerted strategy to profit 
 from mortgage backed securities they believed would fail. 
@@ -2406,7 +2406,7 @@ Bank of New York, Report No. 318, at 26.  Markit Group Ltd. administered the ABX
 2006 and 2007, but has not issued any new indices since then. 
 64 For more information, see Chapter VI, section discussing Deutsche Bank. 
 
-billions of dollars,65 and either declared bankruptcy, were sold off,66 or were bailed out by U.S. 
+billions of dollars,65 and either declared bankruptcy, were sold off,66 or were bailed out by U.S. 
 taxpayers seeking to avoid damage to the U.S. economy as a whole.67
 
    
@@ -2465,7 +2465,7 @@ the Primary Dealer Credit Facility 85 times in 2008.
 http://oversight.house.gov/images/stories/Hearings/pdfs/20100127barofsky.pdf (noting that some firms, including 
 Goldman Sachs, disproportionately benefited from the federal government’s bailout of AIG). 
 
-37 
+37 
 
 Oversight of Lenders.  At the end of 2005, the United States had about 8,800 federally 
 
@@ -2524,7 +2524,7 @@ had 8,832 federal and state chartered insured banks and thrifts).
 75 The Dodd-Frank Act has since abolished one of these agencies, the Office of Thrift Supervision, and assigned its 
 duties to the OCC.  See Chapter IV. 
 
-38 
+38 
 
 insured institution and assigned a quarterly risk rating, using a scale of A to E, with A being the 
 best rating and E the worst.   
@@ -2581,7 +2581,7 @@ Commission (SEC) whose mission is to “protect investors, maintain fair, orderl
 U.S. Financial Regulatory System,” prepared by the Government Accountability Office, Report No. GAO-09-216, at 
 26-27. 
 
-39 
+39 
 
 markets, and facilitate capital formation.”77  The SEC oversees the “key participants in the 
 securities world, including securities exchanges, securities brokers and dealers, investment 
@@ -2645,7 +2645,7 @@ prepared by Office of the SEC Inspector General, Report No. 446-A.Report No. 446
 
 www.sec.gov.  
 
-40 
+40 
 
 requirements for swaps.83  In addition, the law explicitly prohibited regulation of any “‘interest 
 rate swap,’ including a rate floor, rate cap, rate collar, cross-currency rate swap, basis swap, 
@@ -2705,7 +2705,7 @@ HOEPA, however, until July 2008, when it amended Regulation Z.  The new rules pr
 protections for “higher priced loans,” which included many types of subprime loans.  See “New Regulation Z Rules 
 Enhance Protections for Mortgage Borrowers,” Consumer Compliance Outlook (Fourth Quarter 2008) (Among 
 
-41 
+41 
 
 A third problem, exclusive to state regulators, was a 2005 regulation issued by the OCC 
 to prohibit states from enforcing state consumer protection laws against national banks.91  After 
@@ -2762,7 +2762,7 @@ inappropriate practices for loan servicers, and require[d] early truth in lendin
 93 U.S. Census Bureau, “Table 14.  Homeownership Rates by Area: 1960 to 2009,” 
 http://www.census.gov/hhes/www/housing/hvs/annual09/ann09t14.xls. 
 
-42 
+42 
 
 any securitized mortgage that defaulted, and selling the resulting mortgage backed securities to 
 investors.  Many believed that the securities had the implicit backing of the federal government 
@@ -2822,7 +2822,7 @@ http://www.fanniemae.com/ir/pdf/sec/2009/q2credit_summary.pdf.
 97 “Not What They Had In Mind: A History of Policies that Produced the Financial Crisis of 2008,” September 
 2009, Mercatus Center, http://mercatus.org/sites/default/files/publication/NotWhatTheyHadInMind(1).pdf. 
 
-43 
+43 
 
 from changes in interest or prepayment rates.  Over the past decade, the two GSEs also 
 increased their exposure to default losses by investing in lower-quality mortgages, such 
@@ -2882,7 +2882,7 @@ Draws for Fannie Mae and Freddie Mac,” October 21, 2010, http://fhfa.gov/webfi
 “FHA Single-Family Mutual Mortgage Insurance Fund Programs, Quarterly Report to Congress, FY 2011 Q1,” 
 March 17, 2011, at 4 and 19, http://www.hud.gov/offices/hsg/rmra/oe/rpts/rtc/fhartc_q1_2011.pdf.  
 
-44 
+44 
 
 Asset Relief Program (TARP) and authorized the expenditure of up to $700 billion to stop 
 financial institutions from collapsing and further damaging the U.S. economy.  Administered by 
@@ -2946,7 +2946,7 @@ http://www.federalreserve.gov/newsevents/reform_transaction.htm.
 103 “Agency Mortgage-Backed Securities Purchase Program,” Federal Reserve Board, available at 
 http://www.federalreserve.gov/newsevents/reform_mbs.htm. 
 
-45 
+45 
 
 – prohibited sponsors of asset backed securities from engaging in transactions that would 
 
@@ -3005,7 +3005,7 @@ containing high risk, poor quality mortgages were not safe investments and were 
 losses, the credit rating agencies admitted the emperor had no clothes.  Investors stopped buying, 
 the value of the RMBS and CDO securities fell, and financial institutions around the world were 
 
-46 
+46 
 
 suddenly left with unmarketable securities whose value was plummeting.  The financial crisis 
 was on. 
@@ -3020,7 +3020,7 @@ Because of the complex nature of the financial crisis, this chapter concludes wi
 
  
 
-47 
+47 
 
 Financial Crisis Timeline104
 
@@ -3126,7 +3126,7 @@ Federal Reserve buys Fannie and Freddie assets
 104 Many of these events are based upon a timeline prepared by the Federal Reserve Bank of St. Louis, “The Financial 
 Crisis:  A Timeline of Events and Policy Actions,” http://timeline.stlouisfed.org/index.cfm?p=timeline. 
 
- 
+ 
 III.  HIGH RISK LENDING:    
  
 
@@ -3183,7 +3183,7 @@ http://www.nytimes.com/2008/12/28/business/28wamu.html?_r=1 (quoting Mr. Killing
 industry what Wal-Mart did to theirs, Starbucks did to theirs, Costco did to theirs and Lowe’s-Home Depot did to 
 their industry.  And I think if we’ve done our job, five years from now you’re not going to call us a bank.”). 
 
- 
+ 
 home equity loans made up $63.5 billion or 27% of its home loan portfolio, a 130% increase 
 from 2003.   
 
@@ -3239,7 +3239,7 @@ own securitization arm on Wall Street.  Over a period of five years, WaMu and Lo
 churned out a steady stream of high risk, poor quality loans and mortgage backed securities that 
 later defaulted at record rates.  Once a prudent regional mortgage lender, Washington Mutual 
 
-50 
+50 
 
  
 tried – and ultimately failed – to use the profits from poor quality loans as a stepping stone to 
@@ -3302,7 +3302,7 @@ loans that too often contained excessive risk, fraudulent information, or errors
 Subcommittee on Investigations, S.Hrg. 111-67 (April 13, 2010) (hereinafter “April 13, 2010 Subcommittee 
 Hearing”). 
 
-51 
+51 
 
 3.  Steering Borrowers to High Risk Loans.  WaMu and Long Beach too often steered 
 borrowers into home loans they could not afford, allowing and encouraging them to 
@@ -3366,7 +3366,7 @@ Corporation.
                                                  
 107 9/25/2008 “OTS Fact Sheet on Washington Mutual Bank,” Dochow_Darrel-00076154_001. 
 
-52 
+52 
 
 For most of the five-year period reviewed by the Subcommittee, WaMu was led by its 
 
@@ -3425,7 +3425,7 @@ approximately $59 billion, or 47 percent, of the home loans on WaMu’s balance 
 Mutual to Acquire PNC’s Residential Mortgage Business,” Business Wire (10/2/2000), 
 http://findarticles.com/p/articles/mi_m0EIN/is_2000_Oct_2/ai_65635032. 
 
- 
+ 
 of 2007.”109
 loans and home equity lines of credit.   
 
@@ -3485,7 +3485,7 @@ Offices of Inspector General at the Department of the Treasury and Federal Depos
 Exhibit 4/16-82 (hereinafter “IG Report”). 
 110 See 3/1/2007 Washington Mutual Inc. 10-K filing with the SEC, at 56. 
 
-54 
+54 
 
  
 other lenders and use them in securitizations.  WCC shut down both the Alt A and subprime 
@@ -3552,7 +3552,7 @@ brokers.”).
 Exhibit 4/13-1c. 
 117 For more information about these types of loans, see Chapter II. 
 
-55 
+55 
 
   For “interest-only” loans, monthly loan payments were calculated to 
 
@@ -3614,7 +3614,7 @@ and WaMu mortgage backed securities showing, as of March 2011, delinquency rates
 backed securities, including LBMLT 2006-1 – 58.44%; LBMLT 2006-6 – 60.06%; and LBMLT 2005-11 – 
 54.32%).  
 
-56 
+56 
 
  
 securitized at least $77 billion in subprime home loans.  Washington Mutual sold or securitized 
@@ -3677,7 +3677,7 @@ during those years.
 128 9/25/2008 “OTS Fact Sheet on Washington Mutual Bank,” Dochow_Darrel-00076154_001, at 002.  Washington 
 Mutual Inc. also owned a second, much smaller thrift, Washington Mutual Bank, FSB.  Id. 
 
-57 
+57 
 
  
 
@@ -3741,7 +3741,7 @@ Subcommittee, Hearing Exhibit 4/16-1j.
 http://www.bloomberg.com/apps/news?pid=newsarchive&sid=aNUz6NmbYZCQ. 
 136 Id. 
 
-58 
+58 
 
  
 
@@ -3806,7 +3806,7 @@ of Directors Finance Committee Discussion, JPM_WM00302975-93, Hearing Exhibit 4/
 
   
 
-59 
+59 
 
  
 
@@ -3867,7 +3867,7 @@ rates or payment adjustments.” Id. at 2.
 
  
 
-(1) Strategic Direction 
+(1) Strategic Direction 
 
 60 
 
@@ -3932,7 +3932,7 @@ Direction,” JPM_WM05385579 at 581.
 151 Id. at 585. 
 152 The only new lender that Washington Mutual acquired after 2004 was Commercial Capital Bancorp in 2006. 
 
-61 
+61 
 
 “Management provided us with a copy of the framework for WMI’s 5-year (2005-2009) 
 strategic plan [which] contemplates asset growth of at least 10% a year, with assets 
@@ -3998,7 +3998,7 @@ JPM_WM06293964; see also 1/2005 “Higher Risk Lending Strategy Presentation,”
 Mutual Board of Directors, at JPM_WM00302987, Hearing Exhibit 4/13-2a (“Lags in Effects of Expansion,” chart 
 showing peak loss rates in 2007). 
 
- 
+ 
 “For the purpose of establishing concentration limits, Higher Risk Lending 
 strategies will be implemented in a ‘phased’ approach.  Later in 2005 an 
 expanded definition of Higher Risk Lending – encapsulating multiple risk 
@@ -4068,7 +4068,7 @@ JPM_WM00302979, Hearing Exhibit 4/13-2a.
 162 12/21/2004 “Asset Allocation Initiative: Higher Risk Lending Strategy and Increased Credit Risk Management,” 
 Washington Mutual Board of Directors Presentation, at JPM_WM04107995-8008, Hearing Exhibit 4/13-2b. 
 
--‘No Income’ loan documentation type 
+-‘No Income’ loan documentation type 
 -All Manufactured Housing loans … 
 
 “Expanded Criteria 
@@ -4135,7 +4135,7 @@ following.”
 $118.9 billion in single-family loans held for investment – this includes $52.9 billion in payment option ARMs and 
 $16.05 billion in subprime mortgage loans”). 
 
- 
+ 
 
 (4)  Gain on Sale 
 
@@ -4212,7 +4212,7 @@ Hearing Exhibit 4/13-3.
 170 Id. 
 171 Id. at 894 [formatting as in the original]. 
 
-65 
+65 
 
  
 
@@ -4273,7 +4273,7 @@ continues to be difficult.
 172 Subcommittee interview of David Schneider (2/16/2010). 
 173 April 13, 2010 Subcommittee Hearing at 53. 
 
-66 
+66 
 
  
 
@@ -4321,7 +4321,7 @@ demonstrates.176
 175 Subcommittee interview of Jim Vanasek (12/18/2009). 
 176 “Estimation of Housing Bubble,” PSI-Paulson&Co-02-00003, Hearing Exhibit 4/13-1j. 
 
- 
+ 
 
 67 
 
@@ -4358,7 +4358,7 @@ conditions for reduced underwriting standards, and our need to grow the balance 
 177 April 13, 2010 Subcommittee Hearing at 85. 
 178 3/2005 WaMu internal email chain, Hearing Exhibit 4/13-78. 
 
-68 
+68 
 
 have never seen such a high risk housing market as market after market thinks they are 
 unique and for whatever reason are not likely to experience price declines.  This typically 
@@ -4422,7 +4422,7 @@ WaMu dramatically shifted the composition of the loans it originated and purchas
 Exhibit].    
 180 April 13, 2010 Subcommittee Hearing at 88. 
 
- 
+ 
 doubling the percentage of higher risk home loans from 36% to 67%.  The following chart, 
 prepared by the Subcommittee using data from WaMu’s SEC filings, demonstrates the shift.181 
 
@@ -4449,7 +4449,7 @@ Subcommittee, Hearing Exhibit 4/13-1i.
 
  
 
-70 
+70 
 
 Mr. Killinger’s annual “Strategic Direction” memoranda to the Board in 2005, 2006, and 
 
@@ -4522,7 +4522,7 @@ Direction,”  JPMC/WM - 0636-49 at  36, Hearing Exhibit 4/13-6c.
 Direction,”  JPM_00808312-324 at 314, Hearing Exhibit 4/13-6d. 
 188 Id. at 315 [emphasis in original removed]. 
 
-71 
+71 
 
 increase our origination and servicing of high margin home equity, Alt. A, sub prime and 
 option ARMs.  Action steps include merging Longbeach sub prime and the prime 
@@ -4650,7 +4650,7 @@ Alt A originations were projected to grow from $1 billion in 2005 to $24 billion
 JPM_WM00690890-901 at 894, Hearing Exhibit 4/13-3.   
 191 Id. [formatted for clarity]. 
 
-72 
+72 
 
  
 Home Equity originations were projected to grow from $4 billion in 2005 to $30 billion in 2008.  
@@ -4711,7 +4711,7 @@ Direction,” JPM_WM03227058-67 at 60, Hearing Exhibit 4/13-6a.
 Program,” JPM_WM02551400, Hearing Exhibit 4/13-5 (informing potential investors in its subprime RMBS 
 securities that: “WaMu is focusing on higher margin products”). 
 
- 
+ 
 
  
 
@@ -4778,7 +4778,7 @@ other areas and a conduit of higher margin product and aimed to hold our prime s
 199 Id. 
 200 Id. 
 
-74 
+74 
 
 flat to down.  I feel strongly that where we need to land is a new home loan unit that 
 includes prime, heq, and subprime.  It is a far superior model.”201
@@ -4843,7 +4843,7 @@ Exhibit 4/13-80.
 204 Id. 
 205 Id. at 4. 
 
-75 
+75 
 
  
 
@@ -4906,7 +4906,7 @@ returned and lingered for several years.
 206 See 1/2007 Washington Mutual Presentation, “Subprime Mortgage Program,” Hearing Exhibit 4/13-5 (slide 
 showing Long Beach Annual Origination Volume). 
 
-76 
+76 
 
  
 
@@ -4967,7 +4967,7 @@ Beach quality assurance report).
 215 1/13/2004 report on “Joint Visitation Dated October 14, 2003,” jointly prepared by the FDIC and the State of 
 Washington Department of Financial Institutions, FDIC-E_00102515, at 3, Hearing Exhibit 4/13-8b. 
 
- 
+ 
 
  
 
@@ -5035,7 +5035,7 @@ early 2007, JPM_WM02095572.
 218 11/24/2004 email from Michael Smith to Mark Hillis and others, “LBMC Transfer of Piggiebacks from HFS to 
 HFI,” JPM_WM01407692.   
 
-78 
+78 
 
  
 
@@ -5098,7 +5098,7 @@ General Auditor, JPM_WM02533760-61, Hearing Exhibit 4/13-10.
 222 Id.  (Long Beach “experienced a dramatic increase in EPD’s [early payment defaults], during the third quarter of 
 2005 [which] … led to a large volume of required loan repurchases.  The unpaid principal balance repurchased as a 
 
-79 
+79 
 
  
 loss overwhelmed Long Beach’s repurchase reserves, leading to a reserve shortfall of nearly $75 
@@ -5159,7 +5159,7 @@ repurchases was approximately $107 million.”).
 0001009, Hearing Exhibit 4/16-31.   
 230 Id. at OTSWMS06-007 0001009 (stating WaMu filed a 12/12/2005 application to acquire Long Beach). 
 
-80 
+80 
 
  
 operations and allow it to strengthen Long Beach’s lending practices and risk management, as 
@@ -5220,7 +5220,7 @@ Hearing Exhibit 4/16-31.
 236 4/27/2006 email from Steve Rotella to Kerry Killinger, JPM_WM05380911, Hearing Exhibit 4/13-11. 
 237 9/14/2006 WaMu internal email, Hearing Exhibit 4/13-12. 
 
-81 
+81 
 
    
 
@@ -5287,7 +5287,7 @@ Hearing Exhibit 4/13-13b.
 242 Id.  
 243 Id. at 3. 
 
- 
+ 
 
  
 
@@ -5355,7 +5355,7 @@ Schneider, Rotella and Killinger received NO report on any of this?”248
 247 1/2/2007 email from Ron Cathcart to Cory Gunderson, Hearing Exhibit 4/13-16. 
 248 Id. 
 
- 
+ 
  
 In February 2007, WaMu senior managers discussed “how best to dispose” of $433 
 million in Long Beach performing second lien loans, due to “disarray” in the securitization 
@@ -5427,7 +5427,7 @@ guidelines.”254
 2007), Hearing Exhibit 4/13-18. 
 254 Id. 
 
- 
+ 
 
 84 
 
@@ -5495,7 +5495,7 @@ Exhibit 4/13-21.
 259 8/20/2007 “Long Beach Mortgage Loan Origination & Underwriting,” WaMu audit report, JPM_WM02548939, 
 Hearing Exhibit 4/13-19. 
 
-85 
+85 
 
  
 
@@ -5561,7 +5561,7 @@ Exhibit 4/13-1c.
 266 Id. at 23. 
 267 Id. at 55. 
 
-86 
+86 
 
 “We did bring the volume in Long Beach down substantially every quarter starting in the 
 first quarter of 2006.  As we went through that process, it became increasingly clear, as I 
@@ -5627,7 +5627,7 @@ hundreds of billions of dollars of residential loans being issued each year by i
 http://www.occ.treas.gov/news-issuances/news-releases/2009/nr-occ-2009-112b.pdf, Hearing Exhibit 4/13-58. 
 271 8/23/2007 email from Mr. Rotella to Mr. Killinger, JPM_WM00675851, Hearing Exhibit 4/13-79. 
 
-87 
+87 
 
  
 personnel.  From 1990 until 2002, WaMu acquired more than 20 new banks and mortgage 
@@ -5691,7 +5691,7 @@ exceedingly patient.”).
 274 See, e.g., OTS examination reports cited in Chapter IV, below. 
 275 8/13/2004 email from Lawrence Carter to Michal Finn, Finn_Michael-00005331.   
 
-88 
+88 
 
  
 
@@ -5756,7 +5756,7 @@ Exhibit 4/16-94 [Sealed Exhibit].
 281 4/2010 IG Report, at 23, Hearing Exhibit 4/16-82. 
 282 Id. at 23. 
 
-89 
+89 
 
  
 documents, and oral testimony shows that WaMu exercised weak oversight over the thousands of 
@@ -5814,7 +5814,7 @@ Exhibit 4/16-10.
 290 10/4/2006 “Interagency Guidance on Nontraditional Mortgage Product Risks,” (NTM Guidance), 71 Fed. Reg. 
 192 at 58609. 
 
- 
+ 
 
 “Oversight of third party brokers and correspondents who originate nontraditional 
 mortgage loans should involve monitoring the quality of originations so that they reflect 
@@ -5879,7 +5879,7 @@ unverified income information came on top of its use of loans with other high ri
 294 April 13, 2010 Subcommittee Hearing at 16. 
 295 4/2010 IG Report, at 10, Hearing Exhibit 4/16-82. 
 
-91 
+91 
 
  
 as borrowers with low credit scores or the use of low initial teaser interest rates followed by 
@@ -5940,7 +5940,7 @@ use stated income loans “with caution,” but did not prohibit them or even is
 58611.  
 297 April 13, 2010 Subcommittee Hearing at 41. 
 
- 
+ 
 
  
 
@@ -6006,7 +6006,7 @@ the SEC, at 52 (showing that, as of 12/31/2006, WaMu held $7.4 billion in home m
 mortgage insurance or government guarantees with LTV ratios in excess of 80%, and $15 billion in home equity 
 loans and lines of credit with LTV ratios in excess of 80%). 
 
- 
+ 
 
 93 
 
@@ -6069,7 +6069,7 @@ Hearing Exhibit 4/16-75 (indicating WaMu issued loans with CLTVs in excess of 95
 March 2007). 
 308 See 3/1/2007 Washington Mutual Inc. 10-K filing with the SEC at 56. 
 
-94 
+94 
 
  
 borrowers using the “fully indexed rate.”309  Instead, WaMu was using a lower “administrative” 
@@ -6133,7 +6133,7 @@ calculate the loan’s interest rate.  See NTM Guidance at 58614, n.5.
 313 Id. 
 314 3/19/2007 email from Ron Cathcart to David Schneider, JPM_WM02571598, Hearing Exhibit 4/16-75. 
 
-95 
+95 
 
  
 In response to this information, WaMu’s chief risk officer wrote that the impact on the bank 
@@ -6204,7 +6204,7 @@ with 50% DTI for Stated Doc depending on FICO score. …  For No Income Verifica
 No Income No Asset only up to 95% LTV/CLTV is allowed.”).   
 316 April 13, 2010 Subcommittee Hearing at 17. 
 
-96 
+96 
 
  
 
@@ -6266,7 +6266,7 @@ Exhibit 4/13-22b.
 321 Id. at JPM_WM02481940. 
 322 Id. at JPM_WM02481936. 
 
-97 
+97 
 
  
 originated by third party brokers and brought to the loan centers.323
@@ -6332,7 +6332,7 @@ referred to them. … As you can see, among the referred cases there is an extre
 326 Id. at JPM_WM02481948. 
 327 8/29/2005 email from Jill Simons to Tim Bates, JPM_WM04026076-77, Hearing Exhibit 4/13-23b.  
 
-98 
+98 
 
  
 
@@ -6399,7 +6399,7 @@ JPM_WM03535695, Hearing Exhibit 4/13-23a.
 two offices per year.  April 13, 2010 Subcommittee Hearing at 27. 
 333 See, e.g., 3/2006 WaMu email chain, JPM_WM03985880-83.   
 
-99 
+99 
 
  
 mortgages being issued by Mr. Fragoso, the loan officer heading the Montebello office.334  When 
@@ -6463,7 +6463,7 @@ redacted],” at 1, Hearing Exhibit 4/13-24.
 339 Id. at 3. 
 340 Id. at 7. 
 
-100 
+100 
 
  
 to “monitor the situation.”341  But no one knew “of additional monitoring that was done, or 
@@ -6526,7 +6526,7 @@ wholesale loan channel which had accepted loans from third party mortgage broker
 347 4/4/2008 WaMu Memorandum of Results, “AIG/UG and OTS Allegation of Loan Frauds Originated by [name 
 redacted],” at 4, Hearing Exhibit 4/13-24. 
 
-101 
+101 
 
  
 stand-alone loan centers, and reduced its workforce by 3,000.348
@@ -6587,7 +6587,7 @@ Mr. Minkow had produced $1.2 billion in loans in 2005).
 
  
 
-102 
+102 
 
  
 connection with WaMu’s reorganization and downsizing.  One of the loan officers who headed 
@@ -6658,7 +6658,7 @@ the amount of the loan.
 358 Id. 
 359 Id. at 5. 
 
-103 
+103 
 
 Extent of Fraud.  At the Subcommittee hearing, when asked about these matters, Mr. 
 
@@ -6725,7 +6725,7 @@ high risk, poor quality home loans that contributed to the financial crisis.
 362 9/8/2008 “WaMu Risk Mitigation and Mortgage Fraud 2008 Targeted Review,” JPM_WM00312502, Hearing 
 Exhibit 4/13-34. 
 
-(d) Steering Borrowers to High Risk Option ARMs 
+(d) Steering Borrowers to High Risk Option ARMs 
 
 104 
 
@@ -6793,7 +6793,7 @@ ARM” draft presentation to the WaMu Board of Directors, JPM_WM02549027, Hearin
 365 9/17/2003 “Option ARM Focus Groups – Phase II, WaMu Option ARM Customers,” WaMu research report, at 
 3, Hearing Exhibit 4/13-35. 
 
-105 
+105 
 
  
 loans had to be “sold” to customers asking for a 30-year fixed loan, and training was needed to 
@@ -6855,7 +6855,7 @@ The second focus group with existing Option ARM customers showed they were also
 
  
 
-106 
+106 
 
 to understand terms, prospective borrowers need to be educated about the loan – this is 
 not a product that sells itself.”367
@@ -6924,7 +6924,7 @@ division, to the entire retail sales team announced:
 370 Subcommittee interview of David Schneider (2/17/2010). 
 371 See April 13, 2010 Subcommittee Hearing at 50. 
 
- 
+ 
 
 107 
 
@@ -6987,7 +6987,7 @@ JPM_WM03277786-87.
 376 8/31/2006 “e-Flash” from Mary Ann Kovach to Consumer Direct, JPM_WM03077747.  
 377 10/12/2006 “e-Flash” from Mary Ann Kovach to Consumer Direct, JPM_WM03627448-49.  
 
-108 
+108 
 
  
 consumer direct originators promoted Option ARM sales specials offering $1,000 off closing 
@@ -7056,7 +7056,7 @@ increased.386
 385 4/2010 IG Report, Hearing Exhibit 4/16-82. 
 386 Subcommittee interview of Brian Minkow (2/16/2010).    
 
-109 
+109 
 
  
 they chose to.  According to Mr. Minkow, who was one of WaMu’s top loan consultants and in 
@@ -7126,7 +7126,7 @@ Exhibit 4/13-38, chart at 2.
 WaMu mortgage backed securities showing, as of January 2011, delinquency rates for particular mortgage backed 
 securities, including WMALT 2006 OA-3 – 57.87% and WAMU 2007-OA4 – 48.43%). 
 
- 
+ 
 
  
  
@@ -7203,7 +7203,7 @@ Finance Committee Discussion, JPM_WM00302975, Hearing Exhibit 4/13-2a [emphasis 
 391 April 13, 2010 Subcommittee Hearing at 17. 
 392 Id. at 32. 
 
- 
+ 
 
 111 
 
@@ -7263,7 +7263,7 @@ Decisions,” JPM_WM01265462-64.
 397 Id.   
 398 Id.; Subcommittee interviews of David Schneider (2/17/2010) and Cheryl Feltgen (2/6/2010). 
 
-112 
+112 
 
  
  
@@ -7341,7 +7341,7 @@ confirmed that it is the 2007 review).
 403 Id. 
 404 Subcommittee interview of Cheryl Feltgen (2/6/2010). 
 
-113 
+113 
 
  
 supervisor on loan origination matters, as having a strong voice and acting more as her boss.  
@@ -7407,7 +7407,7 @@ Hearing Exhibit 4/13-73.
 
  
 
-114 
+114 
 
  
 each business line, rather than the performance of the bank as a whole, which largely removed 
@@ -7470,7 +7470,7 @@ Ms. Feltgen ultimately signed off on it.  She told the Subcommittee that it was 
 411 Subcommittee Interview of Cheryl Feltgen (2/6/2010). 
 412 See 2/2006 WaMu internal email chain, “FW: 80/20,” JPM_WM03960778.  
 
-115 
+115 
 
  
 
@@ -7534,7 +7534,7 @@ upset.  In April, Mr. Killinger fired Mr. Cathcart.
 414 April 13, 2010 Subcommittee Hearing at 19. 
 415 Subcommittee interview of Ronald Cathcart (2/23/2010). 
 
- 
+ 
 
 E.  Polluting the Financial System  
  
@@ -7595,7 +7595,7 @@ Exhibit 4/13-38 (see chart at 2). See also 8/2006 “Option ARM Credit Risk,” 
 JPM_WM00212644, Hearing Exhibit 4/13-37 (see chart at 5).  
 419 See chart in section E(4), below, using loan data from Inside Mortgage Finance.   
 
- 
+ 
 
 117 
 
@@ -7662,7 +7662,7 @@ internal WaMu email chain, JPM_WM00652762.
 47c. 
 430 Id. 
 
-118 
+118 
 
  
 securitizations.431  At its peak, right before the collapse of the subprime securitization market, 
@@ -7727,7 +7727,7 @@ securities backed by that loan pool.”  Id. at 163.
 47c; Subcommittee interview of David Beck (3/2/2010). 
 436 See 3/2007 Washington Mutual Inc. 10-K filing with the SEC, at 45 (describing securitization process). 
 
- 
+ 
 of the loan pool.  Washington Mutual Inc. generally retained the right to service the loans.  
 WaMu or Long Beach might also retain a senior, subordinated, residual, or other interest in the 
 loan pool. 
@@ -7747,7 +7747,7 @@ securitization pool would be used.437
 437 See “LBMC 2005-2 Structure” and “LBMC 2005-2 Cash Flow Waterfall,” FDIC_WAMU_000012358-59, 
 Hearing Exhibit 47a. 
 
- 
+ 
 
 120 
 
@@ -7755,13 +7755,13 @@ _ _
 
  
 
- 
+ 
 
 121 
 
  
 
-122 
+122 
 
  
 In that particular securitization, Goldman Sachs served as the lead underwriter, WCC served as 
@@ -7825,7 +7825,7 @@ top 6 worst NCLs (range: 11.2% to 13.2%).
 440 3/24/2005 email from Kevin Gasvoda of Goldman Sachs to Christopher Gething, others, Hearing Exhibit 4/27-
 167b. 
 
- 
+ 
 
 123 
 
@@ -7890,7 +7890,7 @@ http://www.scribd.com/doc/19606903/Nomura-ABX-Index-The-Constituent-Breakdown.
 Index – The Constituent Breakdown,” prepared by Nomura Securities International Inc., 
 http://www.scribd.com/doc/19606903/Nomura-ABX-Index-The-Constituent-Breakdown. 
 
-124 
+124 
 
  
 
@@ -7952,7 +7952,7 @@ backed securities, including LBMLT 2006-1 – 58.44%; LBMLT 2006-6 – 60.06%; a
 54.32%).  
 450 2/2/2008 email from David Beck to David Schneider and others, JPM_WM02445758, Hearing Exhibit 4/13-51. 
 
-125 
+125 
 
  
 Home Loans President David Schneider replied:  “Ok – thanks .…  Are we sure there isn’t a 
@@ -8021,7 +8021,7 @@ wamusecurities.com.
 JPM_WM00312502, Hearing Exhibit 4/13-34. 
 454 Id. 
 
-126 
+126 
 
  
 
@@ -8088,7 +8088,7 @@ On Thursday, September 14, 2006, John Drastal, then Senior Managing Director of
 Series 2007-OA3,” at S-102, Hearing Exhibit 4/13-86b.   
 456 Id. at S-103. 
 
- 
+ 
 
 “David, 
  
@@ -8162,7 +8162,7 @@ visit,” Hearing Exhibit 4/13-40a.
 458 2/2007 WaMu internal email chain, Hearing Exhibit 4/13-40b. 
 459 Id. 
 
-128 
+128 
 
  
  
@@ -8236,7 +8236,7 @@ which is creating a ‘flight to quality’.  I was talking to Robert Williams j
 460 Id. 
 461 Id. 
 
- 
+ 
 
 129 
 
@@ -8308,7 +8308,7 @@ On Tuesday morning, February 20, 2007, Mr. Beck replied with additional analysis
 investment portfolio.  See 3/2007 Washington Mutual Inc. 10-K filing with the SEC, at 52. 
 464 2/2007 WaMu internal email chain, Hearing Exhibit 4/13-40b. 
 
- 
+ 
 
 130 
 
@@ -8377,7 +8377,7 @@ production.
 466 2/2007 WaMu internal email chain, Hearing Exhibit 4/13-40b. 
 467 Id. 
 
- 
+ 
  
 that were driving delinquencies in the Option ARM portfolio:  
 
@@ -8448,7 +8448,7 @@ reducing risk and delinquency at the same time.  Talk to you soon.”471
 470 2/20/2007 email from Robert Shaw to Cheryl Feltgen, Hearing Exhibit 4/13-41. 
 471 2/20/2007 email from Cheryl Feltgen to David Beck, Youyi Chen, and Richard Ellson, Hearing Exhibit 4/13-41. 
 
-132 
+132 
 
 A week later, on Sunday, February 25, 2007, Mr. Beck sent an email with the subject 
 
@@ -8513,7 +8513,7 @@ Feltgen, others, Hearing Exhibit 4/13-42b.
 474 12/28/2007 WaMu internal report, “Disclosure Management,” JPM_WM02414318.  
 475 3/9/2007 WaMu Market Risk Committee Meeting Minutes, Hearing Exhibit 4/13-43. 
 
- 
+ 
 
 133 
 
@@ -8583,7 +8583,7 @@ Risk Management] teams also need time to implement the coding changes.”476
 476 2/27/2007 email from Youyi Chen to Michelle McCarthy, with copies to David Beck, Cheryl Feltgen, Steve 
 Fortunato, and others, “HFI selection criteria changes,” Hearing Exhibit 4/13-42a [emphasis in original]. 
 
-134 
+134 
 
 This email proposed several significant changes to WaMu’s treatment of its Option 
 
@@ -8650,7 +8650,7 @@ reasons.”).
 478 3/9/2007 WaMu Market Risk Committee Meeting Minutes, Hearing Exhibit 4/13-43. 
 479 Id. 
 
-135 
+135 
 
  
 This exchange acknowledges that not all of the saleable Option ARM loans were diverted from 
@@ -8715,7 +8715,7 @@ Trust,” S&P’s Global Credit Portal, www.globalcreditportal.com.
 486 See 1/14/2008 “Moody’s takes negative rating actions on certain WaMu Option Arm deals issued in 2007,” 
 Moody’s, http://www.moodys.com/viewresearchdoc.aspx?lang=en&cy=global&docid=PR_147683. 
 
-136 
+136 
 
  
 were delinquent, and more than a quarter were in foreclosure.487
@@ -8775,7 +8775,7 @@ WaMu executives, Hearing Exhibit 4/16-85 (“5 years of 85%+ share with Fannie�
 Hearing Exhibit 4/16-86. 
 494 Id. at JPM_WM02405467, Subcommittee Hearing Exhibit 4/16-86.  
 
-137 
+137 
 
  
 management, underwriting guidance, and support for WaMu’s Community Reinvestment Act 
@@ -8814,7 +8814,7 @@ lending practices.” See 12 C.F.R. 345, Appendix A, http://www.fdic.gov/regulat
 6600.html#fdic2000appendixatopart345. 
 496 Id. at JPM_WM02405459, Subcommittee Hearing Exhibit 4/16-86. 
 
-138 
+138 
 
  
 
@@ -8875,7 +8875,7 @@ in the financial benefit over FN [Fannie Mae].”).  WaMu originated both confor
 ARMs, depending upon whether the loan exceeded the GSEs’ dollar limit for the loans they would purchase.   
 502 1/5/2005 “Business Relationship Proposal Issues,” document prepared by WaMu, Hearing Exhibit 4/16-90. 
 
-139 
+139 
 
  
 
@@ -8951,7 +8951,7 @@ portfolio.”).
 508 Id. [italics in original omitted]. 
 509 Id. at JPM_WM03200454. 
 
- 
+ 
 wrote:  “Congratulations to the team for getting this done and with terrific results for the 
 company.”511
   In a document describing the “highlights” of the new agreement, a Wamu 
@@ -9009,7 +9009,7 @@ accounting fraud charges brought by OFHEO and SEC.  See also “Fannie Settles F
 Mortgage News (5/29/2006).  
 517 April 13, 2010 Subcommittee Hearing at 105, Senator Coburn question to Mr. Rotella. 
 
- 
+ 
 
 Loan Sales to Fannie and Freddie.  During the years examined by the Subcommittee, 
 
@@ -9073,7 +9073,7 @@ JPM_WM02405461, JPM_WM02405467, Hearing Exhibit 4/16-86 (chart entitled, “Over
 4/16-91 (chart entitled, “WaMu’s Deliveries – Contract to Date 2005”).  During the same time period in 2005, 
 WaMu sold about 99,000 loans with a total loan amount of about $35 billion to buyers other than Fannie and 
 
- 
+ 
 
  
 
@@ -9179,7 +9179,7 @@ jumbo loans).  In addition to selling Option ARMs to Freddie Mac and others, WaM
 ARMs it originated in its investment portfolio and securitized still others. 
 531 “Historical Data from Inside Mortgage Finance, Inside Mortgage Finance, www.imfpubs.com/data. 
 
-F.  Destructive Compensation Practices 
+F.  Destructive Compensation Practices 
 
 143 
 
@@ -9243,7 +9243,7 @@ Conditions, and Future Opportunities,” JPM_WM00783315, at JPM_WM00783322.
 email to her staff quotes Mr. Schneider’s language from this presentation. 1/3/2007 email from Ron Cathcart to 
 Cheryl Feltgen, Hearing Exhibit 4/13-73. 
 
- 
+ 
 attendance.537  The title and theme of his presentation was:  “Be Bold.”538  One slide 
 demonstrates the importance and pervasiveness of the sales culture at WaMu:539
 
@@ -9289,7 +9289,7 @@ Exhibit 4/13-4.
 541 Subcommittee interviews of Brian Minkow (2/16/2010), David Schneider (2/17/2010), and Kerry Killinger 
 (2/5/2010). 
 
-145 
+145 
 
 “I attended WaMu’s President’s Club last year for the first time and had an awesome 
 time getting to know the stars of our sales force.  You work hard, but you know how to 
@@ -9359,7 +9359,7 @@ Mutual Home Loans Group, Mr. David Schneider!
 543 Prepared statement of David Schneider, April 13, 2010 Subcommittee Hearing. 
 544 11/2006 “President’s Club - Take the Lead!,” WaMu Home Loans flier, Hearing Exhibit 4/13-62. 
 
- 
+ 
 
 WALK-UP MUSIC 
 FOR DAVID SCHNEIDER 
@@ -9417,7 +9417,7 @@ lending more clearly than anything I can tell you.
 545 2005 “President’s Club 2005 - Maui, Awards Night Show Script,” Washington Mutual Home Loans Group, 
 Hearing Exhibit 4/13-63a. 
 
-147 
+147 
 
  
 
@@ -9477,7 +9477,7 @@ a clear conflict of interest. …   Prior OTS examinations have raised similar i
 546 April 13, 2010 Subcommittee Hearing at 16-17. 
 547 Subcommittee interview of Brian Minkow (2/16/2010). 
 
- 
+ 
 
 148 
 
@@ -9542,7 +9542,7 @@ The 2004 Long Beach Incentive Plan also introduced a contingent compensation pro
 
  
 
-149 
+149 
 
  
 were awarded for each purchase loan funded (as opposed to a refinance), and two points were 
@@ -9606,7 +9606,7 @@ Equity, Subprime) …
 555 4/4/2008 WaMu Memorandum of Results, “AIG/UG and OTS Allegation of Loan Frauds Originated by [name 
 redacted],” at 11, Hearing Exhibit 4/13-24. 
 
- 
+ 
 
 150 
 
@@ -9675,7 +9675,7 @@ or more points than required on WaMu’s daily rate sheet.)
 
  
 
-(c) Loan Processors and Quality Assurance Controllers 
+(c) Loan Processors and Quality Assurance Controllers 
 
 151 
 
@@ -9737,7 +9737,7 @@ the Subcommittee that incentives for loan processors were based on quality stand
 564 9/2004 Long Beach processing center internal email, Hearing Exhibit 4/13-61. In the email, “UW” stands for 
 Underwriting or Underwriter, and “SLC” stands for Senior Loan Coordinator.  
 
-152 
+152 
 
  
 
@@ -9799,7 +9799,7 @@ the funding process.  He knew many of these applications were fraudulent, and he
 566 “At Top Subprime Mortgage Lender, Policies Were an Invitation to Fraud,” Huffington Post Investigative Fund 
 (12/21/2009), http://www.huffingtonpost.com/2009/12/21/at-long-beach-mortgage-a_n_399295.html. 
 
- 
+ 
 
 153 
 
@@ -9868,7 +9868,7 @@ Subcommittee, Hearing Exhibit 4/13-1h.
 
 http://sacramento.fbi.gov/dojpressrel/pressrel08/sc061908a.htm.  
 
-154 
+154 
 
  
 
@@ -9932,7 +9932,7 @@ from the bonus plan.  There would be no disclosure of the retention cash payment
 575 Id. 
 576 7/16/2008 email from Kerry Killinger, JPM_WM01240144, Hearing Exhibit 4/13-66. 
 
-155 
+155 
 
   
 
@@ -9989,7 +9989,7 @@ profits that determine executive bonuses for the year ahead.”).
 4/13-68. 
 580 “WaMu CEO: 3 Weeks Work, $18M,” CNNMoney.com (9/26/2008). 
 
-156 
+156 
 
  
 include banning stated income loans; restricting negative amortization loans; requiring lenders to 
@@ -10045,7 +10045,7 @@ issued in July 2008, under the authority of the Home Ownership and Equity Protec
 which took effect in October 2009, already require lenders issuing certain high cost mortgages to verify a borrower’s 
 ability to repay the loan.  73 Fed. Reg. 147, at 44543 (7/30/2008).  Since the Dodd-Frank Act applies to all types of 
 
-157 
+157 
 
  
  
@@ -10104,7 +10104,7 @@ requirement to all mortgage loans.
 587 April 16, 2010 Subcommittee Hearing at 16. 
 588 Id. at 88. 
 
-158 
+158 
 
  
 
@@ -10171,7 +10171,7 @@ collateralized debt obligations.
 591 12 CFR § 360.6. 
 592 12 CFR § 360.6(b)(5)(i).  
 
-159 
+159 
 
 The FDIC risk retention requirement, followed by the risk retention requirement to be 
 developed under the Dodd-Frank Act, should, if well implemented, end the ability of banks to 
@@ -10232,7 +10232,7 @@ or the U.S. financial system, and should be restricted to reduce risk.
 593 75 Fed. Reg. 185 (9/24/2010). 
 594 Id. at 58509.   
 
-160 
+160 
 
  
   
@@ -10269,7 +10269,7 @@ included in a bank’s investment portfolio.
 
  
 
-161 
+161 
 
  
 
@@ -10326,7 +10326,7 @@ regulatory culture that viewed its thrifts as “constituents,” relied on them
 identified by OTS with minimal regulatory intervention, and expressed reluctance to interfere 
 with even unsound lending and securitization practices.  OTS displayed an unusual amount of 
 
-162 
+162 
 
 deference to WaMu’s management, choosing to rely on the bank to police itself.  The reasoning 
 appeared to be that if OTS examiners simply identified the problems at the bank, OTS could then 
@@ -10375,7 +10375,7 @@ engaged in a joint review of WaMu’s failure.  In addition, the Subcommittee sp
 dozen experts on a variety of banking, accounting, regulatory, and legal issues.  On April 16, 
 2010, the Subcommittee held a hearing at which OTS, the FDIC, and IG officials provided 
 
-163 
+163 
 
 testimony; released 92 hearing exhibits; and released the FDIC and Treasury IGs’ joint report on 
 Washington Mutual.595
@@ -10428,7 +10428,7 @@ Against WaMu Executives”).
 
  
 
-164 
+164 
 
  
 The Levin-Coburn memorandum contained joint findings of fact regarding the role of 
@@ -10488,7 +10488,7 @@ FDIC enforcement authority.
 undermined efforts to end unsafe and unsound mortgage practices at U.S. banks by 
 issuing guidance instead of enforceable regulations limiting those practices, failing to 
 
-165 
+165 
 
 prohibit many high risk mortgage practices, and failing to set clear deadlines for bank 
 compliance. 
@@ -10543,7 +10543,7 @@ focuses on OTS during the time period 2004 through 2008.
 SBLs, and credit card loans also count towards qualifying as a thrift), http://files.ots.treas.gov/74081.pdf.  
 599 See April 16, 2010 Subcommittee Hearing at 11 (testimony of Treasury IG Eric Thorson). 
 
-166 
+166 
 
 In 2009, OTS oversaw about 765 thrift-chartered institutions.600
 
@@ -10601,7 +10601,7 @@ Examinations.”  During the time period of the Subcommittee’s investigation, 
 agreement, signed by the FDIC, Federal Reserve, OCC, and OTS, was in effect.  In July 2010, the federal financial 
 regulators agreed to adopt a stronger version, discussed later in this Report.  
 
-167 
+167 
 
 For the eight largest insured institutions at the time, the FDIC assigned at least one 
 
@@ -10658,7 +10658,7 @@ rating means “generally exhibits unsafe and unsound practices or conditions”
 extremely unsafe and unsound practices or conditions” and is of “greatest supervisory concern.”  See chart in the 
 prepared statement of Treasury IG Eric Thorson at 7, reprinted in April 16, 2010 Subcommittee Hearing at 107. 
 
-168 
+168 
 
 had temporary offices at Washington Mutual for accessing bank information, collecting data 
 from bank employees, performing analyses, and conducting other exam activities.  Washington 
@@ -10715,7 +10715,7 @@ CAMELS ratings for WaMu to ensure they were appropriate.
 Memorandum of Washington Mutual Bank, at Bisset_John-00046124_002, Hearing Exhibit 4/16-12a. 
 607 See April 16, 2010 Subcommittee Hearing at 21 (information supplied by Treasury IG Thorson for the record). 
 
-169 
+169 
 
 In addition, for institutions with assets of $10 billion or more, the FDIC had established a 
 Large Insured Depository Institutions (LIDI) Program to assess and report on emerging risks that 
@@ -10762,7 +10762,7 @@ during the early part of the review period.  Beginning in the second half of 200
 conditions deteriorated, and the failure of [Washington Mutual] to fully integrate past 
 mortgage banking acquisitions, address operational issues, and realize expectations from 
 
-170 
+170 
 
 certain major IT initiatives exposed the institution’s infrastructure weaknesses and began 
 to negatively impact operating results.”608
@@ -10819,7 +10819,7 @@ exceedingly patient.”).
 609 See 3/15/2004 OTS Report of Examination, at OTSWMS04-0000001509, Hearing Exhibit 4/16-94 [Sealed 
 Exhibit]. 
 
-171 
+171 
 
  
 
@@ -10879,7 +10879,7 @@ JPM_WM00302987, Hearing Exhibit 4/13-2a (chart showing peak loss rates in 2007).
 615 See 3/15/2004 OTS Report of Examination, at OTSWMS04-0000001509, Hearing Exhibit 4/16-94 [Sealed 
 Exhibit]. 
 
-172 
+172 
 
 Even before it received formal Board approval, Washington Mutual had begun shifting 
 its loan originations toward higher risk loans.  By 2007, rising defaults and the collapse of the 
@@ -10961,7 +10961,7 @@ making minimum payments.  See 8/2006 chart, “Borrower-Selected Payment Behavio
 presentation entitled, “Option ARM Credit Risk,” JPM_WM00212646, Hearing Exhibit 4/13-37. 
 620 See Treasury and FDIC IG Report, at 9, Hearing Exhibit 4/16-82. 
 
-173 
+173 
 
 ARMs, 50% of its subprime loans, and 90% of its home equity loans.621  WaMu also originated 
 numerous loans with high loan-to-value (LTV) ratios, in which the loan amount exceeded 80% 
@@ -11021,7 +11021,7 @@ Mutual was suddenly left with billions of dollars in unmarketable subprime loans
 623 Id. at 11. 
 624 See Thorson prepared statement, at 5, April 16, 2010 Subcommittee Hearing at 105. 
 
-174 
+174 
 
 that were plummeting in value.  WaMu stopped issuing subprime loans.  In the fourth quarter of 
 2007, WaMu reported a $1 billion loss.   
@@ -11083,7 +11083,7 @@ retained higher risk products (e.g., Option ARMS, 2nd Liens, Subprime, Low Doc).
 Ballenger (2/14/2010); and OTS Western Region Office Director Darrel Dochow (3/3/2010);  4/2010 “Washington 
 Mutual Regulators Timeline,” prepared by the Subcommittee, Hearing Exhibit 4/16-1j.  
 
-cause a loss to the Deposit Insurance Fund.  It also initiated a special insurance examination of 
+cause a loss to the Deposit Insurance Fund.  It also initiated a special insurance examination of 
 WaMu, which it conducted concurrently with ongoing OTS examination efforts.630
 
   
@@ -11150,7 +11150,7 @@ analysis earlier in the summer and had been pushing for a downgrade for weeks.  
 OTS, FDIC_WAMU_000001730, Hearing Exhibit 4/16-59. 
 639 8/1/2008 email from OTS Director John Reich to FDIC Chairman Sheila Bair, Hearing Exhibit 416-63. 
 
-176 
+176 
 
 management, and board oversight.  On August 4, WaMu asked OTS to drop the requirement that 
 the consultant review the Board’s oversight efforts, and OTS agreed.   
@@ -11215,7 +11215,7 @@ Protection (2/12/2010).
 645 See undated charts prepared by FDIC on “Daily Retail Deposit Change,” FDIC-PSI-01-000009. 
 646 See IG Report at 13. 
 
- 
+ 
 
 (3)  OTS Identification of WaMu Deficiencies  
 
@@ -11267,7 +11267,7 @@ with WaMu’s lending standards.  In May of that year, an OTS Findings Memorandu
                                                       
 647 See IG Report at 28. 
 
-178 
+178 
 
 “Several of our recent examinations concluded that the Bank’s single family loan 
 underwriting was less than satisfactory due to excessive errors in the underwriting 
@@ -11328,7 +11328,7 @@ found difficult to address.  The institution instituted a major organizational/s
 651 9/13/2004 OTS Report of Examination, at OTSWMS04-0000001492, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 652 9/13/2004 OTS Report of Examination, at OTSWMS04-0000001497, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 
-179 
+179 
 
 realignment in September 2003 and has continued to make additional adjustments since 
 that time to address accumulating control issues.”653
@@ -11392,7 +11392,7 @@ OTSWMEF-0000047591 [Sealed Exhibit].
 656 Id. at OTSWME05-004 0000392. 
 657 8/29/2005 OTS Report of Examination, at OTSWMS05-004 0001794, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 
-180 
+180 
 
  
 
@@ -11459,7 +11459,7 @@ Exhibit 4/16-33.
 008 0001243, Hearing Exhibit 4/16-35. 
 662 8/26/2006 OTS Report of Examination, at OTSWMS06-008 0001680, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 
-181 
+181 
 
 fact that a number of similar concerns were raised at prior examinations, we concluded 
 that too much emphasis was placed on loan production, often at the expense of loan 
@@ -11513,7 +11513,7 @@ improve during that span, OTS failed to take action, such as requiring a board r
 665 7/15/2008 OTS Presentation to WaMu Board of Directors based on Comprehensive Examinations, 
 Polakoff_Scott-00061303_007, 012, 027, Hearing Exhibit 4/16-12b. 
 
-182 
+182 
 
 memorandum of understanding, or cease and desist order compelling WaMu to tighten its 
 lending standards and increase oversight of its loan officers to reduce underwriting error and 
@@ -11566,7 +11566,7 @@ Directors.  The 2004 ROE stated:
 666 Subcommittee interviews of Ronald Cathcart (2/23/2010), David Schneider (2/17/2010), and Cheryl Feltgen 
 (2/6/2010). 
 
-183 
+183 
 
 “Board oversight and management performance has been satisfactory … but … increased 
 operational risks warrant prompt attention.  These issues limit the institution’s flexibility 
@@ -11637,7 +11637,7 @@ obtain progress reports from the ERM Department and ensure it had sufficient res
 672 6/1/2005 OTS Findings Memorandum, “Corporate Risk Oversight,” OTSWMS05-005 0002046, Hearing Exhibit 
 4/16-23. 
 
-184 
+184 
 
 become an effective counterweight to the increased risk-taking entailed in the High Risk Lending 
 Strategy:  
@@ -11701,7 +11701,7 @@ Exhibit].
 676 8/29/2006 OTS Report of Examination, at OTSWMS06-008 0001671, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 677 Id. at OTSWMS06-008 0001687, 91. 
 
-185 
+185 
 
 2007 Risk Management Deficiencies.  In 2007, as high risk loan delinquencies and 
 
@@ -11758,7 +11758,7 @@ Exhibit 4/16-10.
 681 Id. at 011.   
 682 9/18/2007 OTS Report of Examination, at OTSWMEF-0000046681, Hearing Exhibit 4/16-94 [Sealed Exhibit]. 
 
-186 
+186 
 
 Attention that were noted in prior examinations but were not adequately addressed, 
 including … an ERM function that was not fully effective.”683
@@ -11829,7 +11829,7 @@ JPM_WM01022322; 3/17/2008 letter from Kerry Killinger to Darrel Dochow with encl
 OTSWMS08-015 0001216  (committing to initiatives outlined by management).   
 687 6/19/2008 OTS Asset Quality Memo 22, Bisset_John-00046124_002, Hearing Exhibit 4/16-12a. 
 
-187 
+187 
 
 identified, measured, monitored and communicated[.]  Even more critical given increased 
 credit, market, and operational risk.”688
@@ -11886,7 +11886,7 @@ Exhibit].
 
   Despite this 
 
-188 
+188 
 
 dramatic criticism, OTS found in the next year’s examination that WaMu had continued to use 
 noncompliant automated appraisals.694
@@ -11951,7 +11951,7 @@ processes; “loosely defined” vendor management; “unreasonable and impruden
 701 Subcommittee Interview of Bruce Thorvig (2/24/2010). 
 702  IG Report, at 11, Hearing Exhibit 4/16-82. 
 
-189 
+189 
 
 influence over the appraisal function;” and a “broken” third party appraisal risk control process 
 that “may be contributing to the increasing incidence of mortgage fraud.”703
@@ -12021,7 +12021,7 @@ which provided jurisdiction for the complaint.
 707 New York v. First American Corporation, et al., (N.Y. Sup.), Complaint (November 1, 2007), at 3. 
 708 11/7/2007 email from Darrel Dochow to Benjamin Franklin, Randy Thomas, others, OTSWMS07-011 0001294.  
 
-190 
+190 
 
 It took nearly a month for OTS to launch its own investigation into the allegations set out 
 
@@ -12087,7 +12087,7 @@ disputed the conclusions of the investigation.
 715 Id.  
 716 OTS internal document, OTS Enforcement Status of Formal Investigations, Quigley_Lori-00231631_001. 
 
-(d)  Deficiencies Related to Long Beach  
+(d)  Deficiencies Related to Long Beach  
 
 191 
 
@@ -12142,7 +12142,7 @@ compared to its peers:
 719 1/13/2004 FDIC-Washington State joint visitation report, FDIC-EM_00102515-20, Hearing Exhibit 4/13-8b.  
 OTS held a copy of this report in its files, OTSWME04-0000029592.   
 
-192 
+192 
 
  “Performance data for 2003 and 2004 vintages appear to approximate industry average 
 while issues prior to 2003 have horrible performance.  . . . [Long Beach] finished in the 
@@ -12205,7 +12205,7 @@ OTSWMS06-007 0001011, Hearing Exhibit 4/16-31.
 723 6/3/2005 OTS memorandum from Rich Kuczek to Darrel Dochow, “Long Beach Mortgage Corporation (LBMC) 
 Review,” OTSWMS06-007 0002683, Hearing Exhibit 4/16-28. 
 
-193 
+193 
 
 The memorandum identified several matters that required resolution prior to a WaMu purchase 
 of Long Beach, including the establishment of pre- and post-funding loan quality reviews that 
@@ -12270,7 +12270,7 @@ the fourth quarter of 2005 out of approximately $13.2 billion in total whole loa
 December 31, 2005, was $72.3 million.”); 1/20/2006 email from Darrel Dochow to Michael Finn and others, with 
 chart, OTSWMS06-007 0001020 to 1021 (describing Long Beach repurchases).   
 
-194 
+194 
 
 $107 million.730  In response, its auditor, Deloitte and Touche, cited Long Beach for a 
 Significant Deficiency in its financial reporting.  Despite the sudden evidence of Long Beach’s 
@@ -12337,7 +12337,7 @@ be promptly corrected, or heightened supervisory action would be taken, includin
 continue SFR subprime underwriting.”) [Sealed Exhibit]. 
 736 April 13, 2010 Subcommittee Hearing at 22. 
 
- 
+ 
 
 (e)  Over 500 Deficiencies in 5 Years   
 
@@ -12400,7 +12400,7 @@ these losses, WaMu’s loss provisions jumped from $218 million in 2006 to over 
 745 Id. 
 746 Id. at ¶ 82. 
 
-196 
+196 
 
 The joint report of the Treasury and the FDIC Inspectors General specifically identified 
 WaMu’s poor quality loans and poor risk management practices as the real cause of its failure, 
@@ -12457,7 +12457,7 @@ Division of Supervision and Consumer Protection, Complex Financial Institution B
 749 Id.  
 750 Subcommittee interview of Sheila Bair (4/5/2010). 
 
-197 
+197 
 
  OTS officials employed a variety of tactics to limit the FDIC oversight of the bank, 
 
@@ -12511,7 +12511,7 @@ WaMu, to understand where the mortgage market was headed and how it would affect
 not have a copy of the final version of the memorandum, but said the FDIC’s analysis was discussed with OTS.  
 Subcommittee interview of George Doerr (3/30/2010).   
 
-198 
+198 
 
 In mid-2005, an internal FDIC memorandum discussed the increased risk associated with 
 
@@ -12571,7 +12571,7 @@ FDIC IG Rymer at 5 (chart showing FDIC LIDI ratings descriptions), April 16, 201
 (showing FDIC LIDI ratings description). 
 756 Id. 
 
-199 
+199 
 
 early as 2004, the FDIC viewed WaMu as having higher levels of risk than indicated by its 
 CAMELS ratings.  This chart shows the comparable ratings over time: 
@@ -12670,7 +12670,7 @@ insurance examination of the bank, analyzed its capital, and concluded that the 
 759 Prepared statement of FDIC IG Rymer at 6-7, April 16, 2010 Subcommittee Hearing, at 125-26.  See also IG 
 Report at 40-42.  
 
-200 
+200 
 
 additional capital.760  The FDIC staff attempted to engage OTS staff in discussions about 
 increasing the bank’s capital and downgrading its CAMELS ratings, but OTS was not 
@@ -12736,7 +12736,7 @@ It would appear to be a rating resulting from fear and not a rating based on the
 765 8/1/2008 email from David Promani to FDIC colleagues, FDIC-EM_00246958, Hearing Exhibit 4/16-64. 
 766 See 8/1/2008, email from Darrell Dochow to OTS senior officials, Hearing Exhibit 4/16-62. 
 
-201 
+201 
 
 of the institution.  WaMu has both the capital and the liquidity to justify a 3 rating.  It 
 seems based on email exchanges which have taken place that FDIC supervisory staff in 
@@ -12804,7 +12804,7 @@ Hearing Exhibit 4/16-66.
 770 9/10/2008 email from OTS Director John Reich to OTS Deputy Director Scott Polakoff, Polakoff_Scott-
 00065461_001, Hearing Exhibit 4/16-68. 
 
-202 
+202 
 
 FDIC had to make multiple requests, taking the issue up through the OTS hierarchy in 
 Washington, D.C. headquarters, to regain the access it had enjoyed for years at WaMu. 
@@ -12863,7 +12863,7 @@ access to the Examiner Library.  And he hasn’t arranged that.”).
 772 Id. 
 773 April 16, 2010 Subcommittee Hearing at 72-73. 
 
-203 
+203 
 
 worsening relationship between the two agencies, impeded FDIC oversight efforts, and 
 weakened oversight of WaMu’s activities.774
@@ -12920,7 +12920,7 @@ in terms of information sharing that carried through to 2008.”).
 778 1/24/2006 email from OTS senior official Michael Finn to Edwin Chow and Darrel Dochow, OTSWM06-006 
 0000129, Hearing Exhibit 4/16-49. 
 
-204 
+204 
 
 FDIC, as we have in the past.”779
 and FDIC had not shown “any concerns regarding our past or planned examination activities, 
@@ -12979,7 +12979,7 @@ and conclusions at Washington Mutual.  We do understand your need for access to
 781 10/6/2006 letter from FDIC senior official John Carter to OTS senior official Michael Finn, 
 FDIC_WAMU_000014445-46, Hearing Exhibit 4/16-52a. 
 
-205 
+205 
 
 examination information and your need to meet with OTS staff to discuss our supervisory 
 activities at Washington Mutual.  To facilitate this information sharing and discussions, 
@@ -13046,7 +13046,7 @@ Mutual and to assess the extent of any threat to the Deposit Insurance Fund.
 786 9/7/2006 email from FDIC senior official John Carter to George Doerr, FDIC-EM_00252239, Hearing Exhibit 
 4/16-51c. 
 
-206 
+206 
 
 In February 2007, OTS refused an FDIC request to review WaMu loan files to evaluate 
 
@@ -13105,7 +13105,7 @@ question in my mind that the FDIC’s request for back-up authority, simply give
 789 4/30/2007 email from George Doerr to David Collins, FDIC_WAMU 000014457, Hearing Exhibit 4/16-57.   
 790 April 16, 2010 Subcommittee Hearing at 80-81 (testimony of Sheila Bair). 
 
-207 
+207 
 
 sheer size of WaMu, was, to me, enough reason for FDIC to ask for back-up 
 authority.”791
@@ -13170,7 +13170,7 @@ EM_00110089, Hearing Exhibit 4/16-66 (“I should not have to remind you the FDI
 [Primary Federal Regulator] (i.e. the OTS) rules on solvency.”). 
 794 April 16, 2010 Subcommittee Hearing at 64. 
 
-208 
+208 
 
 in the kind of dangerous practices that the bank engaged in, dangerous to their solvency, 
 dangerous to their investors, dangerous to their depositors, dangerous to this 
@@ -13224,7 +13224,7 @@ Mr. Rymer:  I would agree with Mr. Thorson.  ...
                                                       
 795 Id. at 66. 
 
-209 
+209 
 
 Senator Coburn:  [To Mr. Thorson] By your statement, it would imply almost that OTS is 
 an enabler of this effort rather than an enabler of making sure that the American people’s 
@@ -13277,7 +13277,7 @@ Mutual was a posture of deference to the management of the institutions it regul
 Cathcart, WaMu’s chief enterprise risk officer from 2006-2008, described OTS as essentially 
 believing in “self-regulation”: 
 
-210 
+210 
 
 “I … have actually operated in banks under three regulators, in Canada under the Office 
 of the Supervisor of Financial Institutions, at Bank One under the OCC, and then at 
@@ -13340,7 +13340,7 @@ Enterprise Risk Officer, 2006-2008).
 799 April 16, 2010 Subcommittee Hearing at 36. 
 800 Id. at 5 (opening statement of Senator Levin). 
 
-211 
+211 
 
 don’t consider it a disclosable event, and we also think the investment community won’t 
 be surprised if they learn of it, and would probably only be surprised to learn one didn’t 
@@ -13401,7 +13401,7 @@ Hearing Exhibit 4/16-44.
 testified:  “I don’t know, to tell you the truth.  I do not know why it took so long to implement the MOU. …  I regret 
 [the] … delay.”). 
 
-212 
+212 
 
 problems before the purchase, OTS would have to rely on its “relationship” with WaMu to get 
 the job done:  
@@ -13451,7 +13451,7 @@ findings had “become almost unnecessary.”
 805 6/15/2006 email from Lawrence Carter to Darrel Dochow, Dochow_Darrel-00022908_001, Hearing Exhibit 
 4/16-7. 
 
-213 
+213 
 
 After urging patience on WaMu reforms, suggesting a limit on the corrective actions 
 
@@ -13506,7 +13506,7 @@ Mr. Carter:  I do not think I could say it was wholly inadequate.
 806 See, e.g., IG Report at 30. 
 807 See Thorson prepared statement, April 16, 2010 Subcommittee Hearing at 12. 
 
-214 
+214 
 
 Senator Levin:  I did not use the word ‘wholly.’  You could tell them it was not wholly 
 adequate, but you could not tell them it was inadequate.  That is what you are telling us. 
@@ -13569,7 +13569,7 @@ Exhibit 4/13-23b.
 Michele Snyer, Deputy General Auditor, to Stewart Landefeld, Acting Chief Legal Officer, and others, Hearing 
 Exhibit 4/13-24. 
 
-215 
+215 
 
 privilege.813
   The OTS Examiner-in-Charge at the time told the Subcommittee that he insisted on 
@@ -13622,7 +13622,7 @@ hold banks accountable.
 814 April 13, 2010 Subcommittee Hearing at 39 (testimony of James G. Vanasek, former WaMu Chief Risk Officer, 
 2004-2005). 
 
-216 
+216 
 
 Low Expectations.  The documents show that OTS examiners had low expectations that 
 
@@ -13682,7 +13682,7 @@ Hearing Exhibit 4/16-15.
 00020408_002, Hearing Exhibit 4/16-9. 
 818 Id. at Franklin_Benjamin-00020408_001. 
 
-217 
+217 
 
 “for the most part” OTS examiners were “butting heads” with bank personnel and it was difficult 
 to effect change.819
@@ -13737,7 +13737,7 @@ Rating,” OTSWMS07-013 0002576, Hearing Exhibit 4/16-39.
 821 11/21/2005 email exchange between OTS examiner Benjamin Franklin and Examiner-in-Charge Lawrence 
 Carter and others, OTSEMS05-004 0001911-12, Hearing Exhibit 4/16-30. 
 
-218 
+218 
 
 nice if they [higher risk loan portfolios] could meet even higher expectations, but that 
 would require us to agree on what the standard should be.”822
@@ -13800,7 +13800,7 @@ protective of Option ARMs.
 0001491-495, Hearing Exhibit 4/16-71. 
 828 Id. 
 
-219 
+219 
 
 proposed restrictions on negatively amortizing loans from going farther than they believed 
 necessary, noting in part the “profitable secondary market” for Option ARMs and the fact that 
@@ -13864,7 +13864,7 @@ Exhibit 4/16-72.
 831 10/4/2006 “Interagency Guidance on Nontraditional Mortgage Product Risks,” (NTM Guidance), 71 Fed. Reg. 
 192 at 58609. 
 
-compliance with the Guidance, and that no agency should have been telling a bank that it did not 
+compliance with the Guidance, and that no agency should have been telling a bank that it did not 
 have to comply with the new standards.832
 
   
@@ -13928,7 +13928,7 @@ greater access at WaMu, but limited FDIC’s review of WaMu's residential loan f
 these files to assess underwriting and WaMu's compliance with the Non-Traditional Mortgage Guidance.”); See also 
 April 16, 2010 Subcommittee Hearing at 187 (Testimony of George Doerr, FDIC). 
 
-221 
+221 
 
 contacted OTS official Mike Finn about the FDIC’s request to review WaMu loan files to test 
 NTM compliance, Mr. Finn said that OTS was giving its institutions more time to comply with 
@@ -13984,7 +13984,7 @@ income-no asset loans.
 WaMu mortgage backed securities showing, as of January 2011, delinquency rates for particular mortgage backed 
 securities, including WMALT 2006 OA-3 – 57.87%). 
 
-222 
+222 
 
 Without even asking for income or assets/liabilities, the loans are collateral-dependent.  
 This is imprudent …  [T]he interagency NTM Guidance states specifically that collateral 
@@ -14051,7 +14051,7 @@ Franklin, Franklin_Benjamin-00020449_001, Hearing Exhibit 4/16-79.
 846 Id. 
 847 Id. 
 
-223 
+223 
 
 industry.  …  At this point I don’t think a memo is the best avenue, I think we need to 
 request in writing that WAMU respond to us on how the NINA’s comply with the 
@@ -14111,7 +14111,7 @@ Exhibit 4/16-82.
 851 See, e.g., April 16, 2010 Subcommittee Hearing at 14-15, 41-42. 
 852 Id. at 42 (“In hindsight, I regret it.”). 
 
-224 
+224 
 
 had identified serious deficiencies at the bank year after year, with no enforcement 
 consequences; some tried to interpret OTS standards in ways that would reduce risk, only to be 
@@ -14163,7 +14163,7 @@ overlook or excuse high risk activities:
 854 9/15/2005 email from Examiner-in-Charge Lawrence Carter to Western Region Deputy Director Darrel Dochow, 
 OTSWMS05-002 0000535, Hearing Exhibit 4/16-6. 
 
-225 
+225 
 
 “If an association has high exposure to credit risk, it is not sufficient to demonstrate that 
 the loans are profitable or that the association has not experienced insignificant losses in 
@@ -14230,7 +14230,7 @@ Treasury Inspectors General).
 859 Undated draft memorandum from the WaMu examination team at the FDIC to the FDIC Section Chief for Large 
 Banks, FDIC-EM_00251205-10, Hearing Exhibit 4/16-51a (likely mid-2005). 
 
-226 
+226 
 
 includes whether the risk threatens loss to the Deposit Insurance Fund.  Any firm that decides to 
 take a risk should be the only firm, along with its investors, to bear the brunt of the problem if it 
@@ -14283,7 +14283,7 @@ at a Limited Number of Large, Complex Financial Institutions,” Testimony of Or
 4/16-83 (GAO reviewed risk management practices of OTS, as well as the Federal Reserve, the Office of the 
 Comptroller of the Currency, the SEC, and self-regulatory organizations.). 
 
-227 
+227 
 
 loans, mostly from Long Beach, as well as about $115 billion in Option ARM loans.862
 documents indicate that OTS did not consider the problems that could result from widespread 
@@ -14345,7 +14345,7 @@ EM_00251205-10, Hearing Exhibit 4/16-51a (likely mid-2005).
 865 9/16/2005 email from OTS Examiner-in-Charge at WaMu, OTSWMS05-002 0000535, Hearing Exhibit 4/16-6. 
 866 1/20/2006 email from Darrel Dochow to Michael Finn and others, OTSWMS06-007 0001020. 
 
-228 
+228 
 
 2008 OTS email after WaMu’s failure:  “We were satisfied that the loans were originated 
 for sale.  SEC and FED [were] asleep at the switch with the securitization and 
@@ -14413,7 +14413,7 @@ gathered from WaMu’s Market Risk Committee minutes, Dec. 2006 and Jan. 2007).
 871 Thorson prepared statement at 10, April 16, 2010 Subcommittee Hearing at 110.  See also id. at 8, April 16, 2010 
 Subcommittee Hearing at 108.   
 
-229 
+229 
 
 satisfactory risk management practices.”872
 rating until June 2008, despite the bank’s ongoing failure to correct the many deficiencies 
@@ -14476,7 +14476,7 @@ finally agreed to the downgrade.  One week later, OTS placed the bank into recei
 874 See, e.g., Rymer prepared statement at 5. 
 875 9/11/2008 OTS document, “WaMu Ratings of 3/343432,” Polakoff_Scott-00065325, Hearing Exhibit 4/16-48. 
 
-230 
+230 
 
  
 Hindsight establishes that the CAMELS ratings assigned to Washington Mutual 
@@ -14536,7 +14536,7 @@ Insurance Fund which then contained about $45 billion.  Exhausting the Deposit I
 876 April 13, 2010 Subcommittee Hearing at 40 (Testimony of James Vanasek).    
 877 See April 16, 2010 Subcommittee Hearing at 25. 
 
-could have triggered additional panic and loss of confidence in the U.S. banking system and 
+could have triggered additional panic and loss of confidence in the U.S. banking system and 
 financial markets.     
 
 231 
@@ -14594,7 +14594,7 @@ Mount,” New York Times (3/5/2007).
 882 3/5/2007 OTS press release, “OTS Approves Countrywide Application,” 
 http://www.ots.treas.gov/_files/777014.html. 
 
-232 
+232 
 
 nearly 20% of all mortgages in the United States.883  But in August 2008, after the collapse of the 
 subprime secondary market, Countrywide could no longer sell or securitize its subprime loans 
@@ -14658,7 +14658,7 @@ http://www.occ.gov/static/publications/annrpt/2009AnnualReport.pdf.
 890 Id. at ¶ 50. 
 891 Id. at ¶ 63. 
 
-Later he warned that the bank was “flying blind” on the ultimate delinquency rate and should 
+Later he warned that the bank was “flying blind” on the ultimate delinquency rate and should 
 consider selling the loans.892
 
   The SEC complaint also stated: 
@@ -14727,7 +14727,7 @@ http://www.ftc.gov/opa/2010/06/countrywide.shtm.
 Loss Review of IndyMac Bank,” at 40, http://www.treasury.gov/about/organizational-
 structure/ig/Documents/oig09032.pdf (hereinafter “IG Report on IndyMac Bank”). 
 
-required by the loan, triggering negative amortization.  In addition to originating loans, IndyMac 
+required by the loan, triggering negative amortization.  In addition to originating loans, IndyMac 
 packaged them into securities and sold them on the secondary market.899
 
    
@@ -14791,7 +14791,7 @@ interview of Scott Polakoff (3/16/10).
 http://www.treasury.gov/about/organizational-structure/ig/Documents/sar042009.pdf. 
 908 Id. at 31. 
 
-General, OTS typically relied on the “cooperation of IndyMac management to obtain needed 
+General, OTS typically relied on the “cooperation of IndyMac management to obtain needed 
 improvements” – which was usually not forthcoming – to remedy identified problems.909
 
   
@@ -14851,7 +14851,7 @@ structure/ig/Documents/March%202010%20SAR%20Final%20%20(04-30-10).pdf.
 00931-DDP (USDC CD Calif.), Amended Consolidated Class Action Complaint (March 24, 2008), at ¶¶ 55-58 
 (hereinafter “New Century Class Action Complaint”). 
 
-236 
+236 
 the second largest subprime lender in the country.917
 insured accounts, it was not overseen by any federal or state bank regulator. 
 
@@ -14916,7 +14916,7 @@ Bankruptcy Report”).  See also New Century Class Action Complaint at ¶ 59-60.
 925 SEC Complaint against New Century Executives; See also 12/7/2009 SEC Press Release, “SEC Charges Former 
 Offices of Subprime Lender New Century With Fraud.” 
 
-237 
+237 
 
 payment defaults and a backlog of loan repurchases, which had the effect of materially 
 overstating the company’s financial results. The SEC complaint also stated that, although New 
@@ -14979,7 +14979,7 @@ http://www.bloomberg.com/apps/news?pid=newsarchive&sid=atIgi9otRZ3k.
 PCAS (March 26, 2008);  “CapitalSource, Inc.,” Hoover’s Company Records.  See also “CapitalSource to Acquire 
 Fremont’s Retail Arm,” New York Times (4/14/2008). 
 
-2008, Fremont General Corporation declared bankruptcy under Chapter 11 and has since 
+2008, Fremont General Corporation declared bankruptcy under Chapter 11 and has since 
 reorganized as Signature Group Holdings, Inc.936
 
  
@@ -15047,7 +15047,7 @@ Fremont’s Retail Arm,” New York Times (4/14/2008).
 942 In re Fremont Investment & Loan, Supervisory Prompt Corrective Action Directive, Docket No. FDIC-08-069 
 PCAS ( March 26, 2008). 
 
-239 
+239 
 
 Century in December 2009.  By putting an early end to Fremont’s subprime lending, the FDIC 
 stopped it from selling additional poor quality mortgage backed securities into U.S. securitization 
@@ -15101,7 +15101,7 @@ revised interagency agreement strengthening the FDIC’s ability to conduct exam
 944 7/12/2007 “Moody’s Structured Finance Teleconference and Web Cast: RMBS and CDO Rating Actions,” 
 prepared by Moody’s Investors Service, Hearing Exhibit 4/23-106.    
 
-240 
+240 
 
 insured depository institutions and a new FDIC deposit insurance pricing system that requires 
 higher risk institutions to pay higher insurance fees. 
@@ -15161,7 +15161,7 @@ our risks as deposit insurer.  I believe this is a very strong agreement and one
 small part to the work of your Subcommittee in identifying weaknesses in the supervisory processes leading up to 
 the failure of Washington Mutual.”). 
 
-241 
+241 
 
 Risk Factors in Insurance Fees.  Under a new FDIC deposit insurance pricing system 
 that takes effect in 2011, large depository institutions with higher risk activities will be required 
@@ -15223,7 +15223,7 @@ Large Bank Pricing,” http://www.fdic.gov/news/news/press/2011/pr11028.html.
 952 See Title I, Subtitle A, of the Dodd-Frank Act establishing the Financial Stability Oversight Council, including 
 Section 112(a) which provides its purposes and duties. 
 
-242 
+242 
 
 3.  Strengthen CAMELS Ratings.  Federal banking regulators should undertake a 
 
@@ -15241,7 +15241,7 @@ practices may have on U.S. financial systems as a whole.
 
  
 
-243 
+243 
 
  
 
@@ -15301,7 +15301,7 @@ U.S. financial institutions, and even in the viability of U.S. financial markets
 953 S&P issues ratings using the “AAA” designation; Moody’s equivalent rating is “Aaa.”  For ease of reference, this 
 Report will refer to both ratings as “AAA.” 
 
-244 
+244 
 
  
 
@@ -15358,7 +15358,7 @@ essentially one of ‘we know-it-when-we-see-it.’  The resulting limited growt
 believed to have helped to further entrench the three dominant CRAs:  by some accounts, they have about 98% of 
 total ratings and collect 90% of total rating revenue.”  9/3/2009 version of the report at 2-3). 
 
-245 
+245 
 
  
 
@@ -15420,7 +15420,7 @@ ratings, but then failed to use the revised model to re-evaluate existing RMBS a
 956 “Wall Street and the Financial Crisis: The Role of Credit Rating Agencies,” before the U.S. Senate Permanent 
 Subcommittee on Investigations, S.Hrg. 11-673 (4/23/2010) (hereinafter “April 23, 2010 Subcommittee Hearing”). 
 
-CDO securities, delaying thousands of rating downgrades and allowing those 
+CDO securities, delaying thousands of rating downgrades and allowing those 
 securities to carry inflated ratings that could mislead investors. 
 
 246 
@@ -15477,7 +15477,7 @@ agencies to issue inflated ratings making assets eligible for purchase by those 
  
  
 
-   
+   
 
 (1) Credit Ratings Generally 
 Credit ratings, which first gained prominence in the late 1800s, are supposed to provide 
@@ -15553,7 +15553,7 @@ Subcommittee on Capital Markets, Insurance and Government Sponsored Enterprises,
 
   Financial 
 
-248 
+248 
 
  
 
@@ -15614,7 +15614,7 @@ Bank Corporation v. Gemstone CDO VII, Ltd., Index No. 200800764 (N.Y. Sup.), Com
 capital requirements provided they hold instruments with investment grade credit ratings); and Rule 2a-7 of the 
 Investment Company Act of 1940 (limiting money market funds to investments in “high quality” securities). 
 
-249 
+249 
 
  
 
@@ -15676,7 +15676,7 @@ Diego Law School Legal Studies Research Paper Series (5/2006), at 61.
 969 Id. 
 970 Standard & Poor’s ClassicDirect website, https://www.eclassicdirect.com/NASApp/cotw/CotwLogin.jsp.  
 
-250 
+250 
 
  
 
@@ -15736,7 +15736,7 @@ on the Cause of the Financial Crisis, Banking Law Committee, Section of Business
 972 11/1997 Comptroller of the Currency Administrator of National Banks Comptroller’s Handbook, “Asset 
 Securitization,” at 11. 
 
-    
+    
 
   To create that hierarchy, the arranger placed the pool’s 
 
@@ -15799,7 +15799,7 @@ A second common form of credit enhancement was “over-collateralization.”  In
 Rating Agencies,” report prepared by the SEC, at 6-10. 
 974 Id. at 6. 
 
-252 
+252 
 
  
 
@@ -15858,7 +15858,7 @@ For riskier loans, the model required a larger cushion to protect investment gra
 
 In addition to using quantitative models, Moody’s analysts also took into account 
 
-253 
+253 
 
  
 
@@ -15918,7 +15918,7 @@ RMBS rating analyses.  6/24/2010 supplemental letter from S&P to the Subcommitte
 Review Criteria for U.S. RMBS.” 
 978 Prepared statement of Richard Michalek at 4, April 23, 2010 Subcommittee hearing. 
 
-254 
+254 
 
  
 
@@ -15983,7 +15983,7 @@ Agencies,” report prepared by the Securities and Exchange Commission, at 9.
 981 3/11/2008 compliance letter from Moody’s to SEC, SEC_OCIE_CRA_011212; SEC_OCIE_CRA_011214; and 
 SEC_OCIE_CRA_011217.  
 
-255 
+255 
 
 During the years reviewed by the Subcommittee, at Moody’s, the CEO and Chairman of 
 
@@ -16044,7 +16044,7 @@ SEC_OCIE_CRA_011217.
 984 3/14/2008 compliance letter from S&P to SEC, SEC_OCIE_CRA_011218-59, at 48-49, and at 56-57. 
 985 Subcommittee interview of Raymond McDaniel (4/6/2010). 
 
- 
+ 
 
  
 
@@ -16108,7 +16108,7 @@ transition of Moody’s accounting systems.
 
   S&P’s revenue increased even more.  In 2002, S&P’s gross revenue for 
 
-257 
+257 
 
  
 
@@ -16142,7 +16142,7 @@ thismatter.com/money, Hearing Exhibit 4/23-1g.
 999 “How and Why Credit Rating Agencies Are Not Like Other Gatekeepers,” Frank Partnoy, University of San 
 Diego Law School Legal Studies Research Paper Series (5/2006), at 67.   
 
-258 
+258 
 
  
 
@@ -16170,7 +16170,7 @@ managing directors made between $385,000 to about $460,000 in compensation in 20
 
 http://www.google.com/finance?q=mcgraw+hill.   
 
-259 
+259 
 
  
 
@@ -16223,7 +16223,7 @@ MOODYS-RFN-000045).
 1007 1/25/2010, “Estimation of Housing Bubble: Comparison of Recent Appreciation vs. Historical Trends,” chart 
 prepared by Paulson & Co. Inc., Hearing Exhibit 4/23-1j. 
 
-260 
+260 
 
  
 
@@ -16255,7 +16255,7 @@ Foreclosure Crisis,” at 7.
 1011 1/25/2010, “Mortgage Subprime Origination,” chart prepared by Paulson & Co. Inc., PSI-Paulson&Co-02-0001-
 21, at 4. 
 
-261 
+261 
 
  
 
@@ -16284,7 +16284,7 @@ Lenders also increased their issuance of home equity loans and lines of credit t
 
 1012 “The No-Money-Down Disaster,” Barron’s (8/21/2006). 
 
-initial interest rates or interest-only features, often taking a second lien on an already mortgaged 
+initial interest rates or interest-only features, often taking a second lien on an already mortgaged 
 home.1013
 
  
@@ -16328,7 +16328,7 @@ Foreclosure Crisis,” at 8.
 1015 11/7/2007 “Would a Housing Crash Cause a Recession?” report prepared by the Congressional Research 
 Service, at 3-4. 
 
-(2)  Mass Downgrades 
+(2)  Mass Downgrades 
 
  
 
@@ -16390,7 +16390,7 @@ June 13, 2007,” Moody’s;  6/28/2007 “Structured Finance New Ratings:  June
 Moody’s;  7/5/2007 “Structured Finance New Ratings:  June 18, 2007 through July 4, 2007,” Moody’s; and 
 7/12/2007 “Structured Finance New Ratings:  June 25, 2007 through July 11, 2007,” Moody’s. 
 
-264 
+264 
 
  
 
@@ -16455,7 +16455,7 @@ company about “how we rated the deals and are preparing to deal with the fallo
 from Michael Gutierrez to William LeRoy, Hearing Exhibit 4/23-52a; 3/2007 S&P internal email chain, “Pre-
 empting bad press on the subprime situation,” Hearing Exhibit 4/23-52c. 
 
-265 
+265 
 
  
 
@@ -16516,7 +16516,7 @@ mass downgrades:
 downgrades,” UBS-CT 021485, Hearing Exhibit 4/23-94o. 
 1028 7/13/2007 internal S&P email from Ian Bell to Tom Gillis and Joanne Rose, Hearing Exhibit 4/23-54a. 
 
-266 
+266 
 
  
 
@@ -16580,7 +16580,7 @@ Moody’s, at 4.
 (1/30/2008 “S&P Takes Action on 6,389 U.S. Subprime RMBS Ratings and 1,953 CDO Ratings,” S&P’s 
 RatingsDirect).  
 
-267 
+267 
 
  
 
@@ -16697,7 +16697,7 @@ Behavior of Market Constituents,” University of Westminster - School of Law In
 loans, and 76.9% of the issues rated in 2007.  In its rating transition report, S&P wrote that it had downgraded 
 44.3% of the subprime tranches it rated between the first quarter of 2005 and the third quarter of 2007.”) 
 
-268 
+268 
 
  
 
@@ -16758,7 +16758,7 @@ downgrades of subprime mortgage backed securities might have on its structured f
 Impact of Subprime Residential Mortgage-Backed Securities on Moody’s-Rated Structured Finance CDOs: A 
 Preliminary Review,” Moody’s.  
 
-269 
+269 
 
  
 
@@ -16820,7 +16820,7 @@ Hearing Exhibit 4/23-45.
 1041 9/5/2006 email from Michael Gutierrez to Richard Koch and Edward Highland, “RE: Nightmare Mortgages,” 
 Hearing Exhibit 4/23-46b. 
 
-head of the S&P Surveillance Group “told me that broken down to loan level what she is seeing 
+head of the S&P Surveillance Group “told me that broken down to loan level what she is seeing 
 in losses is as bad as high 40’s – low 50%  I’d love to be able to publish a commentary with this 
 data but maybe too much of a powder keg.”1042
 
@@ -16883,7 +16883,7 @@ Data Show Rising Delinquencies, Lenders Continue to Loosen Mortgage Standards,�
 (10/19/2006)); 9/6/2006 Moody’s internal email, PSI-MOODYS-RFN-000001 (forwarding “The No-Money-Down 
 Disaster.” Barron’s (8/21/2006)). 
 
-271 
+271 
 
  
 
@@ -16951,7 +16951,7 @@ Financial Services Subcommittee on Housing and Community Opportunity, Cong.Hrg. 
 the Federal Bureau of Investigation, available at http://www.fbi.gov/stats-
 services/publications/fcs_report2006/financial-crimes-report-to-the-public-2006-pdf/view. 
 
-272 
+272 
 
  
 
@@ -17009,7 +17009,7 @@ Mortgage Asset Research Institute, LLC, at 10.
 1054 “Business Library – The Housing Bubble,” University of Florida George A. Smathers Libraries, 
 http://www.uflib.ufl.edu/cm/business/cases/housing_bubble.htm. 
 
-273 
+273 
 
  
 
@@ -17074,7 +17074,7 @@ a March 2000 email, the head of Moody’s Structured Finance Group in Paris wrot
 
  
 
-274 
+274 
 
  
 
@@ -17140,7 +17140,7 @@ Hearing Exhibit 4/23-15.
 1059 Subcommittee interview of Mark Froeba (10/27/2010). See also 6/2/2010 statement of Mark Froeba submitted 
 by request to the Financial Crisis Inquiry Commission.  
 
-had with Mr. Clarkson shortly after he was promoted to head of the Structured Finance Group.  
+had with Mr. Clarkson shortly after he was promoted to head of the Structured Finance Group.  
 Mr. Michalek stated: 
 
 275 
@@ -17209,7 +17209,7 @@ share dropped by a few percentage points, managers would be expected to justify
 1062 Prepared Statement of Eric Kolchinsky, Former Managing Director at Moody’s Investor Service, April 23, 2010 
 Subcommittee Hearing, at 1. 
 
-‘missing’ the deals which were not rated.  Colleagues have described enormous pressure 
+‘missing’ the deals which were not rated.  Colleagues have described enormous pressure 
 from their superiors when their market share dipped.”1063
 
   
@@ -17283,7 +17283,7 @@ at 5.
 1067 8/17/2004 email from S&P manager, “RE: SF CIA: CDO methodology invokes reactions,” Hearing Exhibit 
 4/23-3 [emphasis in the original]. 
 
-277 
+277 
 
  
 
@@ -17350,7 +17350,7 @@ CEO, the Chief Credit Officer told the Subcommittee that he wrote the memorandum
 Subcommittee interview of Andy Kimball (4/15/2010).   
 1073 Id.  
 
-278 
+278 
 
  
 
@@ -17414,7 +17414,7 @@ Warrack, noted that the new model “took a more conservative approach” that w
 1075 5/3/2006 email from Robert Morelli (UBS) to Peter Kambeseles (S&P), Hearing Exhibit 4/23-11. 
 1076 Id. 
 
-279 
+279 
 
  
 
@@ -17481,7 +17481,7 @@ exception if we fail.”1079
 Exhibit 4/23-2. 
 1079 2/16/2006 email from Edward Tang (Citigroup) to Lina Kharnak (S&P), Hearing Exhibit 4/23-8. 
 
-280 
+280 
 
  
 
@@ -17554,7 +17554,7 @@ Moody’s was able to make some changes after all:  “I spoke to Osmin earlier 
 RFN-000032. 
 1082 3/8/2007 email from Karen Ramallo to Yakov Krayn, Hearing Exhibit 4/23-22. 
 
-281 
+281 
 
  
 
@@ -17625,7 +17625,7 @@ previously.”).
 1086 8/1/2006 email from Elwyn Wong (S&P) to Shawn Stoval (Morgan Stanley) and Belinda Ghetti (S&P), Hearing 
 Exhibit 4/23-13. 
 
-282 
+282 
 
  
 
@@ -17693,7 +17693,7 @@ transactions (including the ABACUS deal that just closed last week) - and we can
 1089 5/1/2006 email from Richard Michalek to Yuri Yoshizawa, Hearing Exhibit 4/23-19; see also 5/23/2007 email 
 from Eric Kolchinsky to Yuri Yoshizawa and Yvonne Fu, PSI-MOODYS-RFN-000011 (“In that case, should we 
 
-283 
+283 
 
  
 
@@ -17762,7 +17762,7 @@ deal that they are working on.”).
 1094 Id. 
 1095 6/12/2007 email from Moody’s to Merrill Lynch, Hearing Exhibit 4/23-23 Addendum. 
 
-“Sarah and I have been working with James Yao from UBS but we have not been getting 
+“Sarah and I have been working with James Yao from UBS but we have not been getting 
 cooperation from him.  He has told me that I am jeopardizing the deal.  …  This is the 
 third time that he refuses to model the cashflow according to the Indenture and 
 Criteria.”1096
@@ -17831,7 +17831,7 @@ original].
 1099 4/5/2007 email from James Halprin to Bujiang Hu and others, Hearing Exhibit 4/23-94b. 
 1100 4/5/2007 email from Lois Cheng to Brian O’Keefe and Peter Kambeseles, and others, Hearing Exhibit 4/23-94c. 
 
-285 
+285 
 
  
 
@@ -17892,7 +17892,7 @@ of Vertical’s tranches, with five falling to junk status.  11/14/2007 “112 R
 Hybrid CDOs of ABS; $4.689B In Securities Affected,” S&P. 
 1106 9/11/2008 “Moody’s Withdraws Ratings of Notes Issued by 34 ABS CDOs,” Moody’s. 
 
-286 
+286 
 
  
 
@@ -17956,7 +17956,7 @@ Brian O’Keefe and Peter Kambeseles, and others, Hearing Exhibit 4/23-94c.
 1111 April 23, 2010 Subcommittee Hearing at 65. 
 1112 Id. at 64, 66.   
 
-287 
+287 
 
  
 
@@ -18027,7 +18027,7 @@ participants.”
 98.  
 1115 April 23, 2010 Subcommittee Hearing at 66-67. 
 
-288 
+288 
 
  
 
@@ -18085,7 +18085,7 @@ email observed:
                                                  
 1116 April 23, 2010 Subcommittee Hearing at 100-101. 
 
-289 
+289 
 
  
 
@@ -18157,7 +18157,7 @@ period in the housing market cannot produce reliable inferences about the effect
 the Structured Finance Market,” before U.S. House of Representatives Subcommittee on Capital Markets, Insurance 
 and Government Sponsored Enterprises, Cong.Hrg. 110-62 (9/27/2007), S&P SEN-PSI 0001945-71, at 46-47.  
 
-290 
+290 
 
  
 
@@ -18221,7 +18221,7 @@ information on any new data it had received or purchased for its models from 200
 1124 11/13/2000 email from Jay Siegel to Brian Clarkson, PSI-MOODYS-RFN-000007.   
 1125 2/17/2011 and 2/24/2011 Responses from Moody’s to Subcommittee questions.   
 
-291 
+291 
 
  
 
@@ -18283,7 +18283,7 @@ Representatives Committee on Oversight and Government Reform, Cong.Hrg. 110-155 
 
   
 
-292 
+292 
 
  
 
@@ -18344,7 +18344,7 @@ error in the new Evaluator 3.0 assumptions:
 1137 Subcommittee interview of Richard Gugliada, Former Head of S&P’s CDO Ratings Group (10/9/2009). 
 1138 Id. 
 
-293 
+293 
 
  
 
@@ -18409,7 +18409,7 @@ Moody’s was getting the ratings wrong for CDOs with RMBS assets, but he did �
 to the Financial Crisis Inquiry Commission, at 11.  
 1142 Id. at 21. 
 
-The lack of performance data for high risk residential mortgage products, the lack of 
+The lack of performance data for high risk residential mortgage products, the lack of 
 mortgage performance data in an era of stagnating or declining housing prices, the failure to 
 expend resources to improve their model analytics, and incorrect correlation assumptions meant 
 that the RMBS and CDO models used by Moody’s and S&P were out of date, technically 
@@ -18471,7 +18471,7 @@ email, S&P employees discuss questionable and inconsistent application of criter
 Loken to Shannon Mooney, Hearing Exhibit 4/23-96a (“Back in May, the deal had 2 assets default, which caused it 
 to fail.  We tried some things, and it never passed anything I ran.  Next thing I know, I’m told that because it had 
 
-295 
+295 
 
  
 
@@ -18543,7 +18543,7 @@ S&P Director of the Analytical Pool for the Global CDO Group.).
 CEO, the Chief Credit Officer told the Subcommittee that he wrote the memorandum attached to the email.  
 Subcommittee interview of Andy Kimball (4/15/2010). 
 
-296 
+296 
 
  
 
@@ -18607,7 +18607,7 @@ RMBS and CDOs were not always disclosed, or were not fully disclosed .…”).
 1152 1/16/2007 email from Kishore Yalamanchili (BlackRock) to Scott Mason (S&P), Glenn Costello (Fitch 
 Ratings), and others, PSI-S&P-RFN-000044.   
 
-297 
+297 
 
  
 
@@ -18668,7 +18668,7 @@ Surveillance Obligations.  Both Moody’s and S&P were obligated by contract to
 1156 These model improvements still significantly underestimated subprime risk as is evidenced by the sheer number 
 of downgrades that occurred after the model improvements for securities issued in 2006 and 2007.  
 
-298 
+298 
 
  
 
@@ -18730,7 +18730,7 @@ and using the methodology in effect then (ie, using the OC model we built then.�
 Senior Director in Structured Finance, “RE: Financial Times inquiry on transparency of assumptions,” MIS-OCIE-
 RMBS-0364942-46, at 43. 
 
-299 
+299 
 
  
 
@@ -18790,7 +18790,7 @@ at 7.
 1161 7/3/2007 S&P email from Cliff Griep to Ernestine Warner and Stephen Anderberg, Hearing Exhibit 4/23-32 
 [emphasis in original].  
 
- 
+ 
 Some internal S&P emails suggest alternative explanations for the decision not to retest.  
 In October 2005, for example, an S&P analytic manager in the Structured Finance Ratings Group 
 sent an email to his colleagues asking:  “How do we handle existing deals especially if there are 
@@ -18858,7 +18858,7 @@ revised rating approach.  This decision to selectively review certain ratings is
 1165 10/20/2006 email from Greg Lippmann (Deutsche Bank) to Craig Carlozzi (Mast Capital), 
 DBSI_PSI_EMAIL01774820.  
 
-301 
+301 
 
  
 
@@ -18925,7 +18925,7 @@ thousands of transactions, so we focus on those that we feel are more at risk.�
 1169 11/23/2005 email from Brian Neer (Morgan Stanley) to Elwyn Wong (S&P), Hearing Exhibit 4/23-64. 
 1170 11/23/2005 email from Elwyn Wong to Andrea Bryan, Hearing Exhibit 4/23-64. 
 
-302 
+302 
 
  
 
@@ -18998,7 +18998,7 @@ record numbers, and the mass downgrades of RMBS and CDO ratings had begun.
 1172 3/12/2007 email from Cliff Griep to Tom Gillis, and others, PSI-S&P-RFN-000015.  
 1173 7/15/2007 email from Tom Gillis to Valencia Daniels, “Special APB meeting,” Hearing Exhibit 4/23-74. 
 
-303 
+303 
 
  
 
@@ -19065,7 +19065,7 @@ Calyon, PSI-MOODYS-RFN-000040.
 for Deutsche Bank (10/18/2010).  Mr. Lippmann said he thought the agencies’ decision not to retest existing 
 securities was “ridiculous.”  
 
-304 
+304 
 
  
 
@@ -19131,7 +19131,7 @@ than we wanted them to.”  He continued: “It was not for lack of having open 
 Subcommittee Hearing, at 1-2.  
 1180 April 23, 2010 Subcommittee Hearing at 96-97. 
 
-305 
+305 
 
  
 
@@ -19200,7 +19200,7 @@ raised at rating Committees.”1185
 1184 5/1/2006 email from Richard Michalek to Yuri Yoshizawa, Hearing Exhibit 4/23-19.  
 1185 Prepared statement of Richard Michalek at 20, April 23, 2010 Subcommittee hearing. 
 
-306 
+306 
 
  
 
@@ -19269,7 +19269,7 @@ are on a downward spiral of morale, analytical leadership/quality and client ser
 S&P-RFN-000012.    
 1191 10/31/2006 S&P internal email, “A CDO Director resignation,” PSI-S&P-RFN-000001. 
 
-307 
+307 
 
  
 
@@ -19333,7 +19333,7 @@ an interview with the Subcommittee, the head of S&P’s RMBS Surveillance Group 
 
  
 
-securities during her tenure, her emails indicate otherwise.1194
+securities during her tenure, her emails indicate otherwise.1194
 period, she repeatedly described and complained about a lack of resources that was impeding her 
 group’s ability to complete its work.  In the spring of 2006, she emailed her colleague about her 
 growing anxiety:   
@@ -19399,7 +19399,7 @@ problems.  Subcommittee interview of Ernestine Warner (3/11/2010).
 1196 6/1/2006 emails from Ernestine Warner to Roy Chun, Hearing Exhibit 4/23-83. 
 1197 12/20/2006 email from Ernestine Warner to Gail Houston, Roy Chun, others, Hearing Exhibit 4/23-84. 
 
-309 
+309 
 
  
 
@@ -19464,7 +19464,7 @@ managing director in U.S. Public Finance at S&P, a position without staff to sup
 1201 2007 Performance Evaluation for Peter D’Erchia, S&P SEN-PSI 0007442; See also April 23, 2010 
 Subcommittee Hearing at 74-75. 
 
-Similarly, Ernestine Warner, the head of RMBS Surveillance, lost her managerial position and 
+Similarly, Ernestine Warner, the head of RMBS Surveillance, lost her managerial position and 
 was reassigned to investor relations in the Structured Finance Group. 
 
  
@@ -19523,7 +19523,7 @@ http://www.fbi.gov/stats-services/publications/fiff_04.
 
    
 
-311 
+311 
 
  
 
@@ -19582,7 +19582,7 @@ Announced,” S&P’s RatingsDirect (correcting the original version issued on 7
 practices may have contributed to problems with ratings,” Associated Press, and noting:  “After S&P, Fitch is now 
 blaming fraud for the impact on RMBS, at least partially.”).  
 
-‘information quality’ [given to Moody’s,] both the complete[ness] and veracity, was 
+‘information quality’ [given to Moody’s,] both the complete[ness] and veracity, was 
 deteriorating.”1213
  
 In 2007, Fitch Ratings decided to conduct a review of some mortgage loan files to 
@@ -19649,7 +19649,7 @@ RMBS,” S&P’s RatingsDirect).
 
  
 
-In September 2007, Moody’s solicited industry feedback on proposed enhancements to 
+In September 2007, Moody’s solicited industry feedback on proposed enhancements to 
 
  
 its evaluation of nonprime RMBS securitizations, including the need for third-party due 
@@ -19716,7 +19716,7 @@ Senate Committee on Governmental Affairs, at 6.  See also “Rating the Raters: 
 Agencies,” before the U.S. Senate Committee on Governmental Affairs, S.Hrg. 107-471 (3/20/2002).  The 
 Committee has since been renamed as the Committee on Homeland Security and Governmental Affairs. 
 
-314 
+314 
 
  
 
@@ -19781,7 +19781,7 @@ prepared by the SEC, at 4.
 Service, Report No. R40613 (revised report issued 4/9/2010). 
 1230 Id. 
 
-315 
+315 
 
  
 
@@ -19842,7 +19842,7 @@ Rating Agency Reform Act of 2006 or its implementing SEC regulations until Septe
 1233 Id. at 14, 17-18, 23-29, 31-37. 
 1234 See Title IX, Subtitle C – Improvements to the Regulation of Credit Rating Agencies of the Dodd-Frank Act. 
 
-f.  amendments to federal statutes removing references to credit ratings and credit rating 
+f.  amendments to federal statutes removing references to credit ratings and credit rating 
 
 agencies in order to reduce reliance on ratings; 
 
@@ -19913,7 +19913,7 @@ assets.
 2010). 
 1236 See Section 931 of the Dodd-Frank Act. 
 
-317 
+317 
 
  
 
@@ -19933,7 +19933,7 @@ testing the proposed forms with actual investors.
 
 reliance on privately issued credit ratings.  
 
-318
+318
 
 VI.   INVESTMENT BANK ABUSES:
         CASE STUDY OF GOLDMAN SACHS AND DEUTSCHE BANK
@@ -19998,7 +19998,7 @@ Report, DB_PSI_00237655-71 and 3/15/2007 Gemstone CDO VII Ltd. Closing Memorandu
 41; Subcommittee interview of Michael Lamont (9/29/2010); and Goldman Sachs response to Subcommittee QFRs
 at PSI-QFR-GS0249.
 
-319
+319
 
 addition, they established the ABX Index which allowed counterparties to wager on the rise or
 fall in the value of a basket of subprime RMBS securities, and which could be used to reflect the
@@ -20048,7 +20048,7 @@ Lippmann, repeatedly warned and advised his Deutsche Bank colleagues and some of
 seeking to buy short positions about the poor quality of the RMBS securities underlying many
 CDOs, describing some of those securities  as “crap” and “pigs.”  At one point, Mr. Lippmann
 
-320
+320
 
 was asked to buy a specific CDO security and responded that it “rarely trades,” but he “would
 take it and try to dupe someone” into buying it.  He also disparaged RMBS securities that, at the
@@ -20086,7 +20086,7 @@ magnified risk throughout the U.S. financial system.  The investment banks that 
 traded, and profited from mortgage related structured finance products were a major cause of the
 financial crisis.
 
-321
+321
 
 A.  Background
 
@@ -20143,7 +20143,7 @@ banking, brokerage, investment advisory, and insurance sectors, and that remains
 
   See Section 16 of the Banking Act of 1933, Pub. L. 73-66 (also known as the Glass-Steagall Act).
 
-322
+322
 
 (2)  Roles and Duties of an Investment Bank:
        Market Maker, Underwriter, Placement Agent, Broker-Dealer  
@@ -20212,7 +20212,7 @@ http://www.sec.gov/answers/mktmaker.htm; FINRA website, FAQs, “What Does a Mar
 
    See SEC website, 
 
-323
+323
 
 purchases the securities from the issuer, holds them on its books, conducts the public offering, and
 bears the financial risk until the securities are sold to the public.  By law, securities sold to the
@@ -20266,7 +20266,7 @@ business that it will deal fairly with them, consistent with the standards of th
 broker-dealer that are not fair to the customer must be disclosed in order to make this implied representation of
 fairness not misleading.”). 
 
-324
+324
 
 “[T]he relationship between the underwriter and its customer implicitly involves a
 favorable recommendation of the issued security.  …  Although the underwriter cannot be
@@ -20329,7 +20329,7 @@ material presented, would cause the communications to be misleading.”).  See a
   FINRA Notice No. 96-60. 
   See FINRA Rules 2210(d)(1)(A) and 2211(a)(3) and (d)(1) (by rule all institutional sales material and
 
-(3)  Structured Finance Products
+(3)  Structured Finance Products
 
 325
 
@@ -20385,7 +20385,7 @@ use the term “CDO^2.”
 
 2
 
-326
+326
 
 The short party, or CDS buyer, typically pays periodic premiums, similar to insurance
 
@@ -20441,7 +20441,7 @@ selected for each index.  See 3/2008 Federal Reserve Bank of New York Staff Repo
 Securitization of Subprime Mortgage Credit,” at 26.  Markit Group Ltd. administered the ABX Index which issued
 indices in 2006 and 2007, but has not issued any new indices since then.
 
-327
+327
 
 upon value of that basket.  For a fee, investors could take either the “long” position, betting on the
 rise of the index, or the “short” position, betting on the fall of the index, without having to
@@ -20494,7 +20494,7 @@ assets would perform poorly, while the long party bet that they would perform we
 1254
 (10/12/2010). 
 
-328
+328
 
 Synthetic CDOs provided still another vehicle for investors looking to short the mortgage
 
@@ -20561,7 +20561,7 @@ securitized product to transfer loans in bulk; it was also easier to sell CDOs t
 
   See, e.g., discussion of the Hudson CDO, below; Subcommittee interview of Daniel Sparks (4/15/10) (Goldman
 
-329
+329
 
 constructed, and profited when the referenced assets lost value, and the investors to whom they
 had sold the long side of the CDO were required to make substantial payments to the CDO.  
@@ -20579,7 +20579,7 @@ investment bank was able to profit from the collapse of the mortgage market, and
 substantial conflicts of interest to profit at the expense of its clients in the sale of RMBS and CDO
 securities. 
 
- 
+ 
 
 B.  Running the CDO Machine:   
       Case Study of Deutsche Bank  
@@ -20637,7 +20637,7 @@ in fees by encouraging his clients, such as hedge funds, to buy short positions.
 Mr. Lippmann increased the size of the bank’s short position by taking the short side of credit 
 default swaps (CDS) referencing individual RMBS securities, an investment strategy often 
 
-331 
+331 
 
    
 
@@ -20694,7 +20694,7 @@ marks, instead of its own, to clients asking about the value of Gemstone 7’s a
 1258 Subcommittee interview of Greg Lippmann (10/18/2010); Net Revenues from ABS Products Backed by U.S. 
 Residential Mortgages, DB_PSI_C00000003. 
 
-332 
+332 
 
  
 marks showed the CDO’s assets performing better.  Deutsche Bank was ultimately unable to sell 
@@ -20751,7 +20751,7 @@ marketplace.
 For a more detailed discussion of the legal obligations of underwriters, placement agents, and broker-dealers, see 
 Section C(6) on conflicts of interest analysis, below. 
 
-(1)  Subcommittee Investigation and Findings of Fact 
+(1)  Subcommittee Investigation and Findings of Fact 
 
 333 
 
@@ -20814,7 +20814,7 @@ high risk, poor quality securities that are now virtually worthless.
 
  
 
- 
+ 
 
 Total Annual CDO Issuance 
 
@@ -20889,7 +20889,7 @@ Journal (2/24/2007).
 
    
 
-335 
+335 
 
  
  
@@ -20952,7 +20952,7 @@ PSI-QFR-GS0249.
 http://graphics.thomsonreuters.com/10/04/GLB_GCDOV0410.gif; “Banks in Talks to End Bond Probe,” Wall Street 
 Journal (12/2/2010), 
 
- 
+ 
 
 336 
 
@@ -21018,7 +21018,7 @@ Bank, DBSI_PSI_EMAIL03970167-72, at 68 (ranking Deutsche Bank as third in CDO is
 
   
 
-337 
+337 
 
 The CDO Trading Desk conducted trades for both clients and other Deutsche Bank 
 
@@ -21083,7 +21083,7 @@ examples of his negative views.
 http://dealbook.nytimes.com/2010/04/21/lippmann-deutsche-trader-steps-down/.  See also Michael Lewis, The Big 
 Short (2010), at 64.   
 
- 
+ 
 
 338 
 
@@ -21150,7 +21150,7 @@ AMACAR Group, LLC (‘AMACAR’) to assist in the creation of ACE to act as a re
 connection with RMBS offerings sponsored and/or underwritten by Deutsche Bank.”), PSI-DeutscheBank-31-0004-
 06.    
 
- 
+ 
 
 339 
 
@@ -21226,7 +21226,7 @@ their poor quality.  10/2/2006 email from Axel Kunde at Deutsche Bank to Sean Wh
 Lippmann, DBSI_PSI_EMAIL02255361. 
 1284 10/20/2006 email from Greg Lippmann to Craig Carlozzi at Mast Capital, DBSI_PSI_EMAIL01774820-21. 
 
-•  Email regarding GSAMP 06-NC2 M8, an RMBS security that contained New 
+•  Email regarding GSAMP 06-NC2 M8, an RMBS security that contained New 
 
 Century loans and was issued by Goldman Sachs:  “[T]his is an absolute pig.”1286
 (12/8/2006) 
@@ -21293,7 +21293,7 @@ Asked Questions,” SEC, http://www.sec.gov/answers/ponzi.htm.
 1290 8/29/2006 email from Greg Lippmann to Bradley Wickens at Spinnaker Capital, DBSI_PSI_EMAIL01628496. 
 1291 Subcommittee interview of Greg Lippmann (10/18/2010). 
 
-341 
+341 
 
  
 Subcommittee that he “told his views to anyone who would listen” but most CDO investors  
@@ -21361,7 +21361,7 @@ market value of about $24 billion.  3/21/2011 letter from Deutsche Bank’s coun
 Deutsche_Bank-32-0001-04.   
 1295 Id.   
 
-342 
+342 
 
  
 position that would short RMBS securities.1296  He explained that he made this request after 
@@ -21426,7 +21426,7 @@ Securities and Exchange Commission on March 26, 2008, at 24.
 1299 Id.      
 1300 Id.  
 
-343 
+343 
 
 •  Nearly $440 billion subprime mortgages will experience payment shocks in the next 3 
 
@@ -21494,7 +21494,7 @@ DBSI_PSI_EMAIL00502892-29.
 1306 Id. 
 1307 8/26/2006 email from Greg Lippmann to Richard Axilrod at Moore Capital, DBSI_PSI_EMAIL01618236.  
 
-344 
+344 
 
  
 told the Subcommittee that Mr. Lamont, who co-led Deutsche Bank’s CDO Group, was not 
@@ -21558,7 +21558,7 @@ short position, because it had gained in value and Deutsche Bank could cash in t
 1312 Id.     
 1313 Id.   
 
-345 
+345 
 
  
 take the profits at that time.  Mr. Lippmann said that the result of the meeting was that, once 
@@ -21619,7 +21619,7 @@ DBSI_PSI_EMAIL01988773-845.
 1318 Subcommittee interview of Greg Lippmann (10/18/2010).   
 1319 Id.   
 
-346 
+346 
 
  
 difficulty due to the lack of customers willing to buy long.1320   During 2007 and 2008, at the 
@@ -21681,7 +21681,7 @@ the letter from the Chairman of the Board.
 1324 Subcommittee interview with Deutsche Bank’s counsel (3/7/2011).  See also 3/21/2011 letter and accompanying 
 chart from Deutsche Bank’s counsel to the Subcommittee, PSI-Deutsche_Bank-32-0001-04.  
 
- 
+ 
 
 347 
 
@@ -21741,7 +21741,7 @@ DBSI_PSI_EMAIL00686597-601 (forwarding an 11/8/2005 email from Rocky Kurita at D
 1329 Id.   
 1330 Subcommittee interview of Greg Lippmann (10/18/2010).   
 
- 
+ 
 
 348 
 
@@ -21806,7 +21806,7 @@ http://www.propublica.org/article/banks-self-dealing-super-charged-financial-cri
 1335 Id.  ProPublica even found that, from 2006 to 2007, nearly half of all the CDOs sponsored by Merrill Lynch 
 bought significant portions of other Merrill CDOs. 
 
-349 
+349 
 
  
  
@@ -21874,7 +21874,7 @@ Lamont and others at Deutsche Bank,  DBSI_PSI_EMAIL04056326-36.
 
  
 
- 
+ 
 
 Mr. Lippmann had an unrelentingly negative view of the RMBS and CDO securities he 
 traded.  He believed the securities would ultimately lose value, but he also believed investment 
@@ -21937,7 +21937,7 @@ See 2/2007 Gemstone 7 Debt Investor Presentation, GEM7-00001687-1747 at 1695.
 1346  Id. at 1691. 
 1347 9/14/2010 Gemstone 7 Asset Chart, PSI-Deutsche Bank-17-Gemstone7-0001-03.   
 
- 
+ 
 
 HBK is a Dallas based hedge fund that was founded in October 1991, and by 2007, 
 
@@ -22003,7 +22003,7 @@ asset manager will have acquired (or ‘warehoused’) assets to act as collater
 CDO … on the closing day.”  See “CDO Guide: recovery rates,” Credit magazine (May 2004), 
 http://db.riskwaters.com/public/showPage.html?page=133193. 
 
-352 
+352 
 
  
 
@@ -22067,7 +22067,7 @@ http://www.americanbanker.com/glossary/e.html.
 1361  According to HBK, “HBK’s investment process integrates expertise in capital markets, structural analysis, 
 collateral and loan level analysis, due diligence, and in house surveillance.  HBK is seen as not as a trader but as a 
 
-353 
+353 
 
  
 from CDO transactions resulting in strong alignment of interests between HBK and 
@@ -22133,7 +22133,7 @@ positions in certain mortgage backed securities unrelated to the Gemstone transa
 VII Notes, GEM7-00000001-10.  
 1372 Subcommittee interview of Abhayad Kamat (10/8/2010). 
 
-354 
+354 
 
  
 personnel, the approval process worked in the following manner.  First, HBK identified the 
@@ -22191,7 +22191,7 @@ Circular, GEM7-00000427-816 at 494.
 1377 Subcommittee interview of Greg Lippmann (10/18/2010). 
 1378 Subcommittee interview of Jordan Milman (10/22/2010) and Abhayad Kamat (10/8/2010).   
 
-355 
+355 
 
  
 considered for Gemstone 7.  Mr. Kamat wrote:  “MLMI 2005-HE1 B3 [is] on credit watch – do 
@@ -22255,7 +22255,7 @@ information to monitor and analyze parameters such as collateral yields, delinqu
 prepayments, and available credit enhancement.”).     
 1382 Id. at 42.     
 
- 
+ 
 
 356 
 
@@ -22312,7 +22312,7 @@ they agreed to).  See also 2/23/2007 email from Jordan Milman to Greg Lippmann, 
 agnostic with regard to the quality of the assets.  Subcommittee interview of Abhayad Kamat (10/8/2010).  
 1389 Subcommittee interview of Michael Lamont (9/29/2010).  
 
-357 
+357 
 
  
 
@@ -22378,7 +22378,7 @@ of the document.
 1391 Gemstone 7 Securitization Credit Report, MTSS000011-13.  
 1392 Id. 
 
- 
+ 
 
 The Offering Circular did, however, describe in detail a number of significant risks 
 
@@ -22444,7 +22444,7 @@ thought the performance varied depending upon the tranche, and he believed he co
 thought he could buy low, structure the deal well, and make money.  Subcommittee interview of Kevin Jenks 
 (10/13/2010). 
 
-359 
+359 
 
 During the period when securities were being assembled for the Gemstone 7 warehouse 
 
@@ -22511,7 +22511,7 @@ Moody’s SI 2010-0046902, Hearing Exhibit 4/23-106.
 1398  9/14/2010 Gemstone 7 Asset Chart, PSI-DeutscheBank-17-Gemstone7-0001-03.   
 1399  Id.   
 
-360 
+360 
 
   
 
@@ -22575,7 +22575,7 @@ of Greg Lippmann (10/18/2010).   On May 19, 2006, Mr. Lippmann wrote to a Deutsc
 traded that ACE piece of crap with Ike at 380.”  5/19/2006 email from Greg Lippmann to Rocky Kurita at Deutsche 
 Bank, DBSI_PSI_EMAIL0120552.  On May 29, 2007, Mr. Lippmann wrote with regard to ACE 2006-ASP3 M7, 
 
- 
+ 
 claiming that DB [Deutsche Bank] was one of the last ones to tighten standards on buying loans 
 to securitize. [Y]ou were right - ACE is crap.”  Mr. Lippmann responded:  “INDEED … IT 
 IS.”1410 Yet on December 19, 2006, Mr. Lippmann’s traders did not object to the purchase of $10 
@@ -22636,7 +22636,7 @@ DBSI_PSI_EMAIL01863636.
 DBSI_PSI_EMAIL01910568; 12/19/2006 email from Greg Lippmann to Jordan Milman and others at Deutsche 
 Bank, DBSI_PSI_EMAIL01910580. 
 
-362 
+362 
 
  
 
@@ -22699,7 +22699,7 @@ email from Deutsche Arms to Deutsche Bank employees, DBSI_PSI_EMAIL01822045.  DB
 Deutsche Bank’s own shelf offerings.”  3/21/2011 letter from Deutsche Bank’s counsel to the Subcommittee, PSI-
 Deutsche_Bank-32-0001-04.   
 
-363 
+363 
 
    
 
@@ -22764,7 +22764,7 @@ because he trusted DB [Deutsche Bank] to pick a good portfolio etc, etc.”).
 Gemstone 7 Debt Investor Presentation, GEM7-00001687-1747. 
 1433 Subcommittee interview of Kevin Jenks (10/13/2010).  
 
- 
+ 
 
 One Gemstone investor, M&T Bank, told the Subcommittee that, after observing a 
 
@@ -22825,7 +22825,7 @@ the Gemstone 4 and 5 securities, the HBK official indicated it was “ok with th
 
    
 
- 
+ 
 
  
 not blasted out to everyone so as not to affect his current deal [Gemstone 7] in the market.”1442
@@ -22888,7 +22888,7 @@ Deutsche Bank received a request from HBK to approve a New Century asset purchas
 approved this request on February 9.  See 2/9/2007 email from Jordan Milman to Ashley Bonilla at HBK, 
 DB_PSI_00845552. 
 
-366 
+366 
 
  
 to $0.69 by the end of the month, indicating a drop of more than 23% in the value of subprime 
@@ -22953,7 +22953,7 @@ DBSI_PSI_EMAIL02008182.
 
 http://www.marketwatch.com/story/index-of-
 
-In one odd instance, Ms. Bogza, from the CDO syndicate, sent an email to the Deutsche 
+In one odd instance, Ms. Bogza, from the CDO syndicate, sent an email to the Deutsche 
 Bank sales force suggesting that Gemstone 7 was experiencing greater investor interest than it 
 really was.  The February 20, 2007 email by Ms. Bogza stated that the bank had received an 
 “indication of [investor] interest” in 75% of the BBB securities in Gemstone 7.1456  After 
@@ -23016,7 +23016,7 @@ marks from Deutsche Bank, DB_PSI_00423053-61.
 
  
 
-368 
+368 
 
  
 
@@ -23085,7 +23085,7 @@ concerned them because of the relative small dollars involved compared to the $1
 
    
 
-369 
+369 
 
  
 
@@ -23150,7 +23150,7 @@ originations is substantially limited due to its lenders’ restrictions or refu
 1474 Subcommittee interview of M&T (9/20/2010). 
 1475 3/7/2007 email from Kevin Jenks to Abhayad Kamat, GEM7-00001958.   
 
-370 
+370 
 
  
 Company to access their financing arrangements.”1476  New Century’s financial troubles were 
@@ -23210,7 +23210,7 @@ order for HBK to purchase the unsold Gemstone 7 securities or Deutsche Bank woul
 either purchase the securities itself or liquidate the CDO.  2/20/2007 email from Greg Lippmann to Rich Rizzo at 
 Deutsche Bank, DBSI_PSI_EMAIL02377303.  
 
-371 
+371 
 
  
 
@@ -23322,7 +23322,7 @@ https://www.globalcreditportal.com/ratingsdirect/Login.do, with subscription.
 1486 Chart prepared by the Subcommittee using data from S&P’s RatingsDirect on the Global Credit Portal, 
 https://www.globalcreditportal.com/ratingsdirect/Login.do, with subscription.  
 
-372 
+372 
 
  
 
@@ -23393,7 +23393,7 @@ http://www.propublica.org/article/the-magnetar-trade-how-one-hedge-fund-helped-k
 http://www.propublica.org/article/magnetars-exit-a-deal-so-bad-even-a-credit-rating-agency-balked.   
 1495 Subcommittee interview of Greg Lippmann (10/18/2010). 
 
-373 
+373 
 
  
 fund that is buying tons of cdo equity and shorting the single names .…  [T]hey are buying 
@@ -23460,7 +23460,7 @@ Residential 2005-C for $500 million; Static Residential 2006-A for $1 billion; S
 billion; and Static Residential 2006-C for $750 million.  Chart, ABS CDOs Issued by DBSI (between 2004 and 
 2008), PSI-Deutsche_Bank-02-0005-23. 
 
-374 
+374 
 
  
 simultaneously bought CDS protection against the entire structure, essentially shorting the deal 
@@ -23526,7 +23526,7 @@ Mr. Lippmann, both desks knew of Mr. Lippmann’s negative views.  The bank mana
 1509 12/14/2006 email from Greg Lippmann to Taranjit Sabharwal at Deutsche Bank, DBSI_PSI_EMAIL01895617. 
 1510 6/14/2007 email from Richard Kim at Deutsche Bank to Greg Lippmann, DBSI_PSI_EMAIL02202920. 
 
-375 
+375 
 
 This case history raises several concerns.  The first is that Deutsche Bank allowed the 
 
@@ -23547,7 +23547,7 @@ this instance, did not require taxpayer relief but, due to their size, could hav
 damage to both U.S. investors and the U.S. economy. 
  
 
-376
+376
 
 C.  Failing to Manage Conflicts of Interest: 
       Case Study of Goldman Sachs 
@@ -23602,7 +23602,7 @@ Viniar; Craig W. Broderick; Daniel L. Sparks; Michael J. Swenson; Joshua S. Birn
 PSI_QFR_GS0001-548 [Redacted].  Unredacted version maintained in the files of the Subcommittee [Sealed
 Exhibit].  Hereinafter referred to as “Responses to Subcommittee QFR.” 
 
-377
+377
 
 In connection with the hearing, the Subcommittee released a joint memorandum from
 Chairman Levin and Ranking Member Coburn summarizing the investigation to date into the
@@ -23649,7 +23649,7 @@ investors.
 (CDS) on assets it did not own to bet against the mortgage market through single
 name and index CDS transactions, generating substantial revenues in the process.
 
-(2)  Goldman Sachs Background
+(2)  Goldman Sachs Background
 
 378
 
@@ -23731,7 +23731,7 @@ at Investopedia.com.
 
   See supra note 1513.   
 
-379
+379
 
 Goldman Sachs Mortgage Department.  In 2006 and 2007, the time period reviewed by
 
@@ -23825,7 +23825,7 @@ which included both the FICC Division and the Equities Division.
   Id.
   Id.
 
-began reporting to Donald Mullen, who was head of U.S. Credit Sales & Trading, and Mr.
+began reporting to Donald Mullen, who was head of U.S. Credit Sales & Trading, and Mr.
 Mullen in turn reported to Mr. Montag.1530
 
 380
@@ -23897,7 +23897,7 @@ mortgage related assets.
   Subcommittee interview of Michael Swenson (4/16/2010).
   4/22/2010 Goldman Sachs Form 8-K filing with the SEC.  Of the 23 Abacus CDOs, 16 contained primarily
 
-381
+381
 
 The CDO Origination Desk was headed by Peter Ostrem.
 
@@ -23993,7 +23993,7 @@ Mortgage Department).
 
   “North America Mortgages,” chart prepared by Goldman, GS MBS-E-007818849 (showing organization of
 
-(3)  Overview of Goldman Sachs Case Study
+(3)  Overview of Goldman Sachs Case Study
 
 382
 
@@ -24064,7 +24064,7 @@ MBS-E-009861799, Hearing Exhibit 4/27-26.
   4Q07 Fact Sheet prepared for David Viniar, GS MBS-E-009724276, Hearing Exhibit 4/27-159. 
   See discussion of risk limits, VAR measurements, and risk reports, below. 
 
-383
+383
 
 indicated that the Mortgage Department was contributing 54% of the firm’s total market risk,
 even though it ordinarily contributed only about 2% of its total net revenues.
@@ -24118,7 +24118,7 @@ Benchmark for Managing Financial Risk,” at 20 (3d ed. 2007).
 
   11/18/2007 email from Lloyd Blankfein, “RE: NYT,” GS MBS-E-009696333, Hearing Exhibit  4/27-52.  
 
-384
+384
 
 payment that outweighs the cost of the short party’s premium payments.
 party does not have to wait for a credit event in order to realize a gain on its CDS contract.  
@@ -24179,7 +24179,7 @@ our traders.  That statement would be the same even if we had gotten the market 
 
   See, e.g., 10/17/2006-10/18/2006 email from Tom Montag to Daniel Sparks, “3 things,”  GS MBS-E-
 
-385
+385
 
 Hudson Mezzanine 2006-1, which included over $1.2 billion of long positions on CDS contracts
 to offset risk associated with ABX assets in Goldman’s own inventory and another $800 million
@@ -24245,7 +24245,7 @@ ABX holdings”).
 
   Subcommittee interview of David Viniar (4/13/2010).
 
-386
+386
 
 2007, a $16 billion reversal.
 of $3 billion in subprime mortgage backed securities as “huge and outsized.”
@@ -24319,7 +24319,7 @@ Salem, GS-PSI-03157-80 at 72  (hereinafter “Salem 2007 Self-Review”).
 
    Id.
 
-387
+387
 
 June 22, 2007, Goldman’s net short position reached its peak of approximately $13.9 billion, as
 calculated by the Subcommittee.
@@ -24395,7 +24395,7 @@ David Viniar (FY07 P&L [profit and loss]: . . . derivatives +5.9B), GS MBS-E-009
 
   Swenson self evaluation, Hearing Exhibit 4/27-55b.
 
-388
+388
 
 1568
 
@@ -24459,7 +24459,7 @@ executives, including Mr. Cohn and Mr. Viniar, Mortgage Department personnel, co
   Quarterly Breakdown of Mortgage P/L, GS MBS-E-009713204 at 205. 
   5/11/2007 email from Daniel Sparks, “You okay?,” GS MBS-E-019659221.
 
-389
+389
 
 others held a meeting and developed a “Gameplan” for a CDO valuation project.
 Gameplan called for the Mortgage Department, over the course of about a week, to use three
@@ -24546,7 +24546,7 @@ presentation, GS MBS-E-010965212.
 
   5/19/2007 “Mortgages CDO Origination – Retained Positions & Warehouse Collateral, May 2007,” Goldman
 
-390
+390
 
 new securities from Goldman-originated CDOs, naming four hedge funds as the primary targets
 and providing a list of another 35 clients as secondary targets.
@@ -24605,7 +24605,7 @@ V4.ppt,” “Mortgages Department, May 2007,” GS MBS-E-010965212).
 
   See discussions of Hudson, Anderson, Timberwolf, and Abacus sales efforts, below.
 
-391
+391
 
 Goldman began marketing Hudson 1 securities in October 2006, soliciting clients to buy
 
@@ -24675,7 +24675,7 @@ Hearing Exhibit 4/27-87.
 1584
 added).  
 
-392
+392
 
 Once Hudson issued its securities, Goldman placed a priority on selling them, and delayed
 
@@ -24744,7 +24744,7 @@ that we need in order to conduct compliance testing. . .”).
 
   See, e.g., 3/2007 Goldman internal email, GS MBS-E-002146861, Hearing Exhibit 4/27-77 (“I recommend
 
-393
+393
 
 its warehouse assets had fallen in value by $22 million.
   Due to the asset quality problems, the
@@ -24812,7 +24812,7 @@ pay a portion of any warehouse losses, and any additional losses would be Goldma
 held 100% of the short side of the relevant Abacus CDO.  Its sale of the Abacus securities meant that Goldman held
 the short side of those assets, while Timberwolf investors took the long side.  
 
-394
+394
 
   Goldman rushed Timberwolf to market, and it closed on March 27, 2007,
 
@@ -24886,7 +24886,7 @@ the Mortgage Department head, Daniel Sparks, stating: “boy that timeberwof [Ti
 
   5/14/2007 email from Edwin Chin, GS MBS-E-012553986.
 
-one shitty deal.”
+one shitty deal.”
 its clients.  
 
 1598
@@ -24959,7 +24959,7 @@ by ACA,” GS MBS-E-002406025, Hearing Exhibit 4/27-118.
 
   3/12/2007 Goldman internal memorandum to Mortgage Capital Committee, “ABACUS Transaction sponsored
 
-396
+396
 
 Abacus 2007-AC1 was the first and only Abacus transaction in which Goldman allowed a
 
@@ -25025,7 +25025,7 @@ was unable to do so.
 CDO, File No. HO-10911 (SEC), Statement of Laura Schwartz (January 21, 2010), ACA ABACUS 00004406 at
 408. (hereinafter “Statement of Laura Schwartz”).
 
-397
+397
 
 parent company both acquired long positions in the Abacus CDO as did a third investor.  The
 Abacus securities lost value soon after purchase.  The three long investors together lost more than
@@ -25087,7 +25087,7 @@ ACA,” GS MBS-E-002406025-28, Hearing Exhibit 4/27-118.
 1607
 (S.D.N.Y.), Consent of Goldman Sachs, (July 14, 2010), at 2.
 
-398
+398
 
 Each of the four CDOs examined by the Subcommittee presents conflict of interest
 
@@ -25149,7 +25149,7 @@ securities.
 
   9/19/2006 email chain between Joshua Birnbaum and Daniel Sparks, “ABX,” GS MBS-E-012683946.
 
-399
+399
 
 “Sobel and Sparks want to know if we should exit or double down.  We double down if we
 have a structured place to go with the risk. ...  [W]e are going to sit down with the CDO
@@ -25222,7 +25222,7 @@ securities with AA ratings, and so on.
 
   Subcommittee interview of Joshua Birnbaum (10/1/2010); Subcommittee interview of Rajiv Kamilla
 
-400
+400
 
 1617
 
@@ -25294,7 +25294,7 @@ Swenson, “Is Josh in?  Mr. Swenson replied “No he is in Spain – don’t  w
  Kamilla 2007 Review at 19.  In 2007, Mr. Kamilla was named a Managing Partner at Goldman.
   Daniel Sparks, the Mortgage Department head, viewed Mr. Birnbaum as a talented trader, writing in October
 
-subprime mortgage market, and favored the firm’s building a net short position.
+subprime mortgage market, and favored the firm’s building a net short position.
 during 2006, Goldman’s overall ABX position was net long, not net short.
 
 1622
@@ -25361,7 +25361,7 @@ you living Morgatages [sic],” GS MBS-E-016165784 (Mr. Ruzika: “You know and 
 to get too big – for the liquidity in the market, our infrastructure, and the ability of our traders.  That statement would
 be the same even if we had gotten the market direction correct –although the vultures would not be circling.”).
 
-402
+402
 
 Goldman executives expressed the view that the subprime mortgage related market was likely to
 get much worse, and the firm should prepare for it.1625
@@ -25436,7 +25436,7 @@ Big time.”).
   Subcommittee interview of Peter Ostrem (10/5/2010). 
   6/8/2006 email from Darryl Herrick to Peter Ostrem, “**GS ABS** RMBS CDS Lineup,” GS MBS-E-
 
-403
+403
 
 1630
 
@@ -25529,7 +25529,7 @@ risk was fully hedged); 2/22/2007 email from Peter Ostrem to David Rosenblum, �
 
   3/16/2007 Goldman memorandum from Mitch Resnick and Peter Ostrem to GSI Risk Committee, “GSI
 
-404
+404
 
 On December 7, 2006, Daniel Sparks, the Mortgage Department head, exchanged emails
 
@@ -25609,7 +25609,7 @@ discussed in this Report.
 
   Subcommittee interview of David Viniar (4/13/2010), Daniel Sparks (4/15/2010), and David Lehman
 
-405
+405
 
 that is neither significantly short nor long.
   Mr. Viniar told the Subcommittee that, by telling the
@@ -25679,7 +25679,7 @@ RMBS and CDO securitizations it originated.
 
   12/14/2006 email from Tom Montag to David Viniar, GS MBS-E-009726498, Hearing Exhibit 4/27-3.
 
-406
+406
 
 what is likely to be even greater distress and we want to be in a position to take advantage
 of them.”1649
@@ -25712,7 +25712,7 @@ Michael Swenson and Justin Gmelich, “Index and Single Name Position History 20
 MBS-E-012411673; chart attachments to 3/2/2007 email from Kevin Kao to Joshua Birnbaum, “Index and Single
 Name Position History 2006 As of 01Mar07.xls,” GS MBS-E-012776557.
 
-Notionals (ABX convention)
+Notionals (ABX convention)
 
 10,000,000,000
 
@@ -25745,7 +25745,7 @@ BBB bucket includes BBB+ CDS
 Notionals: refers to current notionals
 Positive notionals: long risk
 
-408
+408
 
 Within about a month, in January 2007, the Mortgage Department had largely eliminated or offset
 its long subprime mortgage assets, but it didn’t stop there.  In January and February, the Mortgage
@@ -25801,7 +25801,7 @@ MBS-E-009686838, Hearing Exhibit 4/27-130.
 
   Id.
 
-409
+409
 
 At the end of February, Goldman’s controllers prepared a summary of the changes in
 
@@ -25864,7 +25864,7 @@ from Jon Egol, “Portfolio for Proposed Transaction 070226 (2).xls,” GS MBS-E
 
   4/22/2007 email from Kevin Gasvoda, “Resi credit QTD/YTD P&L and positions,” GS MBS-E-010474983.
 
-410
+410
 
 The subprime loan balance of $180 million was just over one-tenth of the $1.5 billion total
 Goldman had held at the end of February 2007, reflecting a reduction in its subprime inventory
@@ -25934,7 +25934,7 @@ email from Richard Ruzika to Gary Cohn, “Catch up,” GS MBS-E-019794071.
 
   Salem 2007 Self-Review, GS-PSI-03157 at 71-72.
 
-411
+411
 
 On February 12, 2007, Mr. Sparks reported to senior management on the Mortgage
 Department’s progress and the substantial profits that its new net short position was already
@@ -25995,7 +25995,7 @@ REVISED,” GS MBS-E-012474685.
 
   2/12/2007 email from Daniel Sparks, “Post today,” GS MBS-E-009763506.
 
-On February 14, 2007, Mr. Sparks again reported to senior management on the
+On February 14, 2007, Mr. Sparks again reported to senior management on the
 
 Department’s progress, describing how it was neutralizing its net long position:
 
@@ -26071,7 +26071,7 @@ warehouses would have to liquidate, further exacerbating the move and ultimately
 
   Id.
 
-413
+413
 
 large short position in single name CDS contracts referencing RMBS and CDO securities to offset
 the Department’s remaining ABX long position:
@@ -26141,7 +26141,7 @@ E-010400546, Hearing Exhibit 4/27-18; 3/27/2007 presentation to GS Board of Dire
 
   See 3/10/2007 email from Mr. Dinias to Daniel Sparks, “Mortgage Presentation to the board,” GS MBS-E-
 
-414
+414
 
 $10 billion net short position.  In a later performance self-evaluation, Mr. Salem described the
 aggregate $10 billion net short position as “HUGE” and “enormous.”
@@ -26218,7 +26218,7 @@ Hearing Exhibit 4/27-12.
 
   2/14/2007 email from Mr. Gmelich to Tom Montag, GS MBS-E-016165580.
 
-415
+415
 
 Mr. Montag forwarded Mr. Gmelich’s email to Goldman’s Co-Presidents, Gary Cohn and Jon
 Winkelried, as well as to Mr. Ruzika, commenting:  “clearly need to opportunistically take position
@@ -26288,7 +26288,7 @@ to Daniel Sparks, “Mortgages today,” GS MBS-E-009757841.  In another email, 
 
   2/21/2007 email chain from Daniel Sparks, “Mortgages today,” GS MBS-E-010381094, Hearing Exhibit 4/27-
 
-416
+416
 
 Mr. Ruzika sent an email to Mr. Montag and Mr. Sparks commenting on the covering efforts:
 
@@ -26362,7 +26362,7 @@ David Lehman, “CT CDO w/ [Bank],” GS MBS-E-011270138-39 [emphasis in origina
 
   2/25/2007 email from Daniel Sparks to Tom Montag, “Questions you had asked,” GS MBS-E-010987763.  
 
-417
+417
 
 1695
 
@@ -26432,7 +26432,7 @@ Goldman internal email, “Harbinger didn’t add the last piece we had spoke of
 efforts in August 2007.  See, e.g., 7/30/2007 email to Michael Swenson, “Harbinger Single-A Offerings.xls,” GS
 MBS-E-012374026; 8/23/2007 email from Michael Swenson, “Harbinger Post,” GS MBS-E-009739009.
 
-418
+418
 
 On February 28, 2007, Mr. Sparks reported at a Firmwide Risk Committee meeting on the
   The committee minutes reflect that Mr.
@@ -26496,7 +26496,7 @@ Hearing Exhibit 4/27-41.
 
   9/17/2007 Presentation to GS Board of Directors, Residential Mortgage Business at 5, GS MBS-E-001793840,
 
-419
+419
 
 “did a fantastic job for the desk by bringing in $1.2BB [billion] in A-rated single names today.”
 Mr. Montag in turn reported to Goldman CEO Lloyd Blankfein:  “Covered another 1.2 billion in
@@ -26585,7 +26585,7 @@ Strategies and Mortgage Department Top Sheets.
 
   Subcommittee interview of Daniel Sparks (10/3/2010).
 
-10,000,000,000
+10,000,000,000
 
 8,000,000,000
 
@@ -26666,7 +26666,7 @@ Notionals: refers to current notionals
 Positive notionals: long risk
 CDS: 2005 / 2006 vintages only
 
-421
+421
 
 1714
 
@@ -26720,7 +26720,7 @@ short position.  Since multiple Goldman email messages confirm the existence of 
 during most of Goldman’s fiscal year 2007, however, the chart’s depiction of that position as a nearly flat line at
 about $9 billion short until July 2007 appears consistent with the other evidence.
 
-422
+422
 
 “Net, think this is a good position to have on given downside protection and relatively light
 upside pain.  If we get an opportunity to buy some back next week, think we should but I’m
@@ -26803,7 +26803,7 @@ discrepancy.
 
   3/8/2007 email from Daniel Sparks, “Mortgage Risk,” GS MBS-E-002206279, Hearing Exhibit 4/27-75. 
 
-In this email to senior executives, Mr. Sparks put the size of the AAA ABX short at $9 billion,
+In this email to senior executives, Mr. Sparks put the size of the AAA ABX short at $9 billion,
 which seems to have been the amount most commonly cited for the short.
 
    
@@ -26896,7 +26896,7 @@ CDO Origination Desk when the CDO positions were transferred to another desk).
 
   See 8/17/2007 Goldman internal chart, “RMBS Subprime Notional History (Mtg Dept.),” GS MBS-E-
 
-424
+424
 
 began contributing to high VAR levels for the Mortgage Department.  It then drew the attention of
 Goldman senior management which included the AAA ABX short in its directive to cover the
@@ -26965,7 +26965,7 @@ though Alt A assets are not usually considered to be subprime mortgages.  Subcom
 
   3/26/2007 Goldman Sachs presentation to Board of Directors, “Subprime Mortgage Business,” GS MBS-E-
 
-(c)  Attempted Short Squeeze
+(c)  Attempted Short Squeeze
 
 425
 
@@ -27033,7 +27033,7 @@ reading his self-evaluation as a description of an intended short squeeze put to
   Subcommittee interview of Deeb Salem (10/6/2010).
   Id.
 
-426
+426
 
 Mr. Salem’s description of an attempted short squeeze by Goldman’s Structured Product
 
@@ -27092,7 +27092,7 @@ E-021887795 [ellipses in original].
 
   5/21/2007 email from Deeb Salem to Michael Swenson and Edwin Chin, “A few things pain-related,” GS MBS-
 
-427
+427
 
 reason we moved marks on Friday. ...  [Another customer] lost 6 pct based on fridays
 moves.”1747
@@ -27147,7 +27147,7 @@ the trade there is no doubt of that.  What I am attempting to do is either cut o
   5/21/2007 email to Edwin Chin, “Edwin–Important–Stanfield levels,” GS MBS-E-012570169.
   Id.
 
-428
+428
 
 get out or determine what I can say to keep this trade on ....  I’ve lost a lot of credi[b]ility on
 the desk with this trade.  Maybe I was naive to trust the pitch on the trade.  It has cost me a
@@ -27209,7 +27209,7 @@ totally demoralized.”  5/29/2007 email from Michael Swenson to Deeb Salem, GS 
 
   6/7/2007 Goldman internal email chain, “BSAM Post,” GS MBS-E-011184213.
 
-429
+429
 
 still lower.  To do so meant the ABS Desk had to sacrifice its “short squeeze” play.  On June 7,
 2007, Mr. Salem emailed Messrs. Swenson and Chin:
@@ -27286,7 +27286,7 @@ MBS-E-012551460.
   Id.
   6/13/2007 email from sales, “CDO protection,” GS MBS-E-012445931.
 
-430
+430
 
 1763
 
@@ -27366,7 +27366,7 @@ MBS-E-009861799, Hearing Exhibit 4/27-26.
 
   7/25/2007 email from Mr. Viniar to Mr. Cohn, “Private & Confidential: FICC Financial Package 07/25/07,” GS
 
-431
+431
 
 position included the $9 billion AAA ABX short which had suddenly begun gaining value as the
 subprime market worsened.  In June, two Bear Stearns hedge funds specializing in subprime
@@ -27425,7 +27425,7 @@ emailed Mr. Lehman recommending further markdowns:
 Mr. Swenson: I am on the same page [as] egol we n[e]ed to mark him [Ralph Cioffi, Portfolio Manager of
 the Bear Stearns funds]
 
-432
+432
 
 On June 8, 2007, Mr. Sparks received an urgent early morning email from Goldman’s
 
@@ -27501,7 +27501,7 @@ MBS-E-001916435.  See also 6/18/2007 email from Mr. Lehman, “Today’s Bear St
 funds were “returning 9 cents and 0 cents on the dollar in the less-levered and more-levered funds.”  7/17/2007 email
 from Daniel Sparks, “Mortgages Estimate,” GS MBS-E-010857498.  
 
-433
+433
 
 The failure of the Bear Stearns hedge funds triggered another decline in the value of
 
@@ -27570,7 +27570,7 @@ MBS-E-021890868.
 
   At the time, a trader from another bank stated in a market update:  “[T]he BSAM [Bear Stearns Asset
 
-434
+434
 
 credit.  Again, when the prevailing opinion in the department was to remain close to home,
 I pushed everyone on the [SPG] desk to sell risk aggressively and quickly.  We sold billions
@@ -27643,7 +27643,7 @@ to Subprime RMBS,” GS MBS-E-001837256.
 
   See id.
 
-435
+435
 
 wrote to his colleagues:  “Seen massive flows recently.  Many accounts ‘throwing in the towel’. 
 Anybody who tried to call the bottom left in bodybags.”1786
@@ -27714,7 +27714,7 @@ MBS-E-009690033, Hearing Exhibit 4/27-25.
 
   9/26/2007 2007 EMD Reviews, Joshua Birnbaum Self-Review, GS-PSI-01975, Hearing Exhibit 4/27-55c.
 
-436
+436
 
 Covering the Big Short to Lock in Profits.  Starting in July and throughout August 2007,
 
@@ -27795,7 +27795,7 @@ BBB- rated RMBS securities, as discussed below.
   8/8/2007 email from Tom Montag to Michael Swenson and David Lehman, GS MBS-E-011088957.
   8/9/2007 email from Tom Montag, GS MBS-E-009640293.
 
-437
+437
 
 On August 11, 2007, reports of firms having to sell CDO securities in Asia prompted Mr.
 
@@ -27886,7 +27886,7 @@ And once you start downgrading bbb/bbb- you will ultimately be start [sic] downg
 
 th
 
-438
+438
 
 According to Mr. Birnbaum, a key reason for buying the AAA rated assets was that Mr.
 Birnbaum and others in the Mortgage Department wanted to maintain a large short position in
@@ -27958,7 +27958,7 @@ trade (top cap stack and top quality collateral) were had in various times with 
   8/15/2007 email from Daniel Sparks, “Post,” GS MBS-E-009740784, Hearing Exhibit 4/27-32. 
   8/20/2007 email from Daniel Sparks to Gary Cohn, David Viniar, Jon Winkelried, Tom Montag, and Donald
 
-439
+439
 
 On August 21, 2007, Mr. Birnbaum presented the Mortgage Department’s plan to buy up to
 
@@ -28033,7 +28033,7 @@ MBS-E-016359332, Hearing Exhibit 4/27-34
 
   8/21/2007 email from Bill McMahon, “Potential large subprime trade and impact on Firmwide VAR,” GS MBS-
 
-(e)  “Get Down Now”
+(e)  “Get Down Now”
 
 440
 
@@ -28107,7 +28107,7 @@ Desk, the SPG Trading Desk, and the CDO Origination Desk.  Id.
 
   8/9/2007 email from Joshua Birnbaum to Deeb Salem, GS MBS-E-012927140.
 
-441
+441
 
 measure of risk,
 short posed real risk to Goldman. 
@@ -28181,7 +28181,7 @@ the difference between 140 and 160.  It will really be difficult to explain to y
 
   Risk controller Robert Berry explained to Messrs. Viniar, McMahon, and Broderick that VAR was becoming
 
-442
+442
 
 monitored by the firm’s most senior management.  The Mortgage Department and its risk
 controllers tried unsuccessfully to reduce the Department’s VAR, and were discussing new
@@ -28259,7 +28259,7 @@ E-009585951, Hearing Exhibit 4/27-37.
   8/23/2007 email from Michael Swenson, “Harbinger Post,” GS MBS-E-009739009.
   8/23/2007 email from Daniel Sparks, “Current Outstanding Notional SN ames,” GS MBS-E-010621231.
 
-443
+443
 
 1837
 
@@ -28344,7 +28344,7 @@ positions including SPG Trading (+$40M), CDO (+22M) and Residential Credit (+12M
 
   In the week of December 6, 2007, the Mortgage Department’s risk managers noted “an increase in net short
 
-(f)  Profiting from the Big Short:  Making “Serious Money”
+(f)  Profiting from the Big Short:  Making “Serious Money”
 
 444
 
@@ -28412,7 +28412,7 @@ being long SN CDS protection [or “short risk,” i.e., taking the short side o
 such presence in the SN CDS market, it is unlikely that we would have achieved the size short that we desired and
 eventually put on.  We’re up $1.7bb in RMBS SN CDS!
 
-445
+445
 
 In October 2007, after the credit rating agencies downgraded hundreds of CDO
 
@@ -28498,7 +28498,7 @@ of Top Sheets include GS MBS-E-010369585 and GS MBS-E-010850895, Hearing Exhibit
 
   See, e.g., 4/2010 “Goldman Sachs Mortgage Department Total Net Short Position, February - December 2007 in
 
-446
+446
 
 various subprime asset classes on a daily basis throughout most of 2007.
 that the Mortgage Department had large net short positions in the subprime mortgage market
@@ -28576,7 +28576,7 @@ profit and loss report for the Mortgage Department.  Subcommittee discussions wi
 responses to Subcommittee QFRs and related documents.  See also 7/20/2007 email from controllers, “Mortgages
 Estimate,” GS MBS-E-009640287. 
 
-447
+447
 
 The Top Sheet was literally the top sheet, or cover page, to a comprehensive report
 
@@ -28621,7 +28621,7 @@ Dept Top Sheets provided by Goldman Sachs (hereinafter “PSI Net Short Chart”
 
   See chart entitled, “Goldman Sachs Mortgage Department Total Net Short Position, February-December 2007 in
 
-Goldman Sachs Mortgage Department Tot al Net Short Position, February - December 2007 in S Billions 
+Goldman Sachs Mortgage Department Tot al Net Short Position, February - December 2007 in S Billions 
 
 (Market Value,  Including All Synthetic and Cash  Positions in Mortgage Related  Products) 
 
@@ -28660,7 +28660,7 @@ Dept Top Sheets provided by Goldman Sachs (hereinafter “PSI Net Short Chart”
 Prepared by the U.S. Senate Permanent Subcommittee on Investigations, April 2010. Updated January, 2011. 
 Derived from Goldman Sachs Mortgage Strategies,  Mortgage Dept Top Sheet s provided by Goldman Sachs. 
 
-449
+449
 
 The Subcommittee’s net short chart is generally consistent with a Goldman chart that Mr.
 Birnbaum asked one of the Mortgage Department’s analysts to prepare for him in August 2007,
@@ -28702,7 +28702,7 @@ objection that the Subcommittee’s net short chart improperly summed the notion
 Id.  However, as noted in the text, the Mortgage Department’s Top Sheet actually converted the notional amounts of
 each asset class into their market values, making it fair to sum across all asset classes.
 
-Some Goldman representatives told the Subcommittee that they objected to both the
+Some Goldman representatives told the Subcommittee that they objected to both the
 
 451
 
@@ -28775,7 +28775,7 @@ risk measures, while the controllers’ area converted the data into profit and 
 Mortgage Department’s reported daily trading, these reports did not directly reflect specific net positions in subprime
 mortgage assets.
 
-452
+452
 
 1871
 
@@ -28846,7 +28846,7 @@ short.”
 
   Subcommittee interview of Joshua Birnbaum (10/1/2010).
 
-453
+453
 
 •
 
@@ -28930,7 +28930,7 @@ record levels.
 
   9/26/2007 email from Lloyd Blankfein, “Fortune: How Goldman Sachs Defies Gravity,” GS MBS-E-
 
-454
+454
 
 presentation entitled, “SPG Trading – 2007,” in which he advocated that SPG Trading Desk
 personnel should be compensated like hedge fund managers and not as ordinary participants in
@@ -29003,7 +29003,7 @@ risk was fully hedged).
 
   Id.
 
-455
+455
 
 1887
 
@@ -29078,7 +29078,7 @@ from Gary Cohn, “Trading VaR $165mm,” GS MBS-E-016344758;  Subcommittee inte
 
   2/27/2007 email from Richard Ruzika to Tom Montag and others, GS MBS-E-002204942; 8/15/2007 email
 
-456
+456
 
 The firm tolerated the exceptionally high levels of VAR generated by the Mortgage
 
@@ -29153,7 +29153,7 @@ which seeks to measure what would happen if credit spreads suddenly widened by l
 in the relevant index or interest rate; and balance sheet limits, meaning the amount of Goldman’s balance sheet the
 relevant business unit would be permitted to consume.  Subcommittee interview of Craig Broderick (4/9/2010). 
 
-business area within a division.  Some trading desks within a department also had assigned risk
+business area within a division.  Some trading desks within a department also had assigned risk
 limits.
 
 457
@@ -29245,7 +29245,7 @@ to Joshua Birnbaum, “Resolution from MRMA meeting?,” GS MBS-E-012868698 (dis
 
   Subcommittee interview of Joshua Birnbaum (10/1/2010); Subcommittee interview of Craig Broderick
 
-the perspective of the firm’s most senior executives, VAR appeared to have been the predominant
+the perspective of the firm’s most senior executives, VAR appeared to have been the predominant
 risk measure by which the Department’s activities were judged.
 
 1906
@@ -29332,7 +29332,7 @@ Hearing Exhibit 4/27-54; see also 2/6/2007 email from MarketRisk,“MarketRisk: 
 
   Market Risk Management & Analysis, Quarterly Market Risk Review, December 2006, GS MBS-E-009583144,
 
-459
+459
 
 increase.  Goldman’s Chief Risk Officer, Craig Broderick, told the Subcommittee that he would be
 concerned about any breach of a VAR limit, and would certainly investigate the doubling of a
@@ -29410,7 +29410,7 @@ increase from $21 mm to $48mm from cob Feb 6 to cob Feb 13, driven primarily by 
   2/8/2007 email from Michael Dinias, “FW: VaR limit for Mtg SPG,” GS MBS-E-009980807.
   2/13/2007 email, “MarketRisk: End of Day Summary - cob 02/12/2007,” GS MBS-E-009716432; see also
 
-460
+460
 
 1920
 
@@ -29508,7 +29508,7 @@ cob 2/27/2007,” GS MBS-E-009762239.
   4/2010 Goldman report, “Risk Management and the Residential Mortgage Market,” Hearing Exhibit 4/27-161.
   12/2006 Goldman “Quarterly Market Risk Review, Market Risk Management & Analysis,” GS MBS-E-
 
-Goldman Sachs Mortgage Department Value at Risk (VaR)
+Goldman Sachs Mortgage Department Value at Risk (VaR)
 
 December 2006 - December 2007 (in $ Millions)
 
@@ -29535,7 +29535,7 @@ Mortgage Department Temporary VaR Limit
 Derived from Goldman Sachs Firmwide Risk Committee Appendices and Market Risk End of Day Summaries provided by Goldman Sachs.          
 Prepared by the U.S. Senate Permanent Subcommittee on Investigations, April 2010.
 
-462
+462
 
 At the end of the first quarter in 2007, however, the Mortgage Department’s VAR of $85
 
@@ -29607,7 +29607,7 @@ MBS-E-002204942; 8/15/2007 email from Gary Cohn, “Trading VaR $165mm,” GS MB
 
   8/16/2007 email from Jon Winkelried to Daniel Sparks, “Mort P&L Explanation,” GS MBS-E-010680327-330.
 
-463
+463
 
 Mr. Mullen also expressed concern that the Mortgage Department’s practice of skirting the
 
@@ -29675,7 +29675,7 @@ GS MBS-E-002204942; 8/15/2007 email from Gary Cohn, “Trading VaR $165mm,” GS
 
   2/26/2007 Market Risk Report, Mortgage Risk Portfolio Summary, GS MBS-E-010388177.
 
-1938
+1938
 
 464
 
@@ -29764,7 +29764,7 @@ GS MBS-E-012927200.
   Id.
   Id.
 
-Mr. Birnbaum continued:  “I do think it is a real concern.  How quickly can you work with strats to
+Mr. Birnbaum continued:  “I do think it is a real concern.  How quickly can you work with strats to
 get them to revise our VAR to a more realistic number?”1947
 
 465
@@ -29851,7 +29851,7 @@ cob 12/12/07,” GS MBS-E-009707379 (Mortgages temporary VAR limit was $80 milli
 
   Subcommittee interview of Craig Broderick (4/9/2010).
 
-466
+466
 
 The dates on which Goldman senior executives ordered the Mortgage Department to reduce
 
@@ -29918,7 +29918,7 @@ Hearing Exhibit 4/27-44.
 
   9/19/2007 Goldman internal document, “Third Quarter 2007 Earnings Call Script for David Viniar,” GS MBS-
 
-467
+467
 
 Internal Statements.  In September 2007, Goldman summarized its third quarter results
 for its Board of Directors, highlighting the Mortgage Department’s record profits:   “[W]e were
@@ -29991,7 +29991,7 @@ Sachs, Hearing Exhibit 4/27-161.
 
   10/5/2007 Goldman presentation, “Global Mortgages Business Unit Townhall Q3 2007,” GS MBS-E-
 
-468
+468
 
 1967
 
@@ -30063,7 +30063,7 @@ opportunities to the likes of Paulson Partners, even when significant risk-free 
 
   Id.  Mr. Birnbaum also wrote: “During this period, I would also add that the ABS team contributed significantly
 
-469
+469
 
 Mr. Swenson, the head of the SPG and ABS trading desks, wrote: 
 
@@ -30119,7 +30119,7 @@ added].
   See description of Mr. Salem’s single name trading strategies, above.
   10/4/2007 letter from Goldman Sachs to the SEC, GS MB S-E-009758287, Hearing Exhibit 4/27-46 [emphasis
 
-470
+470
 
 In November 2007, in another letter to the SEC, Goldman explained further:
 
@@ -30196,7 +30196,7 @@ Exhibit 4/27-51.
 
   11/7/2007 Goldman document, “How Did GS Avoid the Mortgage Crisis?,” GS MBS-E-009713204, Hearing
 
-471
+471
 
 responding to questions about the Mortgage Department’s performance in a fourth quarter
 conference call with analysts.  Goldman’s public statement outlined the steps it took to reduce its
@@ -30274,7 +30274,7 @@ http://www2.goldmansachs.com/our-firm/investors/creditor-information/creditor-pr
   Id. at 98.
   11/30/2007 “SPG Trading Mortgages Weekly Metrics 30-November-2007,” GS MBS-E-015646485.
 
-In contrast, other major Wall Street banks reported losses in the third quarter of 2007,
+In contrast, other major Wall Street banks reported losses in the third quarter of 2007,
 
 472
 
@@ -30340,7 +30340,7 @@ Goldman’s use of short positions in 2008, nor its involvement with prime and A
 
   7/25/2007 email from David Viniar to Gary Cohn, “Private & Confidential: FICC Financial Package 07/25/07,”
 
-473
+473
 
 1996
 
@@ -30421,7 +30421,7 @@ MBS-E-013746511.
   4/2010 Goldman report, “Risk Management and the Residential Mortgage Market,” Hearing Exhibit 4/27-161.
   Id.
 
-On April 7, 2010, Goldman CEO Lloyd Blankfein and Co-President Gary Cohn made
+On April 7, 2010, Goldman CEO Lloyd Blankfein and Co-President Gary Cohn made
 
 similar assertions in a letter to shareholders contained in Goldman’s Annual Report:
 
@@ -30475,7 +30475,7 @@ the Residential Mortgage Market,” at 12, Hearing Exhibit 4/27-161).
   April 27, 2010 Subcommittee Hearing at 132.
   Id. at 98.
 
-475
+475
 
 CDS instruments, as described in the prior section.  In addition, Goldman was one of the leaders in
 mortgage related securitizations, helping to originate both CDO and RMBS securities.  Goldman’s
@@ -30528,7 +30528,7 @@ financial system in 2007 and 2008.
 Sachs, GS MBS 0000004276.  The 93 RMBS securitized about $72 billion in home loans.  See undated chart
 prepared for Subcommittee by Goldman Sachs, GS-PSI-00172.
 
-476
+476
 
 This section of the Report examines how Goldman originated, marketed, and sold its
 mortgage related securities, in particular CDO securities, during late 2006 and in 2007, as the
@@ -30584,7 +30584,7 @@ activities.
   See Goldman Sachs response to Subcommittee QFR at PSI_QFR_GS0252, at 0262.
   For a detailed discussion of these obligations under federal securities laws, see Section (6)(a), below.
 
-(a)  Background
+(a)  Background
 
 477
 
@@ -30632,7 +30632,7 @@ then global co-head of Securities Trading, and Donald Mullen, then head of Credi
 occasion, he also received directives from Chief Financial Officer David Viniar and Co-Presidents
 Gary Cohn and Jon Winkelried.  
 
-(ii)  Goldman’s Negative Market View
+(ii)  Goldman’s Negative Market View
 
 478
 
@@ -30689,7 +30689,7 @@ subprime loans and other assets.  On February 8, 2007, for example, Mr. Sparks w
   12/13/2006 Firmwide Risk Committee December 13 Minutes, GS MBS-E-009582963-64.
   For more information about this December 14 meeting, see discussion in Section C(4)(b), above.
 
-479
+479
 
 “Subprime environment – bad and getting worse.  Everyday is a major fight for some aspect
 of the business (think whack-a-mole). . . . [P]ain is broad (including investors in certain GS-
@@ -30744,7 +30744,7 @@ Mr. Sparks:  Roughly 2bb, and they are the deals to worry about.2015
 
   2/26/2007 emails between Tom Montag and Daniel Sparks, “Questions you had asked,” GS MBS-E-019164799.
 
-480
+480
 
 On March 3, 2007, Mr. Sparks made notes after a telephone call:  “Things we need to do ....
 
@@ -30811,7 +30811,7 @@ Tourre replied:  “LDL.”  “LDL,” which means “let’s discuss live,” 
 Goldman documents produced to the Subcommittee.); 3/27/2007 email from a Goldman analyst, GS MBS-E-
 009685430 (“The housing slowdown has the risk now not be[ing] offsetting [sic] by stronger capital spending.  Both
 
-481
+481
 
 On March 8, 2007, in an email to senior management, Mr. Sparks listed a number of “large
 
@@ -30878,7 +30878,7 @@ See also 2/8/2007 email from Kevin Gasvoda to Tom Montag, “Mortgage risk – c
 originated RMBS securities to the mortgage trading desk to sell:  “moving retained bonds out of primary desk hands
 and into 2ndry desk.”).  
 
-482
+482
 
 2025
 
@@ -30963,7 +30963,7 @@ What have we done to mitigate?
 2029
 2030
 
-483
+483
 
 down in value.  Those writedowns not only implemented Goldman’s policy of using current market
 values for its assets, but also effectively reduced the size of Goldman’s “long” position in subprime
@@ -31037,7 +31037,7 @@ put up for sale).
 
   See, e.g., 3/26/2007 “Subprime Mortgage Business,” Goldman presentation to Board of Directors, at 3-5, GS
 
-484
+484
 
 2036
 
@@ -31098,7 +31098,7 @@ including Fremont and New Century).
 
   2/2/2007 email from Daniel Sparks to Messrs. Montag, Ruzika, and Viniar, GS MBS-E-002201050, Hearing
 
-485
+485
 
 To manage its loan repurchase campaign, Goldman expanded an operations center in St.
 
@@ -31185,7 +31185,7 @@ from 4 to 14 loans at a time and defaulted on all. ...
 – approx 20% of the pool has material compliance issues.  These are mainly missing HUDs. ...
 – approx 10% of the pool is flagged as potential REO [Real Estate Owned by lender] or potential unsecured
 
-486
+486
 
 four of the loans in the New Century pool had EPDs, were fraudulent, or otherwise breached New
 Century’s contractual warranties.  It also implied that about 25% of the expected mortgage
@@ -31252,7 +31252,7 @@ have amounted to a 9% ownership stake in Fremont after a proposed buyout by inve
 largest purchaser of Fremont loans but its repurchase claims were 3-4 times larger than the claims of the nearest
 counterparty).
 
-conclusion after reviewing certain loans purchased from Countrywide, again finding that about 50%
+conclusion after reviewing certain loans purchased from Countrywide, again finding that about 50%
 of the loans reviewed were candidates for return to the lender.
 
 2050
@@ -31330,7 +31330,7 @@ mortgage repurchase claims related to loans originated by Countrywide).
 
   See, e.g., 1/3/2011 Bank of America press release, “Bank of America Announces Fourth-Quarter Actions,”
 
-488
+488
 
 millions of dollars in deficient loans to the lender,
 subprime loans.
@@ -31418,7 +31418,7 @@ repurchase requests.  3/14/2007 Goldman email, “NC Visit,” GS-MBS-E-00204805
 
 www.globalcreditportal.com. 
 
-489
+489
 
 “ As you know, we own $10mm of the GSAMP 06-S3 M2 bond. ...  We are shocked by how
 poorly this bond has performed right ‘out of the gate’ and had asked [Goldman] to send us
@@ -31467,7 +31467,7 @@ period, the value of its inventory of subprime RMBS securities had dropped from 
 2064
 E-003322028 [emphasis in original].
 
-490
+490
 
 $2.4 billion, a two-thirds reduction.
   The graph below, which was prepared by the Subcommittee
@@ -31489,7 +31489,7 @@ Investigations, Hearing Exhibit 163.]
 and Investments in Subprime Mortgage Backed Securities November 24, 2006 vs. August 31, 2007 in $ Billions,”
 chart prepared by the Subcommittee, Hearing Exhibit 4/27-163. 
 
-Goldman Sachs Long Cash Subprime Mortgage Exposure,
+Goldman Sachs Long Cash Subprime Mortgage Exposure,
 
 Investments in Subprime Mortgage Loans, and
 
@@ -31540,7 +31540,7 @@ Securities)
 Prepared by the U.S. Senate Permanent Subcommittee on Investigations, April 2010.
 Data from Nov. 7, 2007, letter from Goldman Sachs to the Securities and Exchange Commission, GS MBS‐E‐015713460, at 5 (Exhibit 50).
 
-BB.  CDO Sell Off  
+BB.  CDO Sell Off  
 
 492
 
@@ -31622,7 +31622,7 @@ trading desk to unwind hedges for CDO warehouse accounts).  Some of the assets w
 
   6/22/2007 email from David Lehman, “Few trade posts,” GS MBS-E-010848985. 
 
-Throughout 2007, Goldman sought to sell all of its remaining subprime assets from the CDO
+Throughout 2007, Goldman sought to sell all of its remaining subprime assets from the CDO
 warehouse accounts as well as the new securities issued by Goldman-originated CDOs.2074
 
 493
@@ -31702,7 +31702,7 @@ Exhibit 4/27-76.
 
   Id.
 
-In an additional effort to expand Goldman’s sales effort, the Mortgage Department’s sales
+In an additional effort to expand Goldman’s sales effort, the Mortgage Department’s sales
 
 syndicate provided a list of “non-traditional buyers” to the CDO and SPG Trading Desks: 
 
@@ -31772,7 +31772,7 @@ covering?  Why so high?”  Mr. Sparks responded:  “It was a very big ax, but 
 contentious point that trading team doesn’t debate it anymore.  The politics around sales credits had become
 unbelievable and were a hinderance [sic] to business.”  Mr. Montag replied:  “so you overpay?”).
 
-495
+495
 
 2085
 
@@ -31855,7 +31855,7 @@ May 2007,” GS MBS-E-001863651, which bears a time and date stamp of May 20, 20
   5/14/2007 email from Tom Montag to Daniel Sparks, GS MBS-E-019642797. 
   5/20/2007 email from Lee Alexander to Daniel Sparks, Donald Mullen, Lester Brafman, and Michael Kaprelian,
 
-496
+496
 
 2091
 
@@ -31934,7 +31934,7 @@ targeting” for Timberwolf sales); 3/2/2007 email from David Lehman, “ABX/Mtg
 
   Id.  The four identified customers appear to be ones which the sales force felt it had the greatest likelihood of
 
-497
+497
 
 The CDO valuation project undertaken in May provided clear notice to Goldman senior
 
@@ -31995,7 +31995,7 @@ the deals [re demand only for the supersenior tranche language]”).
 
   5/19/2007 Goldman presentation, “Mortgages CDO Origination – Retained Positions & Warehouse Collateral,
 
-in several earlier versions of the presentation as well, but was removed from the final version sent to
+in several earlier versions of the presentation as well, but was removed from the final version sent to
 Mr. Viniar.
 
 2098
@@ -32071,7 +32071,7 @@ MBS-E-018921924.
   Id.
   5/19/2007 email from Jon Egol to Daniel Sparks, GS MBS-E-018921924. 
 
-499
+499
 
 The CDO valuation project presentation given the next day, May 20, 2007, recommended
 that all assets from the CDO warehouse accounts be transferred to the SPG Trading Desk for sale. 
@@ -32157,7 +32157,7 @@ team pursuant to an earlier sales directive listing Timberwolf as a priority.
   Id.
   4/27/2007 email from George Maltezos, Goldman Australia sales, to Jon Egol, “utopia,” GS MBS-E-
 
-500
+500
 
 CDO Sales in Asia.  On June 11, 2007, Mr. Lehman received a note from the Mortgage
 Department’s sales syndicate desk asking whether the directive listing high priority CDO sales
@@ -32229,7 +32229,7 @@ USE ONLY),” GS MBS-E-011212260.
 
   6/13/2007 email from Goldman Sachs Japan sales, “**GS SP CDO Axes**  – Asia Trade Update (INTERNAL
 
-501
+501
 
 Mr. Lehman sent an email to the head of the Japan sales office letting him know that Goldman’s
 senior management was aware of the sales effort:  “Montag ve[r]y involved in this  fyi.”  The Japan
@@ -32310,7 +32310,7 @@ ONLY),  GS MBS-E-011310717.
   8/17/2007 email from Michael Swenson, “Twolf super seniors,” GS MBS-E-001927791.
   8/23/2007 email from Jon Egol, “*** SP CDO/Correlation Desk Super Senior Axes *** (INTERNAL USE
 
-502
+502
 
 market may have finally sunk in and investors may be able to convince their boards [n]ow to
 put on this sort of trade.”2125
@@ -32374,7 +32374,7 @@ Lehman replied “xoxo.”  Id.
   Id.
   9/6/2007 email from Daniel Sparks to syndicate desk, “Refresh of Axes Priorities,” GS MBS-E-010685200.
 
-503
+503
 
 investment interests of the client.  We are responding to our clients’ desires either to
 establish, or to increase or decrease, their exposure to a position based on their own
@@ -32451,7 +32451,7 @@ moves in the market.  More margin calls going out today.”).
 2135
   Subcommittee interview of David Lehman (4/12/2010).
 
-504
+504
 
 2136
 
@@ -32516,7 +32516,7 @@ subprime assets, necessitating several European Central Bank bailouts).
 
   See, e.g., 8/10/2007 Goldman memorandum, “Summary of German Bank US Sub Prime Exposure,” GS
 
-505
+505
 
 Gameplan Markdowns.  When, on May 11, 2007, Goldman executives and the Mortgage
 
@@ -32588,7 +32588,7 @@ due to repo financing margin requirements, CDS collateral requirements, or other
   Id.
   See, e.g., discussion of Timberwolf CDO, below.
 
-506
+506
 
 financial distress.  The Mortgage Department immediately initiated an effort to build a new, large
 short position to take advantage of the expected drop in the value of subprime mortgage assets.
@@ -32675,7 +32675,7 @@ Disputes – 7/31 Update (COB 7/27 marks),” GS MBS-E-009691545.
 
   See 7/31/2007 email chain between Tom Montag and Lloyd Blankfein, “Mortgage Derivative Collateral
 
-507
+507
 
 Stanley, and Deutsche Bank, among others.  It stated: “The overall derivative collateral dispute
 amount is now $7.0 billion.”
@@ -32759,7 +32759,7 @@ name mark changes,” GS MBS-E-011092473, Hearing Exhibit 4/27-33.
 
   Id.  The Correlation Trading Desk reported $145 million in total profits, which were then offset by losses on
 
-508
+508
 
 within days or weeks of a purchase and undergo substantial margin and collateral calls that caused
 additional financial distress.
@@ -32826,7 +32826,7 @@ GS MBS-E-013349723.
 
   8/2/2007 email from Stacy Bash-Polley to Messrs. Montag, Mullen, Schwartz, and Sparks, “Marks Summary,”
 
-509
+509
 
 “–They have not agreed with our process and recently asked other dealers to analyze – say
 that we are off significantly from where other dealers are modeling this ....
@@ -32886,7 +32886,7 @@ aggressive price can be showed from trading desk.”
 5/21/2007 email from China sales representative to Edwin Chin and others, “Mark to market prices,” GS MBS-E-
 011068490.  Mr. Chin moved the mark in question from 95 to 98, and wrote:  
 
-510
+510
 
 firm’s CDO marks to a customer, Mr. Lehman wrote:  “We cannot put this on paper - It concerns
 me they want something specifically in writing.”
@@ -32974,7 +32974,7 @@ US Sub Prime Exposure,” GS MBS-E-009994305; 11/27/2007 email from David Lehman
   Id.
   See 9/17/2007 Goldman presentation to Board of Directors, “Residential Mortgage Business, Global Impact of
 
-511
+511
 
 but in some cases, Goldman purchased CDS protection or equity puts on its clients’ stock,
 essentially betting that the stock price would fall or the company would lose value.  For example,
@@ -33038,7 +33038,7 @@ run-off insurance company.”), available at http://www.aca.com/press/pdfs/2011/
   Id.
   Id.
 
-512
+512
 
 Mr. Sparks:  Well, I generally feel that the disclosure for the new issues that Goldman Sachs
 brought was good.2177
@@ -33136,7 +33136,7 @@ RMBS,” GS MBS-E-001990255 (updating percentage exposure from 25% to 35%).
 
   Id.
 
-513
+513
 
 “This deal was number 1 in the universe of CDO’s that were downgraded by Moody’s and
 S&P.  99.89% of the underlying assets were downgraded.”
@@ -33206,7 +33206,7 @@ of Long Beach paper was.  Long Beach securitizations had among the worst credit 
   2/13/2006 Goldman chart, “Current Warehouse Facilities and Funded Balances,” GS MBS-E-001157934. 
   See Chapters III and IV, above.
 
-514
+514
 
 industry from 1999-2003; in 2005 and 2006, Long Beach securities were among the worst
 performing in the market.
@@ -33271,7 +33271,7 @@ Exhibit 4/27-65.
 
   5/17/2007 email from Deeb Salem to Michael Swenson, “FW: LBML 06A,” GS MBS-E-012550973, Hearing
 
-By May 2008, even the AAA securities in LBMLT 2006-A had been downgraded to default
+By May 2008, even the AAA securities in LBMLT 2006-A had been downgraded to default
 
 status.  By March 2010, the securities recorded a cumulative net loss of over 66%.2195
 
@@ -33359,7 +33359,7 @@ billion ... 1-year revolving warehouse facility,” GS MBS-E-001157942.  Goldman
 “revenues totaling $13.38 million in 2006 of which $620,000 came in the form of warehouse usage and commitment
 fees.”
 
-516
+516
 
 2203
 
@@ -33450,7 +33450,7 @@ a decline in the value of the underlying assets.
 
 www.globalcreditportal.com. 
 
-517
+517
 
 their assets; marketed and sold the CDO securities; designated the value of the CDO securities pre-
 and post-sale; and executed its duties as liquidation agent and collateral put provider.
@@ -33533,7 +33533,7 @@ protection buyer” meant that Goldman initially took the short side of the CDO 
 
   In synthetic CDOs, the cash proceeds from the sales of the CDO securities were used to purchase “collateral
 
-518
+518
 
 Transferring Risk.  Hudson 1 was conceived and designed by Goldman to transfer the risk
 
@@ -33617,7 +33617,7 @@ to reduce volatile ABX position.”); 8/23/2006 Firmwide Risk Committee Minutes,
 
   See, e.g., 9/21/2006 email from Jonathan Sobel to Tom Montag, “ABX wider again today,” GS MBS-E-
 
-519
+519
 
 of its ABX mezzanine holdings or “double down” the ABX holdings, which could happen only if it
 found a “structured place to go with the risk.”2223
@@ -33697,7 +33697,7 @@ Birnbaum, GS MBS-E-012685289.
 
   9/20/2006 email from Michael Swenson to Jonathan Sobel, GS MBS-E-012328203.  See discussion of selection
 
-stating:  “I think most hedge funds have been right on this (i.e. they’ve been short). ...  The synthetic
+stating:  “I think most hedge funds have been right on this (i.e. they’ve been short). ...  The synthetic
 CDO seems like a viable takeout here.”2230
 
 520
@@ -33781,7 +33781,7 @@ Index was called CWL 2006-8.  One of the sub-indices within the ABX 06-2 Index t
 
   The ABX 06-1 Index and the ABX 06-2 Index each tracked a completely different set of 20 RMBS
 
-521
+521
 
 2237
 
@@ -33857,7 +33857,7 @@ Chin, GS MBS-E-012685645.
 
   Goldman decided to price the single name assets at one point below the median ABX trading price.  See
 
-tell investors that, by purchasing Hudson securities, they would be purchasing the single name CDS
+tell investors that, by purchasing Hudson securities, they would be purchasing the single name CDS
 contracts at the discount price at which Hudson acquired them.
 
 2242
@@ -33926,7 +33926,7 @@ vintage. We can add a few alt-a names as well.  How many of those would you like
 
   Subcommittee interview of Darryl Herrick (10/13/2010).  See also 10/8/2006 email from Darryl Herrick to a
 
-523
+523
 
 2246
 
@@ -34015,7 +34015,7 @@ MBS-E-014042220.
 
    9/27/2006 email from Michael Swenson to Crystal Young, GS MBS-E-012328848.  Mr. Swenson told the
 
-524
+524
 
 the CDO Origination Desk including Benjamin Case and Matthew Bieber.
   The executive
@@ -34072,7 +34072,7 @@ Herrick, Peter Ostrem, Benjamin Case, and Matthew Bieber, GS MBS-E-017504075.
   10/2006 Hudson Mezzanine Funding 2006-1, LTD., GS MBS-E-009546963, at 966, Hearing Exhibit 4/27-87.  
   Id. at 966, 978.
 
-525
+525
 
 The marketing booklet statement that “Goldman Sachs had aligned incentives with the
 
@@ -34160,7 +34160,7 @@ Hudson 1, Mr. Ostrem replied that he didn’t know.  Subcommittee interview of P
   Subcommittee interview of Deeb Salem (10/6/2010). 
   Subcommittee interview of David Lehman (9/27/2010); Subcommittee interview of Matthew Bieber
 
-526
+526
 
 By using the phrase, “sourced from the Street,” Goldman may have misled investors into
 
@@ -34238,7 +34238,7 @@ investors that a single credit-worthy entity would be making all required paymen
   9/27/2006 email from Michael Swenson to Joshua Birnbaum, GS MBS-E-012689798. 
   12/3/2006 Hudson Mezzanine 2006-1, LTD. Offering Circular, GS MBS-E-021821196, at 021821229.  This
 
-527
+527
 
 2268
 
@@ -34301,7 +34301,7 @@ CDOs.  See Goldman response to Subcommittee QFR, at PSI_QFR_GS0192.
   10/16/2006 email exchange between Daniel Sparks and Peter Ostrem, GS MBS-E-010916991 (“Cambridge is
 upset that we are delaying their deal.  They know that Hudson Mezz (GS prop deal) is pushing their deal back.”).  
 
-528
+528
 
 2271
 
@@ -34380,7 +34380,7 @@ interest.
 
 2
 
-Another Goldman salesman emailed Mr. Herrick on the CDO Desk, telling him: 
+Another Goldman salesman emailed Mr. Herrick on the CDO Desk, telling him: 
 
 529
 
@@ -34453,7 +34453,7 @@ Rosenblum to Peter Ostrem, GS MBS-E-001800707 (“are we still sharing 50pct of 
   Subcommittee interview of Darryl Herrick (10/13/2010). 
   Subcommittee interview of Darryl Herrick (10/13/2010).  When asked if it was common to divide unsold
 
-530
+530
 
 Benefit Mutual, which bought $10 million of the AA rated securities; and Bear Stearns, which
 bought $5 million of the equity tranche. 
@@ -34531,7 +34531,7 @@ Subcommittee, PSI_QFR_GS0243.
   See Goldman response to Subcommittee QFR at PSI_QFR_GS0239. 
   Id. 
 
-531
+531
 
 name CDS contracts reported a gain of approximately $1.2 million due to the higher value of the
 single name CDS compared to the ABX CDS.
@@ -34601,7 +34601,7 @@ profited at their expense.
   11/21/2008 letter from Goldman to Morgan Stanley, HUD-CDO-00005125.
   See Goldman response to Subcommittee QFR, at PSI_QFR_GS0223 and PSI_QFR_GS0235.
 
-BB.  Anderson Mezzanine Funding 2007-1 
+BB.  Anderson Mezzanine Funding 2007-1 
 
 532
 
@@ -34690,7 +34690,7 @@ Bridge Fund eventually invested in Anderson.
 
   5/10/2006 email from Curtis Willing to David Solomon and Dan Holland, GS MBS-E-013870906-7.  The Elliot
 
-533
+533
 
 GSC agreed to partner with Goldman on the Anderson CDO and to share in the associated
 risk, including by splitting the equity tranche and sharing the risk with Goldman that the Anderson
@@ -34787,7 +34787,7 @@ assets and that he didn’t know what Ms. Lin meant by her statement.  Subcommit
 
   Subcommittee interview of Matthew Bieber (10/20/2010); Subcommittee interview of Edward Steffelin
 
-recollection of the asset selection process, beyond each party selecting some RMBS securities and
+recollection of the asset selection process, beyond each party selecting some RMBS securities and
 the other having veto rights.
 
 2310
@@ -34863,7 +34863,7 @@ Hearing Exhibit 4/27-169.
 
   See discussion of Goldman’s net short position, Section C(4), above.
 
-535
+535
 
 ugly even if all problems have been identified. ... We have a call with the company in a few
 minutes (to be led by Dan Sparks).” 
@@ -34941,7 +34941,7 @@ the liquidation of another. We may liquidate one more next week.”).
   2/28/2007 email from David Rosenblum to Peter Ostrem, GS MBS-E-001800707. 
   2/24/2007 email from Deeb Salem to Michael Swenson, Edwin Chin, and Josh Birnbaum, GS MBS-E-
 
-536
+536
 
 small.  Both the MTM and the MTModel take into account risk sharing arrangements with
 3rd parties. 
@@ -35013,7 +35013,7 @@ more in assets to Anderson, with Goldman selecting the assets internally and sho
   Id.
   3/2/2007 email from Jon Egol to Daniel Sparks and others, GS MBS-E-010637566, Hearing Exhibit 4/27-97. 
 
-537
+537
 
 Sparks rejected any expansion of Anderson, responding:  “we are not ramping - execute deal as
 is.”
@@ -35084,7 +35084,7 @@ Committee memorandum, “GSI Warehousing for Structured Product CDOs,” GS MBS-
 
   In mid-March, Mr. Ostrem informed the GSI Risk Committee that Goldman’s estimated losses on the assets in
 
-538
+538
 
 delinquency triggers; We show that a lot of these bonds will take principal hits; Not crazy
 about the deal structure given the quality of the portfolio.”
@@ -35162,7 +35162,7 @@ Hearing Exhibit 4/27-172.
 
   3/13/2007 email from Wendy Rosenfeld at Rabobank to Olivia Ha at Goldman, GS MBS-E-000898417,
 
-for repurchase “if possible.”
+for repurchase “if possible.”
 40% of the Anderson CDO.  
 
 2337
@@ -35249,7 +35249,7 @@ manager due diligence. They’ve heard the GSC team shows well – so want to me
 
   Id.  Despite GSC’s not being listed as having helped select the Anderson assets, some investors appeared to be
 
-540
+540
 
 Despite the poor reception by investors, Goldman continued “pushing the axe” with its sales
 
@@ -35352,7 +35352,7 @@ Spreadsheet showing credit ratings for Anderson).
 
   See Goldman response to Subcommittee QFR at PSI_QFR_GS0223 and PSI_QFR_GS0235. 
 
-541
+541
 
 Century who were known for issuing poor quality loans.  When potential investors asked how
 Goldman was able to “get comfortable” with the New Century mortgage pools referenced in
@@ -35432,7 +35432,7 @@ Subcommittee QFR at PSI_QFR_GS0223 and PSI_QFR_GS0235.
   Subcommittee interview of Joseph Marconi (10/19/2010).
   Greywolf eventually purchased the entire equity tranche in Timberwolf.  See Goldman response to
 
-542
+542
 
 Before selecting an asset for inclusion in Timberwolf, Greywolf did a detailed credit
 
@@ -35525,7 +35525,7 @@ QFR at PSI_QFR_GS0192.
 
   8/23/2007 email from Jay Lee to Matthew Bieber, David Lehman, and others, GS MBS-E-001927784.
 
-By the time Greywolf and Goldman were nearing completion of the acquisition of the
+By the time Greywolf and Goldman were nearing completion of the acquisition of the
 
 543
 
@@ -35615,7 +35615,7 @@ time around.”  10/24/2006 Goldman internal email, GS MBS-E-009557699, Hearing 
 
   2/14/2007 email from Robert Black to Matthew Bieber and others, GS MBS-E-001996121. 
 
-544
+544
 
 those initial lists, Goldman sales personnel began to target “non-traditional” buyers
 clients outside of the United States.
@@ -35710,7 +35710,7 @@ Timberwolf securities carrying an AAA credit rating had fallen from $94 on 3/31/
   See Goldman response to Subcommittee QFR at PSI_QFR_GS0223 and PSI_QFR_GS0235. 
   In fact, the decline had begun within a month after Timberwolf closed in late March.  9/17/2007 email from
 
-545
+545
 
 On May 11, 2007, Mr. Sparks notified Goldman senior executives that marking down the
 
@@ -35794,7 +35794,7 @@ project, see Section C(5)(a)(iii)BB, above.
 
   5/11/2007 email from Craig Broderick, “CDO’s - Mortgages,” GS MBS-E-009976918, Hearing Exhibit 4/27-
 
-“Based on current single-A CDO marks, the A2 tranche of Timberwolf would have a price of 72
+“Based on current single-A CDO marks, the A2 tranche of Timberwolf would have a price of 72
 cents on the dollar.”
 
   He also noted:
@@ -35878,7 +35878,7 @@ Department, May 2007,” GS MBS-E-010965212 at 14).
 
   5/20/2007 email from Lee Alexander to Daniel Sparks, Donald Mullen, Lester Brafman, and Michael Kaprelian,
 
-547
+547
 
 2
 
@@ -35973,7 +35973,7 @@ Sec_0525,” GS MBS-012443167).
 
 2
 
-548
+548
 
 million of those AA rated securities to Bank Hapoalim at a price of $78.25, but by then Goldman’s
 internal valuation had fallen to $55, a difference of more than 30% of the market value.
@@ -36036,7 +36036,7 @@ Tom Montag to Daniel Sparks, GS MBS-E-019642797.
 
 2408
 
-549
+549
 
 A few weeks later, Mr. Lehman forwarded an email to Goldman executives informing them
 “the market feels that GS is being more aggressive than other dealers moving CDO^2 paper,” and
@@ -36103,7 +36103,7 @@ marks] and that you are not marking these bonds any wider at moment for month en
 
   5/22/2007 email from George Maltezos to John Murphy of Basis Capital Management, JUL 000685. 
 
-2
+2
 
 550
 
@@ -36182,7 +36182,7 @@ unable to locate Goldman’s response to his question.
   6/12/2007 email from Sahil Sachdev to George Maltezos, GS MBS-E-001912398. 
   6/12/2007 email from George Maltezos, PSI-Basis_Capital_Group-03-0001.  Mr. Maltezos emailed Mr.
 
-551
+551
 
 2
 
@@ -36275,7 +36275,7 @@ MBS-E-001918603.
 
 th
 
-552
+552
 
 Timberwolf securities and $50 million in AA rated Timberwolf securities.
    Mr. Lehman told Mr.
@@ -36390,7 +36390,7 @@ Agreement,” JUL 003958.
   Id. at 91. 
   7/16/2007 email from Jon Egol, “Re: Basis,” GS MBS-E-010169281.  Goldman also marked down Basis
 
-553
+553
 
 do as I suggest.  Would like to show stuff today if possible.”
 that he was available to get on the telephone with the clients, and forwarded him the Timberwolf
@@ -36478,7 +36478,7 @@ more if he “got it done”:
   Id. 
   Id. 
 
-554
+554
 
 “Jay and I spoke to the head of Korea Sales today.  He said that he feels we can push for
 H[ungkuk] Life to increase their size from the 36mm of AAA’s and wanted to see if we
@@ -36579,7 +36579,7 @@ the group that Goldman would probably have to lower the values of the CDO assets
   Id.
   6/25/2007 email from Daniel Sparks to Tom Montag, and others, GS MBS-E-010952698.
 
-555
+555
 
 few days, but that the net effect for Goldman would be positive, since its short position was larger
 than its long.  In fact, the Mortgage Department made $42.5 million that day.
@@ -36658,7 +36658,7 @@ Elisha Wiesel, GS MBS-E-001980637.
 
   7/16/2007 email to David Lehman, “Carlyle,” GS MBS-E-011050254. 
 
-556
+556
 
 Still another Goldman employee stated with respect to Timberwolf and Point Pleasant:  “The
 trickiest part about sharing this [pricing] analysis with custies [customers] is that it shows just how
@@ -36734,7 +36734,7 @@ significant profit vs current levels.”
   8/7/2007 email from David Lehman to others, GS MBS-E-001927858.
   See 6/6/2007 email from David Lehman, GS MBS-E-001936955.  Mr. Lehman stated:  “thk abt this – if we
 
-to be MAX $3mm for AAA to AA and $1mm for A and below.  No valuations should go out with a
+to be MAX $3mm for AAA to AA and $1mm for A and below.  No valuations should go out with a
 bid for $10mm.”
 
 2472
@@ -36816,7 +36816,7 @@ E-010857644).
   9/17/2007 email from Christopher Creed, GS MBS-E-000766370, Hearing Exhibit 4/27-106.
   Id.
 
-3/1/2007
+3/1/2007
 3/1/2007
 140
 140
@@ -36935,7 +36935,7 @@ Marks
 Prepared by the U.S. Senate Permanent Subcommittee on Investigations, February 2011. 
 Derived from Goldman Sachs document, GS MBS-E-000779366.
 
-559
+559
 
 Goldman profited in part from Timberwolf’s decline in value due to its 36% short interest in the
 CDO.  In addition, June was the month that Goldman built its $13.9 billion big short, which meant
@@ -36988,7 +36988,7 @@ from Deeb Salem to Michael Swenson, GS MBS-E-012371112.
   Id. at PSI_QFR_GS0239.
   Id. at PSI_QFR_GS0030. 
 
-DD.  Abacus 2007-AC1  
+DD.  Abacus 2007-AC1  
 
 560
 
@@ -37073,7 +37073,7 @@ of structured products.”); 4/2006 Goldman presentation “Overview of Structur
 
   3/12/2007 Goldman memorandum to Mortgage Capital Committee, “ABACUS Transaction sponsored by
 
-561
+561
 
 to loss.
   Abacus also enabled investors to short a selected group of RMBS or CDO securities at
@@ -37144,7 +37144,7 @@ ACA,” GS MBS-E-002406025, Hearing Exhibit 4/27-118.
 
    Id.
 
-562
+562
 
 “Gerstie and I are finishing up engagement letters ... for the large RMBS CDO Abacus trade
 that will help Paulson short senior tranches off a reference portfolio of Baa2 subprime
@@ -37225,7 +37225,7 @@ GS MBS-E-011359460-61, Hearing Exhibit 4/27-115.
 
   SEC deposition of Paolo Pellegrini (12/3/2008), PSI-Paulson-04 (Pellegrini Depo)-0001, at 82-85, 175.
 
-563
+563
 
 “will be flexible w.r.t. [with respect to] portfolio selection (i.e. ideally we will send them a
 list of 200 Baa2-rated 2006-vintage RMBS bonds that fit certain criteria, and the portfolio
@@ -37291,7 +37291,7 @@ Fabrice Tourre, “For ACA,” GS MBS-E-002480516.
   
   Mr. Egol also suggested HBK as a possible portfolio selection agent.  12/18/2006 email from Fabrice Tourre,
 
-564
+564
 
 difficult should be used for trades like Paulson given how axed Paulson seems to be (i.e. I’m
 betting they can give on certain terms and overall portfolio increase).”2506
@@ -37360,7 +37360,7 @@ Announcement (144a/RegS),” GS MBS-E-009209654.
 
   Subcommittee interview of Edward Steffelin (12/10/2010).
 
-565
+565
 
 involvement would improve the sales of the Abacus securities.  In an internal memorandum seeking
 approval of the CDO, for example, Goldman personnel wrote:  “We expect to leverage ACA’s
@@ -37432,7 +37432,7 @@ disclosed that Goldman did use additional criteria listed in draft engagement le
 criteria, which confirms what Mr. Tourre told the Subcommittee in his testimony at the April 27, 2010 Subcommittee
 Hearing.  In the Matter of ABACUS CDO, File No. HO-10911 (SEC), Supplemental Submission on behalf of
 
-rated BBB by S&P or Baa2 by Moody’s.
+rated BBB by S&P or Baa2 by Moody’s.
 listing the securities that met Paulson’s criteria.
 securities, and Goldman forwarded the resulting list to ACA.
   Over the next two months, a series
@@ -37513,7 +37513,7 @@ record in this investigation is clear that the overwhelming majority of the secu
 Goldman Supp. Submission at 13.  However, the Goldman and Paulson documents reviewed by the Subcommittee
 show otherwise.
 
-567
+567
 
 Goldman characterized Paulson’s participation in the asset selection process as one in which
 
@@ -37597,7 +37597,7 @@ ACA,” at 3, GS MBS-E-002406025, Hearing Exhibit 4/27-118.
 
   4/26/2007 Goldman Sachs Offering Circular, “Abacus 2007-AC1, Ltd.,” at 2, GS MBS-E-001918034.
 
-568
+568
 
 “[D]id you hear something on my request to remove Fremont and New Century serviced
 bonds? I would like to try to [sic] the advisory com[m]it[t]ee this week and would need
@@ -37656,7 +37656,7 @@ have personally wanted to know.  It changes the incentives in the structure.
   3/12/2007 email from Jorg Zimmerman (IKB) to Michael Nartey, GS MBS-E-002683134.
   3/12/2007 email from Fabrice Tourre to Jonathan Egol, GS MBS-E-002648826.
 
-569
+569
 
 Senator Levin:  Are people usually putting deals together that want the deal to succeed? 
 Isn’t that the usual assumption?
@@ -37738,7 +37738,7 @@ ABACUS 00004171 at 173.
 
   2/23/2007 handwritten notes of Laura Schwartz, ACA Managing Director of CDO asset management, ACA
 
-  She explained that it was typical for a CDO sponsor
+  She explained that it was typical for a CDO sponsor
 
 Summary matched the general description of an equity tranche, and the wording suggested that
 someone had already committed to buy it.
@@ -37821,7 +37821,7 @@ MBS-E-003504901).
 
  
 
-Mr. Tourre:  Yes.2545
+Mr. Tourre:  Yes.2545
 
 571
 
@@ -37885,7 +37885,7 @@ in an email to Mr. Sparks, writing that if Goldman could place super senior risk
 would pay Goldman an upfront fee and periodic fees reflecting the money Goldman saved Paulson.  9/8/2006 email
 from Fabrice Tourre to Dan Sparks, GS MBS-E-009516671.  Mr. Tourre told the SEC that Paulson was
 
-572
+572
 
 problem with the fee incentive offer was that, while lower premiums would result in lower costs to
 Paulson, it would also result in lower premium payments to the CDO, directly reducing the amount
@@ -37959,7 +37959,7 @@ Mr. Tourre:  Yes.
 
 See also 6/5/2007 email from David Gerst to Jonathan Egol, GS MBS-E-002469912, Hearing Exhibit 4/27-126.  
 
-573
+573
 
 Within months, the high risk subprime mortgages underlying the RMBS securities
 
@@ -38044,7 +38044,7 @@ Complaint against Goldman Sachs at 19.
   Securities and Exchange Commission v. Goldman, Sachs & Co. and Fabrice Tourre, Case No. 10-CV-3229,
 (S.D.N.Y.), Consent of Goldman Sachs, (July 14, 2010), at 1, 2, 10 (hereinafter “Consent of Goldman Sachs”).
 
-574
+574
 
 that the reference portfolio was ‘selected by’ ACA Management LLC without disclosing the
 role of Paulson & Co. Inc. in the portfolio selection process and that Paulson’s economic
@@ -38099,7 +38099,7 @@ Credit Default Swap Calculation Agent, Basis Swap Counterparty, and Basis Swap C
 document prepared by Goldman Sachs, outlining the parties serving each role in Goldman underwritten CDOs, GS
 MBS 0000004337. 
 
-575
+575
 
 Grade 2006-1, Hudson Mezzanine 2006-2, and Anderson Mezzanine 2007-1.
   In each instance,
@@ -38175,7 +38175,7 @@ high grade structured product CDO Squared with Investec (UK) Limited,” GS MBS-
 
   Id.
 
-576
+576
 
 One key issue discussed in the memorandum was whether, by assuming the role of
 liquidation agent, Goldman would trigger registration and disclosure obligations under the
@@ -38231,7 +38231,7 @@ conference call with members of the CDO team and Goldman in-house legal counsel 
   Id.
   Id.
 
-577
+577
 
 to discuss how to carry out Goldman’s CDO liquidation agent responsibilities.  The prior week,
 Moody’s and S&P had suddenly downgraded hundreds of RMBS and CDO securities in the first of
@@ -38296,7 +38296,7 @@ INTERNAL USE ONLY,” GS MBS-E-015240358.
 
   7/17/2006 Goldman memorandum to Mortgage Capital Committee, GS MBS-E-013458155, at 57.  A
 
-578
+578
 
 “Hudson CDOs are non-managed and static in nature and provide term non-recourse funding
 where Goldman Sachs acts as Liquidation Agent on an ongoing basis.  The Liquidation
@@ -38367,7 +38367,7 @@ against discretionary trading by the liquidation agent, Mr. Herrick said that Go
   10/6/2006 email from Michael Halevi to Olivia Ha, GS MBS-E-014338525. 
   Subcommittee interview of Darryl Herrick (10/13/2010).
 
-“discretion based on a rule,” and that the liquidation agent provisions had been vetted with the
+“discretion based on a rule,” and that the liquidation agent provisions had been vetted with the
 credit rating agencies which “probably wanted the deal to avoid forced sales.”
 
 2580
@@ -38452,7 +38452,7 @@ potential upside to waiting to liquidate.”
 
   Id. at 3.  Such an amendment would require investor consent.
 
-580
+580
 
 2. Even keeping the deal the way it is, the decision of when in the 12 month period to 
 liquidate could be better handled by an experienced manager[.]
@@ -38528,7 +38528,7 @@ had fallen in value by November 1 to 7% of par.
 
   Reference asset MSAC 2006-WMC2 B3.  See 1/3/2008 email from Shelly Lin to Mr. Sparks, GS MBS-E-
 
-581
+581
 
 At the end of November, Goldman reached an agreement with Trust Company of the West
 (TCW), subject to investor approval, in which Goldman would assign its liquidation agent duties to
@@ -38609,7 +38609,7 @@ Goldman Sachs.]
 2601
 MBS-E-021880172). 
 
-Credit Risk Assets (%) 
+Credit Risk Assets (%) 
 
 35.00% 
 
@@ -38655,7 +38655,7 @@ c: e ...
 
 Date 
 
-583
+583
 
 The spreadsheet also showed that the weighted average values of the Hudson assets had fallen
 dramatically, causing losses that could have been avoided had Goldman liquidated them sooner. 
@@ -38698,7 +38698,7 @@ investors in the Hudson CDO, such as Morgan Stanley.2604
 2604
 investor whose investment was not completely extinguished. 
 
-Weighted Average  Levels 
+Weighted Average  Levels 
 
 60.00% 
 
@@ -38736,7 +38736,7 @@ Date
 
 12/13/2007 
 
-585
+585
 
 Morgan Stanley personnel expressed increasing frustration with Goldman’s failure to
 liquidate the Hudson Credit Risk Assets, in both internal communications and with Goldman
@@ -38801,7 +38801,7 @@ government intervention, to produce “any kind of real pop” that would improv
 2609
 2/28/2008 email from Sue Fertel-Kramer to Mr. Case and others, GS MBS-E-021881029. 
 
-586
+586
 
 fundamentals in the mortgage market.  Mr. Case responded:  “The chance that it could move in that
 direction, at least in the next few months . . . is de minimis I’d say.”
@@ -38871,7 +38871,7 @@ Transactions by the Liquidation Agent Under Certain Circumstances,” GS MBS- E-
 
   2/29/2008 letter from Morgan Stanley to Goldman, HUD-CDO-00006877 [emphasis in original]. 
 
-587
+587
 
 Morgan Stanley concluded by “demanding only that [Goldman] fulfill its contractual duties as
 required by the Liquidation Agency Agreement and assign, terminate or otherwise dispose of the
@@ -38940,7 +38940,7 @@ Dispositions of Assets,” HUD-CDO-00003155.
 
   See 6/6/2008 letter from Goldman as liquidation agent, “Hudson Mezzanine Funding 2006-1, Ltd. - Certain
 
-588
+588
 
 were liquidated in November 2008.  Morgan Stanley’s losses from its Hudson investment exceeded
 $930 million.2619
@@ -38993,7 +38993,7 @@ swap collateral or make payments to a short party.  If any credit event resulted
 collateral account to the short parties under the CDS contracts, the long parties might not receive all of their principal
 investment at the maturity of the deal. 
 
-589
+589
 
 2621
 
@@ -39059,7 +39059,7 @@ securities.
 
   The Timberwolf Indenture agreement referred to this role as the “Synthetic Security Counterparty.”  See
 
-590
+590
 
 satisfy the amount owed to GSI under the CDS contracts.
 received from the sale proceeds to pay off the short parties in the corresponding CDS contracts. 
@@ -39125,7 +39125,7 @@ Hudson Mezzanine 2006-1, which yielded a profit of approximately $1 million.  Se
 
   See 3/27/2007 Timberwolf I, LTD. Indenture Agreement, at § 12.5(b), GS MBS-E-021825583 at 712.  For
 
-591
+591
 
 the CDO indenture agreements did not specifically cite the connection between GSI’s bearing the
 market risk of the default swap collateral sales and receiving a CDS premium discount.  The CDO
@@ -39189,7 +39189,7 @@ C
 
 •
 
-to make all of the payments needed pursuant to Goldman’s own short positions as well as any
+to make all of the payments needed pursuant to Goldman’s own short positions as well as any
 payments it would need to make to other short parties. 
 
 592
@@ -39267,7 +39267,7 @@ and Anderson Mezzanine.
 
   Id.  Mr. Bieber listed the following CDOs:  Adirondack 1; Adirondack 2; Coolidge Funding; Broadwick;
 
-593
+593
 
 to “get a sense of the MV [market value] supporting the deals[’] obligation to pay us, if
 necessary.”
@@ -39330,7 +39330,7 @@ for us to take the non-reinvestment approach.”2638
    Id.  Greywolf Capital was the collateral manager of the Timberwolf CDO.
   7/25/2007 email from Matthew Bieber, GS MBS-E-001989091.
 
-594
+594
 
 The next day, on July 26, 2007, the collateral manager of one of Goldman’s CDOs sought
 
@@ -39405,7 +39405,7 @@ potential benefit to the long investors which conflicted with the interest of Go
 
   8/21/2007 email from Matthew Bieber to David Lehman, GS MBS-E-011273913.
 
-595
+595
 
 Greywolf Objections.  Over the next three or four weeks, Goldman continued to refuse to
 consent to the purchase of new default swap collateral securities by the collateral managers of its
@@ -39473,7 +39473,7 @@ become meaningful.”).
   9/6/2007 email from Joe Marconi to David Lehman, GW 107909.
   Subcommittee interview of Joseph Marconi (Greywolf Capital) (10/19/2010).
 
-596
+596
 
 “David:  As we discussed yesterday, I believe that your refusal to approve the purchase of
 any additional Default Swap Collateral into Timberwolf is unreasonable and inconsistent
@@ -39535,7 +39535,7 @@ and was not “objected to” by Goldman as the “Synthetic Security Counterpar
 ‘pay-as-you-go’ credit default swaps.  As part of the purchase of each Synthetic Security on or before the Closing
 Date, the Issuer will be required to purchase Default Swap Collateral which satisfies the Default Swap Collateral
 
-597
+597
 
 whether that authority allowed Goldman to block the purchase of all default swap collateral
 securities and essentially limit the default swap collateral to cash.  In a July 2007 email, Mr. Bieber
@@ -39604,7 +39604,7 @@ Default Swap Collateral.”  3/27/2007 Timberwolf I, LTD. Indenture Agreement, G
   Id.
   9/7/2007 email from Susan Helfrick to Matthew Bieber, Tim Saunders, and Jordan Horvath, GS MBS-E-
 
-598
+598
 
 it, the key participants said they could not recall whether the meeting took place, what was
 discussed at the meeting if it did take place, or what determinations were reached regarding
@@ -39661,7 +39661,7 @@ to “slmas” is to asset backed securities that were issued by Sallie Mae and 
 
   Id.
 
-2661
+2661
 
 loans.
 to speak first with Mr. Sparks, head of the Mortgage Department.2662
@@ -39742,7 +39742,7 @@ See 9/24/2007 email from Benjamin Case to Marty Devote of Aladdin Capital Manage
 9/20/2007 email from Matthew Bieber to Vincent Fiorillo of Trust Company of the West, GS MBS-E-022141026-
 27. 
 
-600
+600
 
 “Here are the shelves we’d like to use for default swap collateral reinvestment.
 RMBS: CBASS, GSAA, GSAMP, JPMAC, WFHET
@@ -39811,7 +39811,7 @@ Mezzanine 2006-1, and Hudson Mezzanine 2006-2.  Goldman lost $1.018 billion from
 provider for their default swap collateral securities.  See Goldman response to Subcommittee QFR at
 PSI_QFR_GS0280.
 
-601
+601
 
 Analysis.  In its synthetic CDOs, Goldman arranged for its subsidiary, GSI, to act as both
 the primary CDS counterparty and the collateral put provider.  Goldman also arranged for GSI to
@@ -39832,7 +39832,7 @@ financial institution that plays multiple roles in a CDO can develop conflicts o
 to manipulate the CDO to place its own financial interests before those of the investors to whom it
 sold the CDO securities.
 
-602 
+602 
 
  
 
@@ -39900,7 +39900,7 @@ months, enhancing its financial gain as the CDO’s short party at the expense o
 long parties whose losses would have been staunched if the assets had been 
 liquidated. 
 
- 
+ 
 
 603 
 
@@ -39958,7 +39958,7 @@ the securities activities they undertake.  In the matters examined by the Subcom
 roles under the securities laws include market maker, underwriter, placement agent, broker-
 dealer, and investment adviser.   
 
-604 
+604 
 
  
 
@@ -40024,7 +40024,7 @@ operates fairly and honestly.”  See FINRA website, http://www.finra.org.
 
 http://finra.atgnow.com/finra/categoryBrowse.do. 
 
-605 
+605 
 
  
 
@@ -40084,7 +40084,7 @@ thrive.”).  See also Goldman response to Subcommittee QFR, at PSI_QFR_GS0046.
 2678  Basic v. Levinson, 485 U.S. 224, 231-32 (1988) (quoting TSC Industries, Inc. v. Northway, Inc., 426 U.S. 438, 
 449 (1976)). 
 
-606 
+606 
 
  
 
@@ -40155,7 +40155,7 @@ economic interest.  The duty to disclose this information is triggered, however,
 recommends a security.  Id. 
 2682  SEC Study on Investment Advisers and Broker-Dealers at 56, n.252. 
 
- 
+ 
 
 607 
 
@@ -40218,7 +40218,7 @@ from a failure to disclose material facts); Department of Enforcement v. Kesner,
 2005001729501 (February 26, 2010) (finding sophistication of investors does not relieve a securities representative 
 from disclosing material facts to investors). 
 
-608 
+608 
 
  
 
@@ -40284,7 +40284,7 @@ believed there was a difference between a “customer” and a “client,” Mr.
 distinguished” between the two terms.  Subcommittee deposition of Lloyd Blankfein (12/15/2009), Hearing Exhibit 
 4/27-176 [Sealed Exhibit]. 
 
-609 
+609 
 
 must never make the mistake of offering investments to his clients which he does not 
 believe to be good.”2693
@@ -40350,7 +40350,7 @@ range of clients around the world.
 the meaning of the Investment Advisers Act when recommending that various customers buy its RMBS and CDO 
 securities.  
 
-610 
+610 
 
  
 
@@ -40414,7 +40414,7 @@ of a sophisticated institutional investor that approached the firm specifically 
 Reverse inquiries from clients were a common feature of this market.”   
 2699  April 27, 2010 Subcommittee Hearing Transcript at 26-27. 
 
-611 
+611 
 
 was an intermediary between highly sophisticated professional investors – all of which 
 were institutions.  None of my clients were individual, retail investors.”2700
@@ -40481,7 +40481,7 @@ There is no trouble in your mind –
                                                            
 2700  Prepared statement of Fabrice Tourre, April 27, 2010 Subcommittee Hearing at 1.  
 
-612 
+612 
 
 Mr. Blankfein:  Senator, I am sorry.  I can’t endorse your characterization. 
 
@@ -40564,7 +40564,7 @@ making.’”2704
 (5/1/2010), http://www.huffingtonpost.com/2010/05/01/goldman%1esachs%1elloyd%1eblank_n_559606.html 
 (video of Charlie Rose interview of Lloyd Blankfein embedded).   
 
-613 
+613 
 
  
 During the interview, Mr. Blankfein compared Goldman’s activity to that of the New York Stock 
@@ -40626,7 +40626,7 @@ Viniar (4/13/2010).
 2708  12/14/2006 email from Kevin Gasvoda to his staff, “Retained bonds,” GS MBS-E-010935323, Hearing Exhibit 
 4/27-72. 
 
-614 
+614 
 
  
 month:  “They structured like mad and traveled the world, and worked their tails off to make 
@@ -40688,7 +40688,7 @@ Trading Desk “a fairly lengthy list of accounts that are considered to be ‘k
 2718  See, e.g., 5/20/2007 email from George Maltezos to Mr. Lehman, “T/wolf and Basis,” GS MBS-E-001863555; 
 5/22/2007 email from Mr. Maltezos to Basis Capital, JUL 000685. 
 
-615 
+615 
 
  
 Timberwolf securities to a Korean life insurance firm was encouraged to “Get ‘er done” and “go 
@@ -40751,7 +40751,7 @@ reasonable investor would place on the withheld or misrepresented information.�
 the originator.  Equity tranches are typically not rated by the credit rating agencies and often not sold to third 
 parties. 
 
-616 
+616 
 
 Goldman did not accurately or fully disclose its short interest in Hudson, Anderson, or 
 Timberwolf to potential investors.2723
@@ -40811,7 +40811,7 @@ The Goldman offering circulars for Timberwolf and Anderson contain similar secti
 Offering Circular, “Timberwolf I, LTD.,” GS MBS-E-021825371 at 427; 3/16/2007 Goldman Offering Circular, 
 “Anderson Mezzanine Funding 2007-1, LTD.,” GS MBS-E-000912574, at 623.  
 
- 
+ 
 the sole counterparty to the investors buying Hudson securities, thereby acquiring a $2 billion 
 financial interest that was directly adverse to theirs.2725
 
@@ -40871,7 +40871,7 @@ the broker-dealer’s conflict of interest).
 2727  Goldman sometimes referred to this position as the “Credit Protection Buyer” or “Synthetic Security 
 Counterparty.” 
 
- 
+ 
 
 Goldman’s failure to disclose its short interest was further compounded when it told 
 
@@ -40929,7 +40929,7 @@ was shorting some of the assets underlying Timberwolf using CDS contracts outsid
 (identifying lenders whose stock Goldman shorted).   
 2738  See discussion of Goldman’s net short positions, section C(4)(b), above. 
 
-specific CDOs as well as the subprime mortgage market as a whole, Goldman failed to disclose 
+specific CDOs as well as the subprime mortgage market as a whole, Goldman failed to disclose 
 other arrangements which created conflicts of interest and undisclosed financial interests that 
 were adverse to its clients.  Concerning Abacus, Goldman failed to disclose a compensation 
 arrangement in which Goldman agreed to accept a fee for arranging low premium payments by 
@@ -40990,7 +40990,7 @@ information and would have conveyed it to his customers, because it indicated th
 confidence in ... [the] notes.”  Id. 
 2740  Each of these matters is discussed in detail, above. 
 
- 
+ 
 
 620 
 
@@ -41050,7 +41050,7 @@ Tourre] created without necessarily understanding all the implications of these 
 
   When asked by the 
 
-621 
+621 
 
  
 
@@ -41112,7 +41112,7 @@ Goldman, Sachs & Co (July 14, 2010).
 2758  Goldman response to Subcommittee QFR at PSI_QFR_GS0249.  
 2759  9/20/2006 email from Arbind Jha to Josh Birnbaum, GS MBS-E-012685289. 
 
- 
+ 
 Management, to “leverage ACA’s credibility.”2760  In Hudson, Goldman omitted that it had 
 written all of the CDO’s CDS contracts and it referenced $1.2 billion in ABX assets in 
 Goldman’s own inventory, and instead told investors that Hudson’s assets were “sourced from 
@@ -41172,7 +41172,7 @@ email from Mr. Ostrem to Scott Wisenbaker and Matthew Bieber, GS MBS-E-000898410
 
  reviewed had 
 
-623 
+623 
 
  
 deficiencies and should be returned to the lender for refunds.  Goldman nevertheless continued to 
@@ -41232,7 +41232,7 @@ points for Goldman personnel to respond to investor concerns about the New Centu
 2777  6/22/2007 email from Mr. Montag to Mr. Sparks, “Few Trade Posts,” GS MBS-E-010849103, Hearing Exhibit 
 4/27-105.   
 
-624 
+624 
 
 Goldman CEO Lloyd Blankfein said publicly about the firm’s securities:  “If we believed 
 
@@ -41301,7 +41301,7 @@ the Bank Holding Company Act of 1956, to be codified at 12 U.S.C. §1851.  Regul
 also known as the Merkley-Levin provisions after the Senators who authored them or the Volcker Rule after former 
 Federal Reserve Chairman Paul Volcker who championed the ban, are due by October 2011.   
 
-625 
+625 
 
  
 recently issued “Report of the Business Practices Committee,” Goldman reaffirmed as its first 
@@ -41360,7 +41360,7 @@ http://seekingalpha.com/article/183723-the-goldman-sachs-group-inc-q4-2009-earni
 Goldman’s change in its reporting categories implemented one of the recommendations outlined in Goldman’s 
 “Report of the Business Standards Committee” published in January 2011.  
 
-626 
+626 
 
  
 for $7.5 billion, or about 20% of Goldman’s net revenues.2786
@@ -41420,7 +41420,7 @@ and the “appropriateness” of each activity for a federally insured bank.
 2791  Id. 
 2792  Id. 
 
-627 
+627 
 
  
 declined to estimate or calculate how much of the Mortgage Department=s 2007 revenues or 
@@ -41477,7 +41477,7 @@ determine.”  12 U.S.C. ' 1851(h)(4).  The Act further defines “trading accou
 or for capturing profits from “short term price movements.”  Section 1851(h)(6).  These provisions are subject to 
 further refinement through implementing regulations. 
 
-628 
+628 
 
  
 while the term “flow” was used to refer to market-making transactions involving, or for the 
@@ -41544,7 +41544,7 @@ going through their desk”).
 MBS-E-013797964. 
 2803  Id. 
 
- 
+ 
 
 $ 
 
@@ -41615,7 +41615,7 @@ also “Proprietary Trading Goes Under Cover:  Michael Lewis,” Bloomberg, (10/
 who reportedly said “from here on out, if he wants to take a proprietary position ... he will argue that he bought the 
 position because a customer wanted to sell the position, and he was providing liquidity”). 
 
-630 
+630 
 
  
 behalf of its clients.  First, the two net short positions – totaling $10 billion in February and 
@@ -41677,7 +41677,7 @@ telling the sales team they had done an “incredible job B just incredible”).
 sales, “CDO protection,” GS MBS-E-012445931.  See also 9/7/2007 Fixed Income, Currency and Commodities 
 Annual Individual Review Book, Salem 2007 Self-Review, GS-PSI-03157 at 71 (in his self-evaluation Mr. Salem 
 
-631 
+631 
 
  
 told Goldman’s Chief Risk Officer Mr. Broderick that the Mortgage Department was no longer 
@@ -41737,7 +41737,7 @@ back,” clearly identifying Hudson as a “prop” or proprietary transaction. 
 Sparks, GS MBS-E 010916991, Hearing Exhibit 4/27-59.  See also 2/25/2007 email exchange between Peter Ostrem 
 and Matthew Bieber, at GS MBS-E-001996601, Hearing Exhibit 4/27-95 (Mr. Ostrem proposed allowing a hedge 
 
- 
+ 
 In a later presentation put together to propose a new compensation arrangement for the SPG 
 Trading Desk’s trading activities, Mr. Birnbaum was unequivocal that the net shorts the desk had 
 acquired were not hedges to offset risk, but “outright” short investments to produce profits:  
@@ -41800,7 +41800,7 @@ Birnbaum’s response to Subcommittee QFR at PSI_QFR_GS0509.
 2816  9/7/2007 Fixed Income, Currency and Commodities Annual Individual Review Book, Salem 2007 Self-Review, 
 GS-PSI-03157, at 71.  
 
-633 
+633 
 
  
 single name CDS and reductions of ABX.”2817  In September 2007, the Goldman Board of 
@@ -41863,7 +41863,7 @@ earlier draft.
 single names.”). 
 2822  11/18/2007 email from Mr. Blankfein, “NYT,” GS MBS-E-009696333, Hearing Exhibit 4/27-52. 
 
-634 
+634 
 
  
 making activities.2823
@@ -41921,7 +41921,7 @@ Hedge Funds & Private Equity Funds,” at 22-44.
 2826  8/10/2007 email from Mr. Sparks to Mr. Ostrem, “Leh CDO Fund,” GS MBS-E-010898476. 
 2827  Subcommittee interview of Daniel Sparks (10/4/2010). 
 
-635 
+635 
 
 In March 2007, after a series of large trades with the Harbinger hedge fund on the ABS 
 Desk, Deeb Salem, an ABS trader, emailed Mr. Birnbaum, Mr. Swenson, and Mr. Chin with a 
@@ -41988,7 +41988,7 @@ man in this space, up 2-3 bil on this trade.  We were giving him a run for his m
 definitive #2.”). 
 2834  See slides prepared by Mr. Birnbaum, “SPG Trading B 2007,” GS MBS-E-015654036 -50. 
 
-D.   Preventing Investment Bank Abuses   
+D.   Preventing Investment Bank Abuses   
 
 Developments over the past two years offer a number of ways to address problems 
 
@@ -42055,7 +42055,7 @@ holding companies and so are subject to the ban on proprietary trading.
 2838  Section 619 of the Dodd-Frank Act (creating a new §13(a) in the Banking Holding Company Act of 1956). 
 2839  Id. at §13(d)(1). 
 
-Investment banks that have no bank affiliation are not subject to the law's proprietary 
+Investment banks that have no bank affiliation are not subject to the law's proprietary 
 
  
 counterparties,” or that would result “in a material exposure by the banking entity to high-risk 
@@ -42117,7 +42117,7 @@ Street Bank bailed out the funds it managed, but then itself needed several emer
 2844  “Lesson Not Learned: On Redesigning Our Current Financial System,” GMO Newsletter Special Topic, at 2 
 (10/2009), available at http://www.scribd.com/doc/21682547/Jeremy-Grantham. 
 
-Study of Banking Activities.  Section 620 of the Dodd-Frank Act directs banking 
+Study of Banking Activities.  Section 620 of the Dodd-Frank Act directs banking 
 
 The Dodd-Frank Act contains two conflict of interest prohibitions to restore the ethical 
 
@@ -42179,7 +42179,7 @@ To prevent investment bank abuses and protect the U.S. financial system from fut
 72 Fed. Reg. 7 (1/11/2007) (issued by the Office of the Comptroller of the Currency; Office of Thrift Supervision; 
 Federal Reserve System; Federal Deposit Insurance Corporation; and Securities and Exchange Commission). 
 
- 
+ 
  
 
  
@@ -42224,4 +42224,4 @@ instruments.
 
 #  #  # 
 
-
+
